@@ -1,0 +1,14 @@
+[Unit]
+Description=Corrosion Monitoring System
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/opt/corrosion-monitor
+EnvironmentFile=/opt/corrosion-monitor/.env
+ExecStart=/usr/local/bin/streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

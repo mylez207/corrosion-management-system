@@ -1,0 +1,4 @@
+sample_location,sample_date,Fe2O3_percent,Fe_percent,SiO2_percent,SO3_percent,Na2O_percent,CaO_percent,MnO_percent,Al2O3_percent,Cl_percent,MgO_percent,Cr2O3_percent,Co2O3_percent,corrosion_severity,corrosion_implication
+Cyclone,2025-05-19,83.51,58.41,5.56,3.3,2.23,1.94,1.16,0.68,0.56,0.4,0.21,0.21,High,Severe corrosion (oxidation and MIC)
+Madimba,2025-05-19,94.15,65.85,2.54,0.12,0.01,0.27,1.22,0.7,0.14,0.29,0.18,0.24,Severe,Metal loss in carbon steel
+Songosongo,2025-05-19,61.81,43.23,24.75,0.01,0.77,1.68,0.88,7.96,0.1,0.69,0.01,0.14,Moderate,Erosive wear from particulate ingress

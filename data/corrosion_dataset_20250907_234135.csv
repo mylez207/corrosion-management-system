@@ -1,0 +1,1501 @@
+sample_location,sample_date,Fe2O3_percent,Fe_percent,SiO2_percent,SO3_percent,Na2O_percent,CaO_percent,MnO_percent,Al2O3_percent,Cl_percent,MgO_percent,Cr2O3_percent,Co2O3_percent,corrosion_severity,corrosion_implication
+Songosongo,01/04/2021,76.87,53.76,21.58,1.49,0.05,0.2,0.1,0.5,0.25,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Kigoma,12/04/2020,48.7,34.06,34.4,0.07,0.35,7.6,2.9,0.72,0.11,1.8,0.2,0.55,Low,Light surface scaling
+Njombe,31/01/2023,72.83,50.94,26.32,1.89,0.05,0.2,0.1,0.5,0.54,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Kigoma,30/09/2022,78.97,55.24,9.97,0.82,0.12,2.47,0.16,2.72,1.18,0.6,1.55,0.5,High,Severe corrosion (oxidation and MIC)
+Iringa,03/07/2022,72.73,50.87,20.36,1.04,0.33,0.36,0.11,0.35,0.43,1.21,0.94,0.73,Moderate,Uniform corrosion with scaling
+Madimba,25/07/2021,63.87,44.67,24.8,1.16,0.81,1.29,0.16,1.41,0.22,1.77,0.11,0.23,Low,Acceptable corrosion rates
+Iringa,23/02/2021,79.79,55.81,6.38,1.34,0.87,3.3,1.97,1.29,1.48,0.5,0.69,0.51,High,Extensive uniform corrosion
+Tanga,22/12/2020,67.32,47.09,25.36,0.27,0.03,0.22,1.37,0.74,0.36,1.21,0.96,0.19,Moderate,Moderate crevice corrosion
+Cyclone,24/09/2024,73.8,51.61,20.47,1.15,0.1,1.73,0.76,0.43,0.31,0.38,0.19,0.58,Moderate,Moderate pitting observed
+Njombe,10/05/2020,78.23,54.72,7.67,4.12,0.89,2.99,0.06,0.66,0.41,0.46,1.39,0.53,Severe,Metal loss in carbon steel
+Mbeya,02/05/2020,53.49,37.41,26.79,0.29,0.14,5.98,1.99,5.07,0.31,1.42,0.74,0.22,Low,Slight discoloration only
+Bukoba,18/01/2021,56.79,39.72,33.58,0.61,0.83,2.87,0.6,0.93,0.22,0.14,0.36,0.75,Low,Acceptable corrosion rates
+Pemba,14/06/2022,93.3,65.25,1.17,2.17,0.03,0.7,0.29,0.5,1.42,0.17,0.06,0.19,High,Severe corrosion (oxidation and MIC)
+Singida,10/08/2022,58.9,41.19,26.98,1.16,0.19,0.55,1.86,2.95,0.6,2.77,1.04,0.7,Moderate,Selective corrosion activity
+Bukoba,31/08/2025,88.94,62.21,4.95,3.4,0.05,0.54,0.26,0.7,0.72,0.18,0.08,0.17,Severe,Rapid corrosion propagation
+Dar es Salaam,18/04/2020,71.15,49.76,26.24,1.61,0.01,0.11,0.08,0.28,0.37,0.1,0.02,0.03,Moderate,Erosive wear from particulate ingress
+Mbeya,25/03/2022,67.22,47.02,22.2,1.13,0.19,1.44,0.54,3.45,0.62,1.1,0.56,0.07,Moderate,Selective corrosion activity
+Dodoma,14/09/2024,63.51,44.42,36.79,1.0,0.05,0.2,0.1,0.5,0.19,0.1,0.05,0.05,Very Low,Optimal material performance
+Mtwara,21/06/2022,43.33,30.31,43.42,0.66,0.12,3.46,0.37,4.78,0.19,0.2,0.05,0.08,Low,Acceptable corrosion rates
+Shinyanga,13/01/2025,56.64,39.61,25.52,0.71,1.36,1.68,0.4,5.59,0.17,2.12,1.76,0.59,Moderate,Moderate crevice corrosion
+Tabora,13/02/2023,80.64,56.4,9.26,1.46,0.21,0.97,0.55,2.92,1.29,0.93,0.99,0.69,Severe,Critical stress corrosion cracking
+Mtwara,27/01/2020,72.27,50.55,13.65,1.53,0.36,3.85,0.73,2.54,0.74,1.69,0.03,0.73,Moderate,General surface corrosion
+Songosongo,15/10/2021,37.77,26.42,43.67,1.14,1.59,2.91,0.91,4.45,0.25,1.05,1.51,0.64,Low,Acceptable corrosion rates
+Singida,27/09/2024,76.82,53.73,1.63,2.63,0.29,6.48,1.09,3.33,1.0,0.42,1.53,0.5,Severe,Severe localized attack
+Madimba,25/10/2023,62.89,43.99,38.34,1.18,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Low,Protective oxide layer formation
+Lindi,12/02/2023,50.97,35.65,33.75,0.9,1.91,1.74,2.61,2.29,0.39,0.74,0.03,0.78,Low,Minor surface oxidation
+Njombe,28/09/2021,47.15,32.98,32.12,1.16,1.88,3.2,1.9,5.46,0.27,1.79,0.1,0.23,Very Low,Excellent corrosion resistance
+Madimba,31/05/2022,92.81,64.91,7.82,2.49,0.05,0.2,0.1,0.5,0.71,0.1,0.05,0.05,High,Extensive uniform corrosion
+Arusha,10/10/2023,43.55,30.46,33.76,0.43,0.36,6.67,1.93,8.65,0.08,1.1,1.63,0.55,Low,Light surface scaling
+Iringa,22/02/2021,49.54,34.65,43.18,0.51,0.98,0.18,0.91,0.4,0.35,1.62,0.22,0.48,Low,Light surface scaling
+Tabora,14/01/2021,64.54,45.14,12.9,0.62,0.76,7.13,2.84,6.96,0.71,1.0,1.44,0.68,Moderate,Moderate pitting observed
+Madimba,05/04/2024,43.02,30.09,43.76,0.16,0.17,3.86,1.87,1.4,0.26,0.87,1.35,0.42,Low,Acceptable corrosion rates
+Lindi,31/01/2021,85.4,59.73,7.07,3.95,0.23,0.39,0.11,0.93,1.02,0.11,0.3,0.49,Severe,Rapid corrosion propagation
+Mbeya,10/01/2024,49.88,34.89,43.64,1.04,0.51,0.87,0.29,2.0,0.1,0.45,0.36,0.27,Low,Minor surface oxidation
+Pemba,09/11/2023,63.38,44.33,23.05,1.06,0.98,2.65,0.23,4.01,0.18,1.92,0.1,0.23,Moderate,Moderate pitting observed
+Tanga,19/12/2022,89.97,62.92,3.3,1.48,0.35,1.1,0.38,1.02,0.81,0.42,0.04,0.21,Severe,Metal loss in carbon steel
+Njombe,26/06/2020,92.9,64.98,6.85,2.69,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Morogoro,24/02/2025,70.62,49.39,19.98,1.6,0.1,1.75,1.23,1.77,0.21,0.55,0.38,0.3,Moderate,Uniform corrosion with scaling
+Bukoba,26/05/2021,68.13,47.65,27.78,0.78,0.09,0.21,0.17,0.49,0.54,0.26,0.18,0.24,Moderate,Uniform corrosion with scaling
+Iringa,30/03/2024,60.87,42.57,32.16,0.11,0.49,0.32,0.62,2.63,0.19,1.21,0.69,0.21,Low,Protective oxide layer formation
+Mtwara,18/11/2020,51.75,36.19,33.03,1.12,0.75,4.67,0.6,1.77,0.25,0.95,1.02,0.2,Low,Minimal corrosion activity
+Musoma,15/04/2023,63.6,44.48,37.73,0.16,0.05,0.2,0.1,0.5,0.38,0.1,0.05,0.05,Low,Minimal corrosion activity
+Mbeya,21/01/2024,45.92,32.12,41.68,0.44,0.38,1.78,0.95,3.9,0.19,1.0,1.5,0.41,Low,Light surface scaling
+Tanga,26/02/2022,60.98,42.65,32.68,0.47,0.18,0.32,1.39,1.49,0.37,0.62,0.13,0.64,Low,Minor surface oxidation
+Bukoba,11/10/2020,67.27,47.05,24.62,1.8,0.51,0.71,1.32,0.96,0.25,0.14,1.11,0.7,Moderate,Uniform corrosion with scaling
+Songosongo,06/07/2020,73.89,51.68,25.54,0.31,-0.04,-0.04,0.04,0.18,0.23,0.06,-0.07,0.01,Moderate,Uniform corrosion with scaling
+Mwanza,22/07/2022,67.48,47.2,17.53,0.58,1.21,2.66,1.04,5.17,0.27,1.03,0.29,0.47,Moderate,General surface corrosion
+Kigoma,31/03/2023,69.06,48.3,25.95,0.13,0.05,1.09,0.72,1.06,0.76,0.38,0.28,0.49,Moderate,Moderate pitting observed
+Dodoma,22/11/2020,71.94,50.31,26.81,1.88,0.05,0.2,0.1,0.5,0.44,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Songosongo,11/08/2022,64.39,45.04,21.37,1.01,0.07,2.21,1.47,4.51,0.37,0.8,0.68,0.64,Low,Protective oxide layer formation
+Zanzibar,17/02/2021,48.61,34.0,34.85,0.33,1.34,2.75,0.92,3.67,0.19,2.85,0.29,0.7,Very Low,Stable protective coating
+Arusha,05/04/2024,75.57,52.86,18.8,1.62,0.07,0.91,0.6,0.63,0.16,0.25,0.69,0.68,Moderate,Uniform corrosion with scaling
+Mwanza,12/02/2023,55.25,38.64,26.4,0.36,1.78,3.95,2.01,4.25,0.72,0.58,0.84,0.31,Moderate,Moderate crevice corrosion
+Morogoro,31/01/2025,68.03,47.58,22.62,1.0,0.72,0.65,0.11,2.3,0.76,0.55,0.11,0.4,Moderate,General surface corrosion
+Musoma,03/02/2024,70.98,49.64,21.44,0.62,0.26,2.79,0.22,0.51,0.38,1.16,0.19,0.44,Moderate,Uniform corrosion with scaling
+Mbeya,28/10/2021,89.64,62.7,8.25,3.78,0.05,0.2,0.1,0.5,1.16,0.1,0.05,0.05,Severe,Severe localized attack
+Madimba,25/02/2024,79.99,55.95,3.43,2.61,0.19,0.25,2.13,4.73,1.49,1.99,1.09,0.73,Severe,Critical stress corrosion cracking
+Mbeya,26/12/2023,52.9,37.0,42.96,0.36,0.07,0.55,0.54,1.3,0.39,0.36,0.29,0.04,Very Low,Passive corrosion behavior
+Morogoro,08/05/2022,69.4,48.54,21.85,1.78,0.36,2.76,0.08,0.36,0.3,1.23,1.06,0.64,Moderate,Moderate pitting observed
+Pemba,29/12/2022,82.01,57.36,5.42,3.64,0.18,2.58,1.3,2.12,0.93,0.64,0.31,0.59,High,Severe corrosion (oxidation and MIC)
+Songosongo,19/10/2020,59.49,41.6,35.69,0.97,0.39,0.71,0.4,0.4,0.24,0.29,0.42,0.07,Low,Acceptable corrosion rates
+Pemba,01/12/2021,52.33,36.6,40.98,0.1,0.4,1.52,1.15,1.38,0.22,0.39,0.52,0.22,Low,Minimal corrosion activity
+Mbeya,27/12/2025,89.17,62.37,8.67,3.9,0.05,0.2,0.1,0.5,1.15,0.1,0.05,0.05,Severe,Significant wall thinning
+Njombe,29/09/2022,72.31,50.58,26.09,0.4,-0.0,0.09,0.05,0.3,0.72,0.07,0.01,0.01,Moderate,Moderate crevice corrosion
+Zanzibar,31/10/2021,85.15,59.55,4.16,0.82,0.39,1.72,0.41,3.46,1.08,0.85,0.92,0.09,Severe,Deep penetration corrosion
+Cyclone,08/03/2025,85.83,60.03,4.76,4.36,0.03,0.22,0.84,1.49,1.1,0.42,0.18,0.57,Severe,Deep penetration corrosion
+Mwanza,03/04/2024,48.29,33.77,34.76,0.42,0.1,5.2,2.13,5.78,0.07,1.03,1.01,0.03,Very Low,Optimal material performance
+Njombe,10/01/2023,59.74,41.79,38.81,0.93,-0.04,0.05,0.04,0.12,0.35,0.1,-0.04,0.01,Very Low,No significant deterioration
+Madimba,18/06/2022,65.47,45.79,13.16,0.12,2.28,4.84,0.91,4.16,0.41,2.12,1.56,0.04,Moderate,General surface corrosion
+Songosongo,21/08/2023,57.41,40.16,27.79,0.56,0.02,3.45,2.12,2.94,0.24,1.27,0.66,0.42,Moderate,General surface corrosion
+Singida,17/08/2020,57.59,40.28,42.16,0.11,0.05,0.2,0.1,0.5,0.24,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Mbeya,27/07/2022,84.05,58.78,6.79,3.18,0.88,0.23,0.44,0.43,1.2,0.32,0.33,0.78,Severe,Rapid corrosion propagation
+Iringa,11/05/2020,59.19,41.4,22.54,1.6,1.27,4.51,0.72,3.73,0.47,2.88,1.2,0.17,Moderate,Selective corrosion activity
+Madimba,16/07/2023,55.92,39.11,21.26,1.75,0.72,3.6,2.63,6.07,0.44,2.71,0.56,0.48,Moderate,Selective corrosion activity
+Dar es Salaam,01/07/2024,79.21,55.4,7.95,3.1,0.21,2.83,1.82,0.71,1.21,0.31,1.55,0.15,High,Severe intergranular attack
+Shinyanga,01/01/2023,84.85,59.34,10.58,1.71,0.09,0.32,0.28,0.55,0.89,0.14,0.35,0.21,Severe,Rapid corrosion propagation
+Mbeya,28/09/2020,64.91,45.4,21.87,0.57,1.51,1.0,0.16,1.05,0.61,2.24,0.95,0.68,Moderate,Uniform corrosion with scaling
+Singida,14/05/2022,86.71,60.64,3.26,4.01,0.04,0.23,0.97,0.81,0.52,1.31,0.17,0.37,Severe,Metal loss in carbon steel
+Kagera,12/07/2023,81.32,56.88,1.46,2.68,0.52,4.09,0.06,5.52,0.56,1.65,1.12,0.37,High,Aggressive pitting corrosion
+Rukwa,20/05/2022,66.24,46.33,14.23,1.37,2.14,5.51,0.65,2.42,0.17,2.05,0.2,0.54,Moderate,Moderate pitting observed
+Iringa,06/08/2025,74.97,52.43,23.08,0.44,0.03,0.2,0.08,0.33,0.69,0.09,0.03,0.03,Moderate,Moderate pitting observed
+Pemba,08/06/2024,88.79,62.1,3.37,3.3,0.36,0.91,0.12,0.72,1.12,0.47,0.03,0.78,High,Extensive uniform corrosion
+Pwani,22/02/2025,75.03,52.48,21.07,1.59,0.11,0.27,0.14,0.63,0.63,0.21,0.15,0.18,Moderate,Erosive wear from particulate ingress
+Cyclone,08/08/2021,73.81,51.62,20.71,0.33,0.24,0.82,0.56,0.85,0.15,0.8,0.47,0.2,Moderate,Moderate crevice corrosion
+Mtwara,20/12/2022,60.23,42.12,21.66,0.24,0.95,3.04,1.17,4.4,0.58,2.6,0.96,0.03,Moderate,Uniform corrosion with scaling
+Rukwa,25/07/2021,63.74,44.58,21.28,0.86,0.85,3.92,2.05,3.43,0.5,1.24,0.03,0.16,Moderate,Uniform corrosion with scaling
+Kigoma,07/10/2022,50.33,35.2,34.24,1.14,0.67,1.1,0.68,4.97,0.34,1.8,1.68,0.72,Very Low,Negligible corrosion detected
+Tanga,12/12/2022,71.95,50.32,15.47,1.74,0.29,3.32,1.7,0.39,0.21,1.19,0.79,0.48,Moderate,Moderate pitting observed
+Musoma,20/10/2024,77.72,54.36,23.12,0.36,0.05,0.2,0.1,0.5,0.41,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Lindi,23/06/2024,71.5,50.01,27.86,1.42,0.05,0.2,0.1,0.5,0.23,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Arusha,22/01/2024,45.76,32.01,39.61,0.09,0.35,4.92,1.64,3.25,0.13,1.03,0.65,0.54,Low,Acceptable corrosion rates
+Tabora,17/06/2022,88.24,61.71,9.04,2.86,0.05,0.2,0.1,0.5,0.91,0.1,0.05,0.05,High,Aggressive pitting corrosion
+Kilifi,20/07/2021,56.82,39.74,24.34,1.11,1.08,7.94,2.78,1.32,0.19,1.23,1.0,0.5,Very Low,Excellent corrosion resistance
+Songosongo,18/09/2025,55.21,38.62,40.3,0.16,0.22,0.15,0.35,1.22,0.32,0.31,0.1,0.75,Low,Minimal corrosion activity
+Mtwara,14/07/2025,62.03,43.38,19.16,0.85,0.91,6.3,1.49,3.74,0.54,2.34,0.34,0.75,Moderate,Moderate crevice corrosion
+Shinyanga,07/01/2021,57.7,40.35,41.71,0.46,0.05,0.2,0.1,0.5,0.35,0.1,0.05,0.05,Low,Minor surface oxidation
+Njombe,11/07/2020,90.8,63.51,1.89,1.93,0.26,1.41,0.39,0.56,0.84,0.85,0.53,0.11,Severe,Critical stress corrosion cracking
+Dodoma,25/03/2021,83.65,58.51,6.57,1.95,0.57,2.08,0.41,0.56,0.88,1.0,0.22,0.06,Severe,Critical stress corrosion cracking
+Mbeya,18/09/2021,84.2,58.89,11.94,1.02,0.03,0.8,0.12,0.75,0.46,0.13,0.11,0.09,Severe,Critical stress corrosion cracking
+Songosongo,17/10/2021,56.43,39.47,27.95,1.07,0.69,1.65,1.89,3.53,0.68,1.48,0.27,0.71,Moderate,Selective corrosion activity
+Kigoma,25/09/2024,72.49,50.7,20.56,0.36,0.61,0.8,2.02,0.33,0.29,1.03,0.45,0.1,Moderate,Moderate pitting observed
+Arusha,17/09/2020,73.06,51.1,27.29,1.79,0.05,0.2,0.1,0.5,0.66,0.1,0.05,0.05,Moderate,General surface corrosion
+Musoma,25/04/2024,70.83,49.54,16.07,0.93,0.72,4.97,1.14,0.46,0.7,1.28,1.55,0.51,Moderate,Moderate crevice corrosion
+Musoma,12/04/2024,70.19,49.09,16.24,1.55,0.66,5.42,0.72,0.67,0.16,1.58,0.65,0.17,Moderate,Moderate crevice corrosion
+Mtwara,01/04/2025,49.6,34.69,35.39,0.93,1.19,6.46,2.21,0.52,0.24,0.62,1.04,0.47,Low,Protective oxide layer formation
+Rukwa,07/12/2025,91.24,63.81,2.41,3.23,0.11,0.24,0.21,0.9,0.77,0.23,0.25,0.42,Severe,Deep penetration corrosion
+Kilifi,26/10/2022,43.42,30.37,37.67,1.01,1.98,1.22,1.66,4.72,0.32,2.96,0.1,0.14,Low,Slight discoloration only
+Njombe,17/02/2020,54.04,37.8,23.76,0.98,0.83,5.11,1.65,7.1,0.23,1.72,0.6,0.46,Low,Slight discoloration only
+Pwani,14/04/2021,75.09,52.52,24.18,1.31,0.05,0.2,0.1,0.5,0.25,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Cyclone,28/12/2022,59.32,41.49,24.54,0.78,0.41,5.55,0.15,0.33,0.51,2.26,1.92,0.3,Moderate,Moderate pitting observed
+Kigoma,25/10/2023,58.42,40.86,26.03,0.68,0.8,2.7,2.18,2.26,0.8,2.47,0.79,0.34,Moderate,Selective corrosion activity
+Mbeya,01/04/2021,67.9,47.49,22.82,1.25,0.06,2.64,0.76,1.01,0.67,0.18,0.55,0.63,Moderate,Uniform corrosion with scaling
+Njombe,17/04/2023,90.77,63.49,5.84,2.71,-0.04,0.03,0.04,0.22,0.56,0.06,-0.09,0.01,Severe,Significant wall thinning
+Dar es Salaam,15/11/2024,87.85,61.44,8.0,2.36,0.01,0.11,0.05,0.29,1.26,0.07,0.0,0.01,High,Advanced galvanic corrosion
+Songosongo,09/10/2021,74.36,52.01,24.84,0.45,0.05,0.2,0.1,0.5,0.45,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Arusha,01/02/2025,58.07,40.62,23.65,0.25,1.15,5.25,2.31,3.24,0.47,0.51,0.28,0.6,Moderate,Uniform corrosion with scaling
+Musoma,14/01/2020,77.0,53.86,12.91,0.23,0.34,1.1,2.62,1.22,0.33,0.53,1.52,0.37,Moderate,Moderate crevice corrosion
+Tabora,14/12/2022,88.28,61.74,7.16,4.36,0.05,0.2,0.1,0.5,1.43,0.1,0.05,0.05,Severe,Significant wall thinning
+Morogoro,12/08/2025,56.02,39.18,23.5,1.16,1.59,6.36,1.75,2.41,0.23,1.94,0.8,0.73,Very Low,No significant deterioration
+Ruvuma,01/01/2022,58.63,41.01,24.69,1.42,0.13,4.43,0.63,5.15,0.36,1.85,0.34,0.16,Moderate,Selective corrosion activity
+Songosongo,10/09/2025,88.09,61.61,5.84,1.36,0.27,1.44,0.59,0.4,1.08,0.29,0.17,0.48,Severe,Deep penetration corrosion
+Dodoma,11/03/2021,69.6,48.68,26.11,0.42,0.37,0.12,0.66,0.48,0.43,0.51,0.71,0.07,Moderate,Moderate crevice corrosion
+Songosongo,07/05/2023,78.75,55.08,10.01,3.98,0.27,0.76,0.71,1.87,0.99,0.98,0.37,0.4,Severe,Severe localized attack
+Shinyanga,10/09/2025,81.7,57.15,8.83,1.44,0.58,0.82,0.35,0.54,1.31,0.76,1.5,0.52,Severe,Critical stress corrosion cracking
+Rukwa,25/03/2022,74.68,52.23,25.39,0.53,0.05,0.2,0.1,0.5,0.33,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Dar es Salaam,18/09/2021,70.97,49.63,16.88,1.07,1.1,1.64,1.98,0.43,0.29,2.53,1.43,0.63,Moderate,Selective corrosion activity
+Pemba,11/03/2024,60.99,42.66,22.73,1.82,1.0,2.97,1.41,0.89,0.51,2.61,0.77,0.78,Moderate,Selective corrosion activity
+Mtwara,23/10/2021,41.9,29.31,37.98,0.06,1.53,6.88,0.91,2.42,0.37,2.74,1.61,0.02,Low,Slight discoloration only
+Morogoro,12/12/2025,89.53,62.62,10.12,1.93,0.05,0.2,0.1,0.5,0.71,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Madimba,03/01/2020,89.86,62.85,10.93,0.98,0.05,0.2,0.1,0.5,1.34,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Rukwa,20/08/2023,68.64,48.01,14.97,1.8,1.72,5.1,0.15,1.61,0.2,1.79,1.71,0.42,Moderate,General surface corrosion
+Arusha,24/06/2025,58.25,40.74,21.1,0.72,0.65,4.25,2.5,7.24,0.08,2.07,0.98,0.35,Very Low,Excellent corrosion resistance
+Mtwara,20/03/2020,65.0,45.46,21.63,1.57,0.74,2.75,1.58,2.13,0.73,1.13,0.4,0.41,Moderate,Moderate pitting observed
+Musoma,03/04/2021,57.85,40.46,35.18,0.01,0.11,0.27,1.39,0.93,0.07,1.21,0.69,0.37,Low,Slight discoloration only
+Mbeya,26/01/2024,55.23,38.63,26.61,1.31,0.09,3.85,0.37,5.73,0.55,2.3,1.07,0.12,Moderate,Selective corrosion activity
+Arusha,13/06/2023,52.7,36.86,36.17,0.52,0.74,3.56,0.99,1.49,0.15,1.43,1.16,0.73,Very Low,Negligible corrosion detected
+Tanga,07/09/2022,62.33,43.6,17.94,1.21,0.87,4.44,1.15,5.16,0.54,0.57,0.29,0.71,Moderate,General surface corrosion
+Pemba,25/08/2020,75.43,52.76,25.23,1.25,0.05,0.2,0.1,0.5,0.79,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Tanga,13/09/2022,63.45,44.37,28.41,0.47,0.71,0.53,1.18,1.76,0.17,0.92,1.2,0.36,Low,Slight discoloration only
+Pemba,18/11/2020,69.4,48.54,18.43,1.03,0.16,2.12,1.06,3.68,0.8,0.9,0.58,0.04,Moderate,Moderate pitting observed
+Mwanza,16/12/2020,67.49,47.2,27.42,0.53,0.26,0.75,0.66,1.18,0.74,0.15,0.07,0.64,Moderate,Selective corrosion activity
+Songosongo,13/06/2025,60.08,42.02,22.02,1.13,0.43,2.48,2.6,6.5,0.21,1.21,0.58,0.17,Low,Light surface scaling
+Pemba,10/10/2020,82.73,57.86,6.42,2.69,0.3,2.27,0.41,2.51,1.04,0.66,0.34,0.64,Severe,Deep penetration corrosion
+Kagera,21/12/2025,58.14,40.66,18.39,0.36,1.56,5.63,0.47,7.66,0.31,2.28,1.32,0.62,Low,Light surface scaling
+Dar es Salaam,30/05/2021,87.27,61.04,6.36,1.13,0.09,0.83,0.13,0.95,0.49,0.46,1.11,0.76,Severe,Deep penetration corrosion
+Zanzibar,09/06/2021,63.2,44.21,26.09,0.63,0.08,3.14,1.35,2.15,0.08,0.16,0.76,0.24,Very Low,Passive corrosion behavior
+Bukoba,30/04/2025,36.24,25.35,43.09,0.97,1.57,2.06,1.46,7.1,0.19,0.76,1.96,0.49,Low,Light surface scaling
+Dodoma,07/11/2021,69.9,48.89,26.22,0.33,0.22,0.73,0.42,0.72,0.48,0.13,0.13,0.57,Moderate,Selective corrosion activity
+Madimba,21/12/2022,91.08,63.7,6.72,2.84,0.05,0.2,0.1,0.5,0.56,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Songosongo,01/12/2025,80.43,56.25,4.13,2.64,0.01,0.34,2.26,3.2,0.55,0.89,1.03,0.05,Severe,Metal loss in carbon steel
+Pemba,29/09/2024,53.28,37.26,40.66,0.08,0.28,1.92,0.44,0.81,0.05,0.2,0.38,0.68,Low,Light surface scaling
+Tanga,17/05/2022,73.15,51.16,18.94,1.79,0.23,2.11,0.13,1.0,0.74,0.62,0.31,0.51,Moderate,Moderate crevice corrosion
+Lindi,03/04/2022,75.09,52.52,8.84,1.42,0.21,3.18,1.95,5.23,1.13,0.92,0.14,0.63,Severe,Significant wall thinning
+Morogoro,30/06/2023,64.58,45.17,25.61,1.66,0.5,1.4,1.52,2.17,0.29,0.32,0.72,0.24,Moderate,Selective corrosion activity
+Pemba,22/06/2024,57.44,40.18,28.48,0.77,0.82,2.04,2.76,1.58,0.29,0.84,1.78,0.57,Low,Minor surface oxidation
+Tabora,09/03/2024,53.47,37.4,33.38,1.18,1.42,2.89,0.24,2.24,0.14,1.65,0.39,0.64,Very Low,Optimal material performance
+Kigoma,29/11/2024,90.15,63.05,6.25,1.4,0.04,0.26,0.13,0.33,1.19,0.1,0.08,0.08,High,Extensive uniform corrosion
+Pemba,20/10/2025,40.7,28.47,42.8,0.91,1.07,2.13,2.37,3.64,0.38,0.78,0.72,0.53,Very Low,Stable protective coating
+Tabora,23/01/2025,48.26,33.76,33.66,0.53,1.83,1.76,1.09,5.33,0.23,2.69,1.79,0.34,Low,Slight discoloration only
+Njombe,10/05/2021,84.53,59.12,3.25,2.64,0.09,1.34,2.17,0.88,1.05,0.42,0.15,0.75,Severe,Critical stress corrosion cracking
+Iringa,12/10/2022,64.42,45.05,25.37,1.64,0.62,2.27,0.95,2.37,0.37,0.24,0.57,0.23,Moderate,Moderate pitting observed
+Shinyanga,09/07/2022,60.3,42.17,23.67,0.1,0.57,4.53,2.24,1.59,0.78,2.32,0.61,0.27,Moderate,Erosive wear from particulate ingress
+Musoma,19/09/2020,91.34,63.88,5.08,1.47,0.01,0.21,0.08,0.29,1.39,0.08,0.02,0.02,Severe,Metal loss in carbon steel
+Mtwara,16/10/2023,71.31,49.88,24.49,0.42,0.11,0.14,0.23,1.25,0.53,0.43,0.47,0.61,Moderate,Uniform corrosion with scaling
+Morogoro,27/03/2020,45.55,31.86,27.97,0.62,2.15,5.61,2.16,8.49,0.38,1.44,1.39,0.59,Low,Minimal corrosion activity
+Shinyanga,31/07/2022,80.48,56.29,3.15,3.79,0.52,4.9,1.76,1.78,0.78,0.97,0.63,0.76,Severe,Deep penetration corrosion
+Dodoma,21/06/2022,63.75,44.59,24.58,0.41,1.26,0.21,2.53,1.82,0.63,0.13,1.94,0.36,Moderate,Selective corrosion activity
+Dar es Salaam,30/01/2020,53.19,37.21,32.75,0.98,0.25,3.11,2.17,0.55,0.39,2.38,1.6,0.45,Low,Protective oxide layer formation
+Musoma,17/10/2020,74.16,51.87,12.19,1.82,0.63,2.99,0.9,0.52,0.59,0.91,1.25,0.27,Moderate,Moderate pitting observed
+Bukoba,29/08/2020,83.09,58.11,9.62,1.05,0.26,1.54,0.41,1.13,0.71,0.15,1.15,0.52,Severe,Rapid corrosion propagation
+Iringa,26/07/2022,69.54,48.64,18.69,0.48,1.85,1.45,0.87,0.7,0.64,1.35,0.14,0.42,Moderate,General surface corrosion
+Singida,03/10/2020,63.83,44.64,28.9,0.14,0.22,1.07,0.55,2.01,0.31,0.57,0.3,0.39,Low,Protective oxide layer formation
+Rukwa,08/05/2020,59.64,41.72,20.86,1.14,0.74,4.2,2.53,6.92,0.1,0.45,1.41,0.55,Low,Light surface scaling
+Kilifi,15/09/2023,61.23,42.82,13.0,0.57,2.9,4.89,2.03,7.33,0.45,0.34,1.68,0.65,Moderate,Moderate pitting observed
+Pwani,17/10/2020,93.65,65.5,3.2,2.81,0.05,0.2,0.1,0.5,1.08,0.1,0.05,0.05,Severe,Severe localized attack
+Kilifi,06/10/2025,89.76,62.78,1.75,2.73,0.16,0.95,0.49,1.85,0.81,0.25,0.67,0.54,Severe,Rapid corrosion propagation
+Shinyanga,01/09/2022,84.09,58.81,3.73,3.13,0.05,1.46,1.29,1.52,1.18,1.36,1.09,0.24,Severe,Deep penetration corrosion
+Dar es Salaam,14/02/2023,60.75,42.49,20.57,1.08,1.46,6.06,2.38,2.63,0.38,0.83,1.91,0.27,Moderate,Erosive wear from particulate ingress
+Madimba,11/06/2025,66.63,46.6,26.02,1.89,0.55,1.22,0.63,1.01,0.22,0.27,0.64,0.67,Moderate,Moderate pitting observed
+Iringa,27/05/2022,89.97,62.92,7.72,2.43,0.05,0.2,0.1,0.5,0.58,0.1,0.05,0.05,Severe,Significant wall thinning
+Morogoro,25/06/2021,63.99,44.76,15.51,0.54,1.25,4.04,1.28,4.84,0.77,1.34,1.4,0.56,Moderate,General surface corrosion
+Mtwara,20/04/2025,50.14,35.07,24.84,0.83,1.96,4.33,2.52,7.07,0.05,2.48,0.98,0.27,Low,Protective oxide layer formation
+Kagera,22/09/2022,84.03,58.77,10.4,1.48,0.28,0.17,0.32,0.67,1.37,0.52,0.1,0.06,Severe,Critical stress corrosion cracking
+Dodoma,21/04/2025,82.79,57.9,11.65,2.8,0.11,0.15,0.25,0.7,0.47,0.4,0.41,0.27,Severe,Deep penetration corrosion
+Singida,25/07/2024,70.22,49.11,12.09,1.02,0.94,3.06,0.25,5.02,0.67,2.32,1.57,0.6,Moderate,General surface corrosion
+Tabora,18/02/2022,85.36,59.7,8.38,1.32,0.3,0.31,0.22,1.22,1.08,0.76,0.57,0.47,Severe,Significant wall thinning
+Shinyanga,21/01/2021,70.05,48.99,21.26,1.79,0.17,1.4,1.24,0.65,0.56,0.4,0.47,0.2,Moderate,Uniform corrosion with scaling
+Arusha,01/02/2021,52.69,36.86,43.35,0.32,0.1,0.44,0.21,0.64,0.27,0.6,0.49,0.22,Low,Minimal corrosion activity
+Cyclone,31/10/2024,73.74,51.58,24.17,1.58,0.01,0.01,0.02,0.28,0.27,0.04,-0.01,0.01,Moderate,Erosive wear from particulate ingress
+Iringa,22/12/2023,79.87,55.86,1.43,2.86,1.03,5.67,2.47,2.1,1.13,0.65,1.66,0.66,Severe,Significant wall thinning
+Shinyanga,30/09/2024,79.98,55.94,1.74,2.93,0.9,1.52,2.22,5.93,0.5,1.69,1.55,0.2,Severe,Deep penetration corrosion
+Lindi,10/08/2024,55.27,38.66,37.1,0.54,0.18,1.84,1.56,0.86,0.19,0.99,0.47,0.18,Very Low,Passive corrosion behavior
+Mbeya,27/03/2025,86.86,60.75,6.0,1.0,0.24,0.72,1.07,1.45,1.14,0.2,0.55,0.56,High,Severe corrosion (oxidation and MIC)
+Madimba,09/08/2020,61.33,42.9,22.18,0.4,1.44,5.03,1.39,1.36,0.54,2.04,0.35,0.03,Moderate,Moderate pitting observed
+Tabora,07/02/2021,87.19,60.98,10.22,3.39,0.05,0.2,0.1,0.5,1.28,0.1,0.05,0.05,Severe,Significant wall thinning
+Ruvuma,05/09/2020,85.72,59.95,5.42,2.61,0.31,0.66,1.33,1.43,0.57,0.57,0.3,0.05,High,Severe intergranular attack
+Zanzibar,07/07/2024,41.93,29.33,34.38,0.11,1.79,4.97,0.67,8.23,0.36,2.6,0.4,0.59,Very Low,No significant deterioration
+Arusha,21/10/2023,57.11,39.94,18.81,1.2,0.1,7.79,1.42,5.72,0.36,2.56,0.68,0.06,Low,Light surface scaling
+Cyclone,23/03/2021,82.71,57.85,3.32,1.06,0.34,1.39,0.35,2.46,0.65,0.59,1.95,0.61,High,Severe corrosion (oxidation and MIC)
+Morogoro,15/10/2022,83.79,58.61,9.78,1.83,0.24,0.44,0.18,0.67,0.76,0.33,0.8,0.06,High,Aggressive pitting corrosion
+Tanga,23/02/2022,41.74,29.2,37.58,0.56,0.87,5.64,2.59,5.4,0.25,0.85,1.68,0.79,Low,Acceptable corrosion rates
+Mbeya,18/02/2022,82.43,57.65,6.38,1.52,0.71,1.65,1.68,1.82,1.22,0.54,0.51,0.27,Severe,Severe localized attack
+Mbeya,11/01/2025,72.54,50.73,15.14,0.34,0.86,2.93,1.7,1.03,0.77,1.14,0.47,0.45,Moderate,Erosive wear from particulate ingress
+Iringa,28/07/2021,70.22,49.11,21.13,0.37,0.33,0.83,0.48,1.11,0.27,1.86,1.85,0.78,Moderate,Erosive wear from particulate ingress
+Kagera,24/09/2024,58.29,40.77,24.76,0.81,0.31,4.2,2.54,0.82,0.39,2.41,1.35,0.18,Moderate,Selective corrosion activity
+Lindi,21/01/2022,59.96,41.94,25.11,0.31,0.14,3.77,1.45,5.11,0.05,1.3,0.78,0.29,Low,Protective oxide layer formation
+Kigoma,14/02/2023,45.42,31.77,42.59,0.74,0.86,0.31,0.15,2.36,0.23,1.7,1.68,0.14,Low,Protective oxide layer formation
+Songosongo,09/03/2025,55.03,38.49,38.86,0.16,0.04,1.21,1.09,1.67,0.13,0.35,0.03,0.66,Very Low,No significant deterioration
+Rukwa,20/10/2022,72.83,50.94,17.52,0.55,0.36,1.87,1.35,3.45,0.17,0.31,0.65,0.26,Moderate,Uniform corrosion with scaling
+Singida,04/11/2020,80.63,56.4,1.11,4.36,0.33,2.85,2.45,3.68,1.19,0.53,0.14,0.36,Severe,Significant wall thinning
+Tanga,20/12/2024,63.72,44.57,31.54,0.54,0.17,1.07,0.63,0.92,0.14,0.46,0.44,0.37,Low,Light surface scaling
+Zanzibar,05/02/2021,76.11,53.23,3.34,0.83,1.87,3.15,2.66,3.24,1.13,2.7,0.63,0.56,Severe,Significant wall thinning
+Kilifi,26/07/2020,47.66,33.34,42.26,0.79,0.12,0.14,2.49,1.39,0.19,1.65,1.15,0.38,Low,Slight discoloration only
+Kilifi,01/03/2020,57.23,40.03,23.64,0.4,0.93,3.67,2.53,3.64,0.08,0.74,1.62,0.66,Low,Minimal corrosion activity
+Mbeya,17/01/2021,65.56,45.85,26.92,0.68,0.29,1.44,0.59,2.49,0.23,0.12,0.42,0.14,Moderate,Moderate pitting observed
+Kigoma,26/08/2022,77.34,54.09,23.44,1.17,0.05,0.2,0.1,0.5,0.19,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Singida,12/11/2021,57.68,40.34,27.02,1.26,1.88,2.33,1.67,0.69,0.58,1.27,1.63,0.49,Moderate,General surface corrosion
+Lindi,22/07/2024,76.49,53.5,22.17,1.84,0.05,0.2,0.1,0.5,0.56,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Rukwa,12/06/2025,72.31,50.57,22.84,1.11,0.13,0.95,0.12,1.05,0.43,0.41,0.33,0.32,Moderate,Uniform corrosion with scaling
+Rukwa,25/05/2025,76.05,53.19,25.51,0.58,0.05,0.2,0.1,0.5,0.46,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Madimba,25/05/2022,70.44,49.26,27.15,1.63,-0.0,0.1,0.04,0.18,0.41,0.1,-0.01,0.01,Moderate,Erosive wear from particulate ingress
+Dar es Salaam,30/06/2024,62.54,43.74,34.81,0.23,0.05,0.54,0.24,0.49,0.13,0.15,0.21,0.61,Low,Acceptable corrosion rates
+Dodoma,28/08/2020,77.71,54.35,10.55,1.66,0.6,0.27,0.15,1.63,1.42,1.56,0.07,0.47,Severe,Severe localized attack
+Rukwa,05/11/2021,43.0,30.08,41.51,0.41,0.89,5.1,0.2,1.5,0.08,1.53,0.68,0.32,Very Low,No significant deterioration
+Dar es Salaam,01/04/2024,60.53,42.34,25.22,1.38,0.46,1.68,0.45,4.1,0.59,1.81,1.35,0.22,Moderate,Selective corrosion activity
+Rukwa,09/01/2020,56.75,39.69,33.6,0.79,0.44,1.76,1.39,1.2,0.35,0.74,0.59,0.46,Low,Slight discoloration only
+Dodoma,18/05/2024,79.03,55.28,8.58,4.26,0.03,2.04,0.07,1.65,1.31,1.02,1.07,0.79,Severe,Significant wall thinning
+Dodoma,22/12/2022,48.77,34.11,36.43,0.73,1.37,1.63,2.32,2.54,0.25,0.74,0.47,0.5,Low,Slight discoloration only
+Iringa,06/02/2025,79.37,55.52,2.44,1.02,1.0,0.33,2.22,5.51,1.07,1.09,1.86,0.27,Severe,Significant wall thinning
+Bukoba,14/03/2023,58.3,40.77,16.69,1.46,1.03,7.21,2.39,6.53,0.49,1.91,1.89,0.24,Moderate,Moderate pitting observed
+Kagera,28/09/2024,53.49,37.41,24.87,0.43,0.8,6.82,2.88,4.71,0.05,1.57,0.18,0.44,Very Low,Stable protective coating
+Rukwa,16/06/2025,72.33,50.59,20.0,1.76,0.39,0.44,0.08,1.42,0.62,0.45,0.93,0.68,Moderate,Selective corrosion activity
+Kigoma,26/09/2021,57.55,40.25,35.52,1.13,0.25,1.21,0.89,0.58,0.38,0.68,0.37,0.11,Low,Minimal corrosion activity
+Musoma,16/02/2022,72.37,50.62,25.26,1.21,0.02,0.23,0.14,0.34,0.2,0.1,0.07,0.06,Moderate,Selective corrosion activity
+Arusha,30/04/2023,83.11,58.13,7.39,2.71,0.02,0.97,0.93,1.54,1.43,0.73,0.69,0.08,Severe,Severe localized attack
+Ruvuma,10/06/2022,80.61,56.38,5.84,1.29,0.53,0.35,1.82,1.89,1.11,2.57,0.44,0.36,Severe,Metal loss in carbon steel
+Mbeya,27/08/2020,57.82,40.44,33.88,0.99,0.39,1.37,1.14,2.34,0.17,0.61,0.46,0.34,Very Low,Stable protective coating
+Zanzibar,06/09/2020,85.82,60.03,3.43,3.04,0.74,0.54,0.15,1.64,1.09,1.08,0.78,0.19,High,Severe corrosion (oxidation and MIC)
+Morogoro,08/07/2023,74.3,51.97,20.09,0.38,0.27,1.37,0.76,0.42,0.19,0.89,0.77,0.05,Moderate,Selective corrosion activity
+Arusha,22/08/2020,61.9,43.29,25.58,0.1,0.61,4.15,0.44,3.9,0.17,1.33,0.25,0.33,Low,Acceptable corrosion rates
+Musoma,24/07/2020,77.5,54.2,24.79,0.44,0.05,0.2,0.1,0.5,0.37,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Cyclone,06/05/2025,83.4,58.33,10.16,2.94,0.1,0.14,0.37,0.81,1.28,0.14,0.22,0.33,Severe,Significant wall thinning
+Tabora,21/08/2025,77.92,54.5,22.81,0.36,0.05,0.2,0.1,0.5,0.41,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Pemba,15/12/2025,47.56,33.26,36.76,0.32,0.16,3.79,1.59,4.87,0.25,1.0,0.53,0.34,Low,Light surface scaling
+Kagera,06/10/2021,57.1,39.94,20.81,1.29,2.07,7.18,0.63,4.39,0.41,0.17,1.16,0.71,Moderate,General surface corrosion
+Bukoba,20/08/2020,73.63,51.5,24.0,0.92,0.02,0.12,0.07,0.29,0.74,0.1,0.03,0.09,Moderate,Erosive wear from particulate ingress
+Kagera,11/09/2025,69.94,48.91,24.78,1.37,0.22,0.3,0.9,0.32,0.76,0.35,0.42,0.55,Moderate,Uniform corrosion with scaling
+Mtwara,24/11/2020,94.94,66.4,4.16,3.46,0.05,0.2,0.1,0.5,1.37,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Pemba,31/01/2022,63.25,44.24,27.16,0.46,1.25,0.48,0.7,1.92,0.07,0.82,1.75,0.25,Very Low,Optimal material performance
+Mwanza,07/10/2020,92.14,64.45,2.61,3.63,0.01,0.12,0.05,0.19,1.16,0.07,0.01,0.01,Severe,Severe localized attack
+Dar es Salaam,05/10/2020,73.46,51.38,14.2,1.74,0.74,2.8,1.68,1.5,0.77,1.27,0.36,0.69,Moderate,Moderate crevice corrosion
+Pwani,21/08/2022,53.2,37.21,36.3,0.89,0.55,0.6,0.17,3.34,0.14,1.57,1.66,0.31,Low,Minor surface oxidation
+Kagera,11/07/2024,58.46,40.89,23.11,0.66,1.41,4.19,1.41,3.72,0.3,2.5,1.42,0.09,Low,Acceptable corrosion rates
+Kilifi,06/05/2021,88.42,61.84,4.99,3.38,0.02,0.16,0.2,0.62,1.37,0.32,0.31,0.22,Severe,Deep penetration corrosion
+Cyclone,05/10/2022,61.22,42.82,27.07,0.57,0.88,1.51,0.37,3.41,0.34,0.12,1.95,0.3,Moderate,Uniform corrosion with scaling
+Dodoma,11/06/2020,62.91,44.0,19.05,1.09,0.46,3.3,0.46,3.43,0.72,2.95,0.16,0.53,Moderate,Uniform corrosion with scaling
+Dar es Salaam,01/12/2020,64.55,45.15,24.56,0.9,0.23,2.13,0.76,3.24,0.28,0.71,1.19,0.42,Moderate,Uniform corrosion with scaling
+Musoma,13/09/2024,68.71,48.06,18.96,1.99,0.39,0.32,0.65,1.52,0.75,1.25,0.01,0.73,Moderate,General surface corrosion
+Morogoro,11/11/2025,89.85,62.84,2.32,1.42,0.25,1.93,0.41,1.8,0.47,0.17,0.29,0.31,Severe,Significant wall thinning
+Singida,19/07/2023,65.22,45.61,20.14,1.38,1.36,0.14,2.35,4.39,0.71,1.1,0.94,0.79,Moderate,Selective corrosion activity
+Tabora,04/12/2022,79.97,55.93,11.91,2.79,0.23,1.28,0.35,0.43,1.34,0.1,0.23,0.66,Severe,Critical stress corrosion cracking
+Bukoba,16/04/2022,74.03,51.78,16.93,0.1,0.46,0.35,0.58,1.04,0.31,1.52,0.84,0.31,Moderate,Erosive wear from particulate ingress
+Musoma,10/07/2023,93.11,65.12,4.63,2.62,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,Severe,Deep penetration corrosion
+Rukwa,04/09/2022,78.8,55.12,6.99,3.84,0.8,0.83,1.82,3.79,0.49,0.32,0.03,0.41,High,Aggressive pitting corrosion
+Kigoma,23/12/2022,78.98,55.24,4.18,1.85,0.3,3.25,0.52,2.41,0.81,2.1,0.63,0.41,Severe,Rapid corrosion propagation
+Zanzibar,09/06/2024,89.79,62.8,2.71,3.19,0.15,0.61,0.41,0.39,1.0,0.13,0.93,0.69,Severe,Severe localized attack
+Rukwa,20/06/2021,69.44,48.57,14.34,0.46,0.06,4.21,1.33,5.53,0.76,1.29,0.52,0.26,Moderate,Uniform corrosion with scaling
+Dodoma,13/05/2023,71.01,49.67,25.18,0.79,0.25,0.85,0.13,0.67,0.28,0.14,0.15,0.55,Moderate,General surface corrosion
+Shinyanga,15/02/2025,56.76,39.7,34.83,1.13,0.26,1.99,0.45,2.31,0.31,0.14,0.74,0.37,Very Low,Passive corrosion behavior
+Dodoma,19/07/2023,82.14,57.45,3.05,3.15,0.64,0.9,0.87,2.41,1.22,1.9,0.44,0.77,Severe,Significant wall thinning
+Mbeya,24/10/2020,85.5,59.8,3.77,3.42,1.45,0.68,0.05,0.58,0.89,0.18,0.49,0.53,Severe,Critical stress corrosion cracking
+Singida,08/02/2020,86.01,60.16,9.01,1.37,0.05,0.69,0.41,0.83,1.06,0.19,0.16,0.06,Severe,Critical stress corrosion cracking
+Zanzibar,20/02/2025,77.39,54.13,9.97,2.01,0.87,1.92,2.05,1.69,1.06,0.6,0.14,0.62,Severe,Critical stress corrosion cracking
+Njombe,13/02/2021,92.16,64.46,5.79,3.27,0.05,0.2,0.1,0.5,1.45,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Tanga,27/10/2020,93.6,65.47,3.85,2.75,0.05,0.2,0.1,0.5,0.46,0.1,0.05,0.05,Severe,Significant wall thinning
+Tabora,23/05/2022,77.43,54.15,6.86,1.92,1.64,0.88,1.17,3.19,1.02,1.89,1.46,0.74,Severe,Deep penetration corrosion
+Pwani,03/09/2025,86.83,60.73,8.33,1.51,0.11,0.44,0.26,0.66,1.09,0.18,0.08,0.5,Severe,Rapid corrosion propagation
+Kigoma,22/12/2022,54.49,38.11,30.82,0.05,0.75,0.15,1.68,5.35,0.17,2.18,0.18,0.78,Low,Protective oxide layer formation
+Pwani,26/06/2021,69.13,48.35,19.74,0.55,0.35,0.6,2.52,0.58,0.43,0.7,1.01,0.62,Moderate,Moderate pitting observed
+Singida,30/11/2023,63.8,44.62,34.22,1.04,0.02,0.15,0.06,0.29,0.3,0.08,0.01,0.03,Very Low,Stable protective coating
+Musoma,08/10/2020,76.12,53.24,11.04,2.6,0.58,0.95,0.87,2.14,1.07,1.79,0.88,0.09,High,Aggressive pitting corrosion
+Musoma,27/09/2022,63.55,44.45,34.29,0.46,0.06,0.51,0.15,0.54,0.08,0.11,0.12,0.13,Very Low,Optimal material performance
+Tabora,22/02/2024,87.97,61.53,7.86,4.13,0.05,0.2,0.1,0.5,0.54,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Tabora,13/03/2023,72.28,50.56,22.83,1.89,0.18,0.3,0.21,1.0,0.39,0.34,0.33,0.17,Moderate,Moderate pitting observed
+Kigoma,08/10/2021,89.77,62.79,5.26,1.04,0.19,1.29,0.36,0.6,0.71,0.31,0.11,0.36,Severe,Critical stress corrosion cracking
+Tanga,29/11/2024,75.0,52.46,27.16,0.44,0.05,0.2,0.1,0.5,0.29,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Kilifi,24/05/2023,72.39,50.63,21.73,0.85,0.32,0.44,0.11,1.44,0.44,0.38,0.2,0.29,Moderate,Selective corrosion activity
+Zanzibar,06/12/2025,56.32,39.39,26.15,1.21,0.6,4.06,1.29,3.96,0.25,1.93,1.01,0.02,Moderate,Selective corrosion activity
+Iringa,02/02/2020,70.21,49.11,17.89,0.17,0.52,2.29,2.42,2.01,0.79,1.24,1.18,0.69,Moderate,Uniform corrosion with scaling
+Ruvuma,11/05/2023,65.93,46.11,27.47,0.83,0.33,2.05,0.54,0.45,0.6,0.15,0.42,0.7,Moderate,Moderate pitting observed
+Singida,28/02/2021,60.65,42.42,37.16,0.56,0.03,0.14,0.24,0.31,0.39,0.13,0.02,0.03,Low,Slight discoloration only
+Arusha,04/07/2021,77.69,54.34,7.66,2.53,1.2,4.26,0.08,0.41,0.87,2.0,0.86,0.43,Severe,Metal loss in carbon steel
+Arusha,19/12/2022,63.95,44.73,26.3,1.79,0.2,2.61,1.16,1.98,0.37,0.42,0.21,0.77,Moderate,Moderate crevice corrosion
+Songosongo,17/04/2021,62.93,44.02,22.36,0.12,1.79,0.18,0.81,3.19,0.39,1.4,1.47,0.8,Low,Protective oxide layer formation
+Shinyanga,14/03/2021,46.53,32.54,28.95,0.64,0.35,6.19,1.52,9.3,0.11,1.67,1.09,0.56,Low,Acceptable corrosion rates
+Tanga,28/09/2021,77.78,54.4,17.94,1.26,0.24,0.44,0.24,0.41,0.65,0.28,0.23,0.54,Moderate,Moderate crevice corrosion
+Tabora,20/01/2023,68.14,47.66,14.23,1.74,0.13,2.96,2.04,5.38,0.52,0.81,0.92,0.32,Moderate,General surface corrosion
+Lindi,28/02/2023,79.88,55.87,11.54,4.38,0.08,1.28,0.6,0.69,0.67,0.23,0.21,0.44,Severe,Significant wall thinning
+Tanga,12/05/2022,55.65,38.92,39.91,0.37,0.06,1.13,0.55,0.86,0.15,0.54,0.31,0.46,Low,Light surface scaling
+Musoma,05/11/2023,78.13,54.64,7.25,3.58,0.57,1.44,1.59,2.12,0.7,1.86,1.05,0.42,High,Extensive uniform corrosion
+Dar es Salaam,13/04/2022,53.3,37.28,38.95,0.14,0.39,0.37,1.2,2.3,0.33,1.15,0.72,0.37,Very Low,Negligible corrosion detected
+Mwanza,17/12/2022,77.41,54.14,13.04,1.95,0.67,1.66,0.22,1.89,0.68,0.85,0.88,0.36,Moderate,Moderate crevice corrosion
+Kagera,01/09/2025,51.22,35.82,34.14,0.06,1.1,2.1,1.32,5.1,0.35,0.27,1.64,0.2,Very Low,Excellent corrosion resistance
+Pwani,24/06/2025,74.29,51.96,15.89,1.77,0.61,0.43,2.3,0.82,0.51,1.33,0.07,0.68,Moderate,Erosive wear from particulate ingress
+Zanzibar,25/10/2022,68.36,47.81,22.8,1.51,0.95,0.46,0.32,1.19,0.28,1.41,1.57,0.51,Moderate,Selective corrosion activity
+Pwani,27/07/2020,50.62,35.4,43.87,0.38,0.16,0.4,0.98,1.3,0.06,0.25,0.59,0.73,Low,Acceptable corrosion rates
+Pwani,13/01/2021,60.83,42.55,35.73,0.13,0.13,1.21,0.26,0.45,0.37,0.39,0.1,0.16,Low,Minor surface oxidation
+Kilifi,30/09/2024,76.25,53.33,17.67,1.66,0.08,1.01,0.53,0.97,0.58,0.38,0.03,0.37,Moderate,Uniform corrosion with scaling
+Dodoma,07/02/2023,86.39,60.42,11.91,3.88,0.05,0.2,0.1,0.5,0.58,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Tabora,29/06/2020,70.51,49.32,27.77,1.96,0.05,0.2,0.1,0.5,0.6,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Zanzibar,15/01/2020,56.94,39.83,39.08,0.14,0.12,0.91,0.35,0.72,0.37,0.32,0.49,0.58,Low,Slight discoloration only
+Cyclone,28/09/2023,78.5,54.9,9.11,4.04,0.63,1.04,2.25,0.49,0.68,1.03,0.36,0.58,High,Advanced galvanic corrosion
+Mtwara,19/06/2021,35.79,25.03,44.98,0.99,0.76,5.33,2.9,2.14,0.12,2.76,1.59,0.12,Very Low,No significant deterioration
+Pemba,08/12/2022,94.29,65.95,4.29,1.41,0.05,0.2,0.1,0.5,0.51,0.1,0.05,0.05,High,Critical structural degradation
+Tabora,23/10/2021,57.64,40.31,20.39,0.46,2.07,4.12,1.28,8.38,0.17,0.58,1.64,0.23,Low,Acceptable corrosion rates
+Lindi,14/12/2024,50.49,35.32,27.76,0.09,1.43,3.11,2.46,8.53,0.24,1.32,1.19,0.71,Very Low,Stable protective coating
+Dodoma,17/10/2024,68.9,48.19,18.68,1.3,0.43,0.18,2.63,0.68,0.24,0.78,1.47,0.26,Moderate,Moderate pitting observed
+Pemba,09/02/2020,58.74,41.08,25.63,1.92,0.05,4.11,0.42,2.29,0.71,0.12,1.18,0.37,Moderate,Erosive wear from particulate ingress
+Singida,03/04/2021,74.09,51.82,16.13,0.89,0.61,1.37,0.91,2.29,0.71,0.37,0.57,0.8,Moderate,Erosive wear from particulate ingress
+Pemba,04/11/2020,66.18,46.28,26.67,1.18,0.1,1.53,0.64,1.12,0.67,0.45,0.41,0.2,Moderate,Selective corrosion activity
+Pwani,02/09/2021,81.71,57.15,6.86,4.32,0.62,0.38,0.66,1.44,1.09,0.23,0.72,0.62,High,Advanced galvanic corrosion
+Bukoba,27/05/2020,38.24,26.74,44.68,0.31,0.53,4.02,0.68,4.94,0.19,0.74,0.83,0.2,Low,Acceptable corrosion rates
+Madimba,21/02/2024,60.18,42.09,27.22,1.16,0.22,3.75,2.38,0.33,0.17,0.37,1.58,0.5,Very Low,Excellent corrosion resistance
+Morogoro,29/08/2021,49.9,34.9,27.96,0.38,1.71,2.95,2.84,7.01,0.32,1.28,0.97,0.72,Very Low,Excellent corrosion resistance
+Madimba,26/10/2024,76.75,53.68,10.08,4.27,0.65,2.75,1.38,0.85,1.27,0.38,0.06,0.13,High,Critical structural degradation
+Njombe,06/06/2021,58.96,41.24,21.81,1.76,0.43,2.79,0.27,6.64,0.25,1.92,1.61,0.66,Moderate,Uniform corrosion with scaling
+Mtwara,20/06/2020,85.04,59.48,9.29,2.48,0.26,0.57,0.09,0.71,0.55,0.27,0.38,0.09,High,Severe intergranular attack
+Arusha,16/06/2023,45.25,31.65,43.28,0.98,0.38,1.75,0.76,3.92,0.23,1.32,0.61,0.4,Low,Minor surface oxidation
+Cyclone,02/02/2024,91.64,64.09,4.67,2.29,0.01,0.1,0.05,0.23,0.94,0.07,0.01,0.01,Severe,Rapid corrosion propagation
+Kagera,12/06/2020,81.1,56.72,6.07,1.42,0.57,1.72,1.66,0.44,0.74,1.56,0.9,0.77,High,Advanced galvanic corrosion
+Kilifi,05/01/2024,59.11,41.34,13.31,1.04,0.76,7.81,1.16,9.93,0.28,2.73,0.55,0.56,Moderate,Moderate pitting observed
+Arusha,10/05/2022,77.75,54.38,22.75,0.6,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Pemba,19/10/2022,56.33,39.4,31.83,0.21,0.05,4.0,1.05,2.97,0.22,0.78,0.11,0.16,Low,Light surface scaling
+Rukwa,25/02/2021,64.46,45.09,21.84,0.08,0.9,0.37,2.52,3.51,0.07,1.52,1.13,0.14,Very Low,No significant deterioration
+Dar es Salaam,19/12/2023,52.9,37.0,39.13,0.77,0.17,0.46,0.46,1.98,0.38,1.33,0.11,0.57,Low,Light surface scaling
+Shinyanga,22/07/2024,76.16,53.27,13.45,1.34,0.71,1.28,0.98,1.08,0.77,0.2,0.26,0.33,Moderate,Moderate pitting observed
+Lindi,25/09/2021,72.78,50.9,14.45,1.63,0.24,0.76,2.41,1.79,0.39,1.67,0.74,0.09,Moderate,Erosive wear from particulate ingress
+Dodoma,27/08/2022,57.79,40.42,24.49,1.97,0.52,5.32,1.43,3.68,0.4,0.43,1.69,0.52,Moderate,General surface corrosion
+Bukoba,27/10/2021,74.94,52.41,26.72,1.8,0.05,0.2,0.1,0.5,0.21,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Pemba,26/12/2021,72.03,50.38,21.71,1.54,0.08,1.1,0.11,1.48,0.26,0.38,0.27,0.02,Moderate,Moderate pitting observed
+Musoma,15/08/2024,67.65,47.31,22.62,1.28,1.12,0.5,2.17,0.9,0.69,0.35,1.37,0.41,Moderate,General surface corrosion
+Cyclone,11/04/2020,76.95,53.82,8.02,1.92,0.85,0.35,1.64,4.6,0.79,1.4,0.52,0.3,High,Severe intergranular attack
+Dodoma,04/01/2022,78.9,55.18,7.19,3.86,0.36,0.72,1.27,2.6,1.24,1.48,1.38,0.37,Severe,Rapid corrosion propagation
+Kagera,22/09/2023,45.15,31.58,35.93,1.0,1.18,5.07,0.54,6.66,0.17,0.18,1.66,0.77,Low,Acceptable corrosion rates
+Singida,13/08/2024,87.01,60.86,1.31,2.76,0.21,2.1,1.02,1.68,0.67,1.05,0.75,0.08,Severe,Deep penetration corrosion
+Mtwara,13/10/2022,72.25,50.54,27.85,1.42,0.05,0.2,0.1,0.5,0.33,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Pemba,28/12/2022,62.58,43.77,25.71,0.94,0.96,0.75,2.03,3.63,0.59,0.18,0.53,0.26,Moderate,Uniform corrosion with scaling
+Ruvuma,14/10/2021,76.64,53.6,17.64,0.19,0.64,0.47,0.61,0.95,0.71,0.49,0.77,0.41,Moderate,Uniform corrosion with scaling
+Rukwa,18/03/2021,84.31,58.96,3.89,1.02,0.51,4.29,1.47,0.88,0.88,0.43,1.02,0.75,High,Extensive uniform corrosion
+Songosongo,15/04/2024,85.3,59.66,7.18,3.67,0.02,0.24,0.49,0.4,1.01,0.26,0.63,0.04,Severe,Severe localized attack
+Zanzibar,07/06/2020,67.4,47.14,19.75,1.94,0.23,3.47,1.89,2.5,0.19,0.55,1.13,0.16,Moderate,Erosive wear from particulate ingress
+Mtwara,11/04/2025,64.33,44.99,17.56,0.18,0.08,6.02,0.75,4.93,0.32,1.94,1.08,0.07,Moderate,General surface corrosion
+Tabora,30/06/2022,77.34,54.09,2.4,2.75,1.22,4.12,0.08,3.33,1.05,0.67,1.9,0.31,High,Extensive uniform corrosion
+Pwani,28/03/2022,71.44,49.97,16.78,1.25,0.04,4.35,0.29,1.12,0.42,0.71,0.45,0.63,Moderate,Erosive wear from particulate ingress
+Tanga,28/02/2025,58.82,41.14,31.73,0.96,0.14,2.02,1.36,2.87,0.13,0.22,0.23,0.64,Low,Minimal corrosion activity
+Pwani,03/12/2023,47.76,33.4,43.43,1.06,0.05,2.35,0.78,0.53,0.31,0.77,0.35,0.63,Low,Minimal corrosion activity
+Singida,04/06/2023,61.94,43.32,25.67,0.83,0.93,0.65,0.79,1.41,0.64,2.77,1.07,0.48,Moderate,Moderate pitting observed
+Dodoma,21/07/2022,73.56,51.45,13.87,1.09,0.6,4.07,0.6,2.55,0.23,1.41,0.31,0.04,Moderate,Moderate pitting observed
+Kagera,02/07/2022,57.31,40.09,33.01,0.83,0.7,0.57,1.72,1.59,0.29,1.03,0.6,0.73,Low,Acceptable corrosion rates
+Kagera,06/04/2020,56.96,39.84,24.1,0.95,1.5,6.16,0.84,3.58,0.67,1.17,1.79,0.55,Moderate,Erosive wear from particulate ingress
+Tanga,02/03/2022,83.84,58.64,9.21,2.08,0.05,0.46,0.58,1.13,1.38,0.17,0.24,0.65,Severe,Critical stress corrosion cracking
+Mbeya,20/06/2024,54.64,38.21,27.6,0.8,0.63,4.17,2.25,2.17,0.33,1.2,0.92,0.66,Low,Acceptable corrosion rates
+Pwani,06/09/2023,85.9,60.08,10.94,3.25,0.05,0.2,0.1,0.5,0.51,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Zanzibar,15/02/2023,53.36,37.32,41.14,0.99,0.53,0.91,0.31,0.43,0.2,0.38,0.09,0.66,Low,Minor surface oxidation
+Shinyanga,11/10/2020,68.71,48.06,17.4,0.27,0.99,3.35,0.93,5.17,0.21,0.43,0.53,0.14,Moderate,Moderate pitting observed
+Mtwara,17/02/2023,76.71,53.65,15.81,0.11,0.4,0.42,1.27,0.7,0.76,1.47,1.4,0.55,Moderate,Uniform corrosion with scaling
+Zanzibar,09/12/2023,64.71,45.26,25.76,0.5,1.44,0.42,0.05,1.28,0.25,1.32,1.15,0.8,Very Low,Passive corrosion behavior
+Musoma,17/09/2025,59.8,41.83,22.45,0.77,0.09,5.42,1.39,2.14,0.2,2.97,0.72,0.39,Low,Protective oxide layer formation
+Musoma,25/06/2024,62.27,43.55,26.0,1.49,0.18,2.73,0.83,3.12,0.76,0.95,0.41,0.26,Moderate,Erosive wear from particulate ingress
+Pemba,18/09/2023,72.01,50.36,17.34,0.91,0.59,0.26,0.08,2.97,0.36,1.95,0.27,0.2,Moderate,Moderate pitting observed
+Mbeya,23/04/2020,92.19,64.48,6.3,3.43,0.05,0.2,0.1,0.5,0.97,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Pwani,17/04/2021,79.27,55.44,5.46,3.3,0.15,2.58,2.69,0.65,1.42,1.68,0.62,0.5,High,Aggressive pitting corrosion
+Dar es Salaam,05/12/2022,63.72,44.57,22.51,1.1,0.66,5.41,0.54,0.7,0.09,1.05,1.2,0.07,Low,Minimal corrosion activity
+Dar es Salaam,01/01/2022,62.26,43.55,39.09,1.09,0.05,0.2,0.1,0.5,0.06,0.1,0.05,0.05,Low,Minimal corrosion activity
+Bukoba,23/12/2022,69.44,48.57,26.55,0.62,0.12,1.13,0.51,0.36,0.56,0.12,0.11,0.32,Moderate,Selective corrosion activity
+Mbeya,05/06/2020,43.42,30.37,43.11,1.08,0.34,4.33,1.72,2.55,0.18,0.1,0.8,0.19,Low,Minimal corrosion activity
+Musoma,20/03/2021,44.01,30.78,38.69,0.39,0.07,5.87,2.61,2.28,0.22,1.63,1.14,0.61,Low,Light surface scaling
+Tabora,14/11/2024,53.11,37.14,32.35,1.15,1.13,2.65,0.69,5.05,0.19,0.33,0.73,0.53,Low,Light surface scaling
+Njombe,16/11/2023,67.34,47.1,25.36,1.88,0.03,0.9,0.6,0.78,0.7,0.24,1.23,0.2,Moderate,Moderate crevice corrosion
+Ruvuma,08/07/2023,59.63,41.7,20.12,0.3,1.1,3.84,2.46,5.99,0.17,2.88,1.21,0.4,Low,Slight discoloration only
+Singida,22/11/2024,64.37,45.02,22.11,0.47,1.23,3.29,1.78,1.67,0.28,1.13,0.54,0.36,Very Low,Excellent corrosion resistance
+Zanzibar,25/09/2025,70.26,49.14,18.32,1.59,0.03,3.95,0.72,0.81,0.57,1.13,0.33,0.39,Moderate,Selective corrosion activity
+Njombe,18/04/2021,85.55,59.83,6.32,4.24,0.23,1.04,0.19,0.41,0.94,0.48,0.34,0.26,Severe,Metal loss in carbon steel
+Rukwa,26/04/2024,72.91,50.99,21.62,0.35,0.35,0.38,0.29,1.14,0.17,0.52,0.86,0.07,Moderate,Uniform corrosion with scaling
+Rukwa,17/02/2022,59.2,41.41,22.2,1.19,0.89,2.05,2.31,5.07,0.51,1.35,1.3,0.02,Moderate,Moderate crevice corrosion
+Mbeya,09/11/2022,69.23,48.42,13.37,0.69,0.97,3.61,0.39,6.12,0.21,0.98,1.67,0.04,Moderate,Erosive wear from particulate ingress
+Kagera,30/06/2020,53.81,37.64,29.02,1.1,0.92,5.69,2.2,3.44,0.12,0.21,1.15,0.73,Low,Minor surface oxidation
+Madimba,21/11/2024,62.34,43.6,38.35,0.87,0.05,0.2,0.1,0.5,0.13,0.1,0.05,0.05,Low,Light surface scaling
+Rukwa,07/01/2020,69.21,48.41,13.66,1.56,0.62,1.36,2.48,5.3,0.78,1.22,0.64,0.47,Moderate,General surface corrosion
+Kagera,30/10/2025,83.22,58.2,8.69,3.13,0.1,1.48,0.38,0.36,1.18,0.24,0.36,0.71,Severe,Significant wall thinning
+Dar es Salaam,18/03/2022,72.24,50.53,19.62,0.28,0.37,0.59,0.87,2.24,0.79,0.39,1.22,0.62,Moderate,General surface corrosion
+Dodoma,31/01/2024,61.89,43.29,28.26,0.72,0.17,1.9,0.95,2.28,0.23,0.81,1.37,0.44,Low,Light surface scaling
+Shinyanga,01/11/2024,55.65,38.92,43.58,1.12,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Low,Minor surface oxidation
+Zanzibar,13/10/2020,45.74,31.99,43.22,0.14,0.59,1.99,1.18,1.31,0.11,2.03,0.35,0.22,Low,Slight discoloration only
+Musoma,14/09/2023,58.39,40.84,21.05,1.26,0.15,5.32,2.4,7.03,0.61,0.46,0.61,0.72,Moderate,Selective corrosion activity
+Tabora,09/07/2023,93.11,65.12,6.85,1.24,0.05,0.2,0.1,0.5,0.71,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Rukwa,25/05/2021,51.74,36.19,22.4,1.04,0.51,7.32,0.83,8.4,0.33,2.72,1.11,0.05,Very Low,No significant deterioration
+Njombe,15/05/2023,39.5,27.63,44.71,0.09,0.86,2.59,2.85,4.2,0.06,0.67,0.97,0.57,Very Low,Negligible corrosion detected
+Shinyanga,08/09/2025,43.83,30.66,43.4,0.85,1.42,2.85,1.66,0.49,0.17,0.54,1.97,0.76,Very Low,Excellent corrosion resistance
+Rukwa,20/06/2023,60.01,41.98,30.25,0.85,0.5,1.41,0.67,2.98,0.24,0.76,0.27,0.72,Low,Minimal corrosion activity
+Shinyanga,30/07/2024,69.57,48.66,21.67,0.29,0.1,2.08,0.94,0.54,0.23,1.15,0.87,0.15,Moderate,Selective corrosion activity
+Madimba,29/08/2023,86.22,60.31,4.58,3.34,0.02,0.54,0.49,2.1,0.5,0.61,0.78,0.43,High,Advanced galvanic corrosion
+Shinyanga,06/07/2024,59.83,41.85,28.75,0.62,0.41,0.15,2.62,2.92,0.22,0.93,0.29,0.36,Low,Acceptable corrosion rates
+Njombe,26/04/2023,64.28,44.96,18.73,1.39,0.54,4.52,0.33,3.67,0.77,1.06,1.14,0.69,Moderate,Moderate pitting observed
+Bukoba,05/06/2021,56.48,39.5,27.97,0.08,0.84,4.29,1.08,3.55,0.23,1.59,1.1,0.52,Very Low,Negligible corrosion detected
+Iringa,24/02/2022,51.48,36.01,35.03,0.56,1.03,2.98,1.61,1.2,0.21,2.27,1.33,0.1,Low,Protective oxide layer formation
+Ruvuma,18/09/2024,85.01,59.45,11.12,4.11,0.05,0.2,0.1,0.5,0.46,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Bukoba,01/04/2024,75.75,52.98,6.97,2.16,1.65,0.14,0.55,4.42,0.56,1.78,1.83,0.57,Severe,Deep penetration corrosion
+Kagera,13/12/2021,71.67,50.13,13.88,1.8,1.32,0.16,2.99,1.23,0.79,0.91,0.36,0.47,Moderate,Erosive wear from particulate ingress
+Madimba,17/05/2023,81.4,56.94,3.07,3.28,1.84,1.08,0.97,1.7,1.09,0.61,0.8,0.2,High,Critical structural degradation
+Mbeya,21/07/2024,62.37,43.62,27.54,1.51,0.39,1.54,0.28,2.84,0.43,0.99,0.82,0.71,Moderate,Moderate crevice corrosion
+Songosongo,02/01/2020,75.73,52.96,19.82,1.53,0.06,0.92,0.27,0.51,0.54,0.11,0.19,0.05,Moderate,Selective corrosion activity
+Madimba,29/05/2023,56.12,39.25,27.65,0.61,0.95,3.98,2.59,4.09,0.15,0.73,1.07,0.71,Very Low,Negligible corrosion detected
+Tabora,21/03/2023,66.91,46.79,23.99,1.2,0.57,0.27,2.39,0.49,0.78,0.89,0.73,0.08,Moderate,Erosive wear from particulate ingress
+Arusha,10/05/2022,89.94,62.91,4.37,1.95,0.2,0.92,0.15,0.35,1.32,0.28,0.21,0.3,Severe,Severe localized attack
+Mtwara,26/10/2024,62.91,44.0,27.95,0.63,0.73,1.08,0.14,2.14,0.64,0.15,1.53,0.43,Moderate,General surface corrosion
+Singida,12/08/2023,75.67,52.92,3.61,2.16,0.74,7.64,0.71,0.79,0.89,2.77,1.97,0.45,Severe,Critical stress corrosion cracking
+Bukoba,19/03/2025,75.11,52.53,10.93,3.57,0.55,2.01,2.68,0.65,0.55,1.02,0.26,0.01,High,Severe intergranular attack
+Morogoro,14/12/2024,76.75,53.68,11.06,3.15,0.88,0.33,1.41,2.34,0.63,0.37,0.57,0.38,Severe,Rapid corrosion propagation
+Iringa,16/12/2024,75.28,52.65,15.14,1.79,0.52,1.37,1.54,0.53,0.55,1.04,0.39,0.31,Moderate,Uniform corrosion with scaling
+Iringa,25/05/2022,53.76,37.6,37.14,0.61,1.17,1.25,0.11,1.29,0.14,0.85,1.8,0.42,Low,Minimal corrosion activity
+Songosongo,24/09/2025,64.86,45.37,23.63,1.34,0.06,0.6,0.57,3.77,0.15,0.61,0.25,0.79,Moderate,Moderate crevice corrosion
+Zanzibar,22/04/2025,66.87,46.77,27.05,0.58,0.43,0.69,0.47,1.21,0.74,0.45,0.42,0.69,Moderate,Selective corrosion activity
+Dar es Salaam,26/11/2021,81.72,57.16,2.05,2.87,0.85,1.16,2.64,2.28,0.62,0.51,1.22,0.56,High,Severe intergranular attack
+Mbeya,13/12/2020,74.99,52.45,19.03,1.18,0.16,1.49,0.53,1.02,0.19,0.54,0.07,0.02,Moderate,Erosive wear from particulate ingress
+Mtwara,08/03/2023,71.05,49.7,16.73,1.6,0.33,1.75,0.64,1.88,0.47,0.41,0.12,0.17,Moderate,Selective corrosion activity
+Iringa,12/10/2025,50.09,35.03,44.27,0.39,0.03,0.82,0.06,0.91,0.12,1.14,1.23,0.71,Very Low,Passive corrosion behavior
+Dar es Salaam,04/10/2023,66.28,46.36,26.16,0.59,0.92,0.83,1.56,0.8,0.53,0.15,0.18,0.64,Moderate,Moderate crevice corrosion
+Pwani,17/01/2021,69.9,48.89,14.86,1.45,0.73,1.18,2.49,5.13,0.2,1.67,0.25,0.66,Moderate,Erosive wear from particulate ingress
+Singida,20/08/2022,86.93,60.8,3.89,2.05,0.27,1.54,0.55,1.49,0.53,0.63,0.82,0.72,Severe,Metal loss in carbon steel
+Arusha,25/06/2023,46.19,32.31,40.45,0.81,0.77,5.27,0.88,0.48,0.1,0.39,1.2,0.03,Low,Minimal corrosion activity
+Zanzibar,09/07/2022,57.05,39.9,24.21,0.5,0.7,1.45,1.6,6.02,0.19,2.44,1.29,0.2,Low,Acceptable corrosion rates
+Kigoma,26/03/2022,56.78,39.71,25.33,0.13,0.06,7.21,2.94,2.61,0.35,0.57,1.41,0.37,Low,Minimal corrosion activity
+Kigoma,26/08/2021,53.3,37.28,41.5,0.05,0.43,0.48,1.56,0.52,0.1,0.72,0.33,0.28,Low,Minimal corrosion activity
+Ruvuma,10/04/2020,47.83,33.45,29.2,0.53,1.17,6.67,0.79,6.17,0.31,1.87,0.75,0.39,Low,Slight discoloration only
+Pwani,08/07/2020,68.47,47.89,20.52,1.95,1.06,0.82,1.25,0.55,0.74,1.37,1.93,0.32,Moderate,Uniform corrosion with scaling
+Mbeya,29/09/2022,57.05,39.9,23.36,0.73,1.64,5.04,1.52,5.61,0.22,0.86,1.33,0.33,Very Low,Excellent corrosion resistance
+Tanga,30/04/2025,62.34,43.6,24.31,1.04,0.06,4.35,0.72,3.03,0.32,1.09,0.66,0.77,Low,Slight discoloration only
+Bukoba,25/10/2020,61.62,43.1,23.26,0.33,1.47,5.67,0.1,2.32,0.57,0.82,0.65,0.21,Moderate,Erosive wear from particulate ingress
+Madimba,08/02/2025,73.95,51.72,27.09,0.3,0.05,0.2,0.1,0.5,0.67,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Morogoro,24/08/2024,55.43,38.77,33.06,0.03,1.05,2.54,0.83,2.44,0.18,0.72,1.74,0.16,Low,Light surface scaling
+Singida,07/03/2022,60.91,42.6,32.89,0.43,0.34,1.53,0.76,0.54,0.18,0.3,1.02,0.48,Low,Minor surface oxidation
+Pwani,21/04/2024,46.92,32.82,39.4,0.85,0.65,4.13,2.02,1.02,0.27,0.15,0.67,0.54,Low,Slight discoloration only
+Songosongo,17/07/2025,48.63,34.02,39.54,1.1,0.98,0.13,1.55,4.06,0.37,0.82,0.43,0.79,Low,Minor surface oxidation
+Mwanza,24/06/2024,73.25,51.23,14.94,0.26,0.5,4.31,0.08,0.39,0.64,1.64,1.23,0.56,Moderate,Erosive wear from particulate ingress
+Shinyanga,26/09/2022,75.09,52.52,21.4,0.73,0.3,0.11,0.09,0.53,0.7,0.32,0.3,0.07,Moderate,Selective corrosion activity
+Zanzibar,27/08/2021,55.85,39.06,34.68,1.01,0.58,3.25,1.45,0.38,0.28,0.4,0.28,0.04,Low,Acceptable corrosion rates
+Madimba,23/01/2020,54.87,38.38,31.36,1.03,1.59,1.01,1.35,3.61,0.1,0.27,0.26,0.72,Low,Slight discoloration only
+Bukoba,12/03/2021,84.29,58.96,7.81,3.55,0.11,0.95,0.29,0.7,1.28,0.43,0.17,0.42,Severe,Metal loss in carbon steel
+Iringa,07/10/2024,86.09,60.21,6.15,1.47,0.29,1.36,0.07,1.53,1.46,0.4,0.59,0.05,Severe,Severe localized attack
+Pwani,15/06/2022,85.97,60.13,4.49,1.53,0.14,0.24,0.38,1.69,0.71,1.64,0.46,0.37,Severe,Significant wall thinning
+Lindi,21/12/2021,72.56,50.75,24.64,0.95,0.11,0.16,0.17,0.32,0.55,0.16,0.13,0.24,Moderate,Erosive wear from particulate ingress
+Dar es Salaam,22/10/2025,48.8,34.13,34.36,0.12,0.57,3.69,2.08,6.4,0.08,1.29,0.71,0.69,Low,Light surface scaling
+Arusha,17/03/2025,84.98,59.44,7.42,4.25,0.19,0.26,0.05,0.59,0.99,0.22,0.24,0.36,High,Aggressive pitting corrosion
+Ruvuma,24/07/2020,82.01,57.36,2.47,2.47,0.67,2.5,1.87,3.98,0.45,0.34,0.5,0.19,High,Severe intergranular attack
+Kagera,17/10/2022,63.25,44.24,24.69,0.01,0.47,2.66,1.43,4.37,0.37,0.21,0.36,0.15,Very Low,Stable protective coating
+Kagera,12/05/2021,77.7,54.35,11.32,2.53,0.16,2.37,0.55,3.07,0.6,0.21,0.38,0.25,Severe,Significant wall thinning
+Singida,12/02/2025,63.89,44.69,37.8,0.19,0.05,0.2,0.1,0.5,0.05,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Ruvuma,30/06/2021,76.07,53.2,14.97,0.65,0.77,1.91,0.49,2.29,0.57,0.38,1.06,0.37,Moderate,Moderate pitting observed
+Pwani,18/03/2025,84.05,58.78,2.72,2.37,0.86,0.18,1.36,2.29,0.87,1.95,1.27,0.73,Severe,Rapid corrosion propagation
+Dar es Salaam,15/12/2025,47.28,33.07,32.62,0.95,1.15,7.11,1.44,1.29,0.16,2.65,1.35,0.65,Very Low,Optimal material performance
+Rukwa,23/07/2023,64.16,44.87,24.85,1.08,0.86,0.47,2.71,1.66,0.39,0.26,0.83,0.33,Moderate,General surface corrosion
+Morogoro,17/12/2024,56.54,39.55,24.35,1.23,0.63,7.08,1.99,1.42,0.69,2.37,1.09,0.74,Moderate,Moderate pitting observed
+Tanga,29/08/2025,83.96,58.73,5.32,1.82,0.75,1.0,2.05,1.14,0.83,0.2,0.31,0.28,Severe,Metal loss in carbon steel
+Kigoma,13/10/2024,59.45,41.58,30.19,0.19,0.38,0.97,1.6,2.84,0.19,1.62,1.41,0.79,Very Low,Passive corrosion behavior
+Bukoba,31/12/2024,49.18,34.4,41.28,0.34,0.46,2.21,0.42,2.58,0.15,0.15,0.57,0.65,Low,Slight discoloration only
+Pemba,13/10/2021,84.14,58.85,7.65,3.04,0.24,0.49,0.31,0.83,1.31,0.53,0.39,0.08,Severe,Critical stress corrosion cracking
+Morogoro,28/04/2025,79.27,55.45,5.54,1.53,0.32,1.89,1.37,3.16,0.65,1.46,0.32,0.71,Severe,Significant wall thinning
+Tabora,17/01/2025,64.48,45.1,19.97,0.17,1.47,4.07,0.56,3.46,0.51,0.76,1.89,0.12,Moderate,Erosive wear from particulate ingress
+Mbeya,27/11/2022,68.93,48.21,21.43,1.93,0.12,2.54,0.98,1.79,0.46,0.32,0.24,0.41,Moderate,Moderate crevice corrosion
+Zanzibar,09/10/2022,85.06,59.5,8.96,1.05,0.26,1.03,0.37,0.63,1.29,0.58,0.25,0.52,Severe,Severe localized attack
+Njombe,09/02/2023,84.91,59.39,9.29,1.96,0.06,1.1,0.42,0.68,0.64,0.22,0.16,0.23,Severe,Significant wall thinning
+Dodoma,05/11/2025,54.73,38.28,30.26,0.31,1.14,1.78,0.27,5.71,0.19,0.33,1.2,0.34,Low,Acceptable corrosion rates
+Morogoro,07/06/2025,77.03,53.88,15.69,1.72,0.38,1.16,0.08,0.67,0.36,0.91,1.08,0.14,Moderate,Uniform corrosion with scaling
+Dar es Salaam,06/09/2022,90.84,63.53,5.38,1.27,0.21,0.27,0.3,0.42,0.59,0.21,0.05,0.47,Severe,Rapid corrosion propagation
+Iringa,29/01/2023,55.54,38.85,30.98,0.32,0.05,3.87,0.91,3.6,0.4,1.37,0.23,0.17,Low,Slight discoloration only
+Singida,06/12/2024,74.45,52.07,22.47,0.76,0.02,0.28,0.23,0.52,0.61,0.16,0.3,0.11,Moderate,Selective corrosion activity
+Tabora,13/11/2020,60.14,42.06,35.56,0.37,0.38,0.47,0.38,0.77,0.17,0.41,0.42,0.76,Very Low,Excellent corrosion resistance
+Pwani,16/03/2023,45.12,31.56,42.85,0.71,0.03,3.66,0.51,2.71,0.07,1.55,1.23,0.75,Very Low,Stable protective coating
+Musoma,18/08/2022,65.1,45.53,26.72,0.19,0.23,2.5,0.92,0.38,0.46,0.27,0.13,0.46,Moderate,General surface corrosion
+Njombe,17/01/2023,66.63,46.6,25.78,1.65,0.4,1.79,0.58,0.32,0.55,0.65,0.35,0.73,Moderate,Uniform corrosion with scaling
+Madimba,07/10/2023,51.86,36.27,42.97,0.02,0.5,0.83,0.59,0.46,0.09,0.35,0.62,0.04,Low,Light surface scaling
+Morogoro,02/08/2023,73.64,51.51,23.6,1.41,0.05,0.11,0.07,0.3,0.6,0.1,0.04,0.02,Moderate,Uniform corrosion with scaling
+Kigoma,26/11/2020,50.15,35.07,44.63,0.67,0.19,1.26,0.18,1.39,0.31,0.14,0.34,0.67,Low,Light surface scaling
+Dar es Salaam,20/07/2021,63.97,44.74,26.87,1.74,0.26,1.81,1.04,2.48,0.35,0.25,0.21,0.66,Moderate,Uniform corrosion with scaling
+Pwani,09/09/2021,47.17,32.99,37.45,0.4,0.72,4.76,1.96,2.16,0.28,1.52,0.03,0.56,Very Low,Stable protective coating
+Lindi,05/08/2022,76.68,53.63,21.4,1.65,0.05,0.2,0.1,0.5,0.31,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Pemba,17/04/2024,62.46,43.69,14.17,1.46,3.02,6.51,0.71,1.51,0.34,2.18,1.06,0.44,Low,Minor surface oxidation
+Shinyanga,17/09/2021,62.5,43.71,21.64,1.0,0.51,3.79,1.78,5.29,0.79,0.65,1.1,0.32,Moderate,Moderate pitting observed
+Songosongo,26/05/2022,83.32,58.27,8.81,3.02,0.27,1.09,0.39,0.56,1.45,0.22,0.3,0.53,High,Advanced galvanic corrosion
+Bukoba,20/09/2020,66.07,46.21,18.48,1.27,0.4,2.23,1.87,5.36,0.28,0.79,0.8,0.33,Moderate,General surface corrosion
+Madimba,26/08/2024,69.67,48.73,17.9,1.56,0.27,2.89,0.31,3.37,0.77,0.46,0.46,0.69,Moderate,Moderate pitting observed
+Iringa,27/07/2024,53.08,37.13,37.67,0.87,0.51,2.11,1.1,3.19,0.05,0.11,0.64,0.67,Very Low,Optimal material performance
+Mwanza,17/09/2023,54.55,38.15,36.32,1.15,0.61,1.12,0.9,2.94,0.25,0.58,0.08,0.41,Low,Light surface scaling
+Madimba,23/03/2025,73.21,51.21,26.54,1.21,0.05,0.2,0.1,0.5,0.76,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Lindi,30/08/2024,60.98,42.65,28.87,1.11,0.93,2.66,0.88,1.52,0.36,0.26,0.66,0.59,Very Low,Passive corrosion behavior
+Bukoba,12/09/2020,72.82,50.93,19.26,0.35,0.2,1.64,1.12,2.04,0.48,0.14,0.34,0.13,Moderate,Moderate crevice corrosion
+Kigoma,27/04/2022,62.72,43.87,20.38,0.87,0.29,3.4,2.47,4.68,0.35,0.89,1.03,0.44,Low,Slight discoloration only
+Tabora,16/09/2024,68.0,47.56,26.44,1.9,0.12,0.92,0.09,1.0,0.72,0.17,0.33,0.32,Moderate,General surface corrosion
+Dodoma,14/05/2024,77.78,54.4,9.05,1.73,0.54,1.28,1.08,1.72,0.58,1.95,1.11,0.09,Severe,Rapid corrosion propagation
+Cyclone,21/03/2020,82.4,57.63,8.98,3.2,0.42,0.98,0.39,1.73,0.63,0.21,0.49,0.17,Severe,Deep penetration corrosion
+Lindi,07/04/2024,73.62,51.49,24.25,1.42,-0.01,0.08,0.04,0.16,0.44,0.03,0.0,0.01,Moderate,Moderate crevice corrosion
+Kilifi,07/05/2025,67.45,47.18,24.19,1.7,0.29,1.49,0.84,2.58,0.19,0.44,0.06,0.28,Moderate,Moderate crevice corrosion
+Singida,25/01/2020,79.03,55.28,9.67,1.09,0.65,3.46,1.28,0.83,1.32,0.74,0.49,0.16,Severe,Severe localized attack
+Pwani,11/12/2023,45.21,31.62,39.75,0.64,1.5,4.19,0.54,3.4,0.33,0.21,0.16,0.2,Low,Acceptable corrosion rates
+Mwanza,08/05/2023,64.42,45.05,16.77,1.76,1.99,4.28,1.16,2.24,0.16,1.65,1.83,0.22,Moderate,Moderate crevice corrosion
+Lindi,16/05/2024,67.63,47.3,27.98,1.9,0.14,0.34,0.05,0.72,0.3,0.1,0.25,0.03,Moderate,Uniform corrosion with scaling
+Pwani,12/09/2024,72.34,50.6,19.48,0.31,0.83,0.83,1.05,1.96,0.2,0.84,0.72,0.47,Moderate,Selective corrosion activity
+Dodoma,22/06/2022,76.83,53.74,16.57,1.58,0.24,1.43,0.66,0.92,0.7,0.18,0.16,0.25,Moderate,Moderate pitting observed
+Iringa,22/06/2025,51.53,36.04,36.46,0.42,0.7,2.02,1.98,3.48,0.06,1.56,0.99,0.41,Low,Minimal corrosion activity
+Kigoma,17/06/2022,65.7,45.95,26.14,1.41,0.09,1.68,0.94,2.4,0.28,0.52,0.06,0.1,Moderate,Moderate crevice corrosion
+Mbeya,22/01/2023,49.57,34.67,42.28,0.97,0.72,0.7,0.28,0.31,0.27,0.88,0.1,0.29,Low,Protective oxide layer formation
+Tanga,20/11/2024,50.88,35.59,31.37,0.56,0.92,1.2,1.57,6.51,0.2,2.23,1.86,0.31,Low,Protective oxide layer formation
+Rukwa,12/06/2025,71.57,50.06,18.33,1.11,0.32,3.02,0.93,2.23,0.36,0.17,1.06,0.08,Moderate,Uniform corrosion with scaling
+Shinyanga,28/04/2020,91.89,64.27,5.85,2.35,0.05,0.2,0.1,0.5,1.1,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Njombe,11/05/2024,87.75,61.37,10.09,3.19,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Tabora,08/10/2023,71.03,49.68,25.32,1.21,0.13,0.45,0.19,0.71,0.2,0.19,0.3,0.26,Moderate,Moderate pitting observed
+Lindi,14/07/2024,83.04,58.08,1.68,1.18,0.09,1.99,2.17,2.26,0.46,2.17,0.45,0.23,Severe,Rapid corrosion propagation
+Dodoma,07/11/2021,58.32,40.79,27.1,0.35,0.96,2.56,1.1,1.22,0.67,2.39,0.26,0.59,Moderate,Uniform corrosion with scaling
+Madimba,29/03/2025,72.8,50.92,19.9,1.65,0.05,1.33,0.27,1.66,0.28,0.77,0.76,0.53,Moderate,Selective corrosion activity
+Pwani,06/06/2021,76.59,53.57,15.05,1.47,0.28,1.23,1.43,0.46,0.44,0.58,0.89,0.7,Moderate,Moderate crevice corrosion
+Dar es Salaam,27/12/2025,47.08,32.93,38.07,0.28,0.9,3.78,0.54,4.69,0.24,1.55,0.6,0.15,Very Low,Negligible corrosion detected
+Tanga,20/04/2020,50.36,35.22,44.62,0.92,0.38,0.52,0.19,1.29,0.11,0.39,0.34,0.43,Very Low,Passive corrosion behavior
+Kagera,01/06/2024,82.98,58.04,5.02,3.08,0.05,2.7,0.68,2.34,0.83,0.75,0.21,0.41,High,Advanced galvanic corrosion
+Bukoba,21/04/2020,53.83,37.65,29.42,0.67,1.34,6.25,0.2,2.51,0.25,1.89,1.61,0.16,Very Low,No significant deterioration
+Arusha,09/12/2020,53.68,37.55,39.92,0.11,0.49,0.3,1.12,1.83,0.3,0.78,0.05,0.03,Low,Slight discoloration only
+Lindi,21/10/2024,68.95,48.22,27.02,0.96,0.41,0.13,0.42,0.48,0.23,0.27,0.42,0.5,Moderate,Moderate pitting observed
+Pwani,09/07/2021,57.11,39.95,27.99,0.95,0.01,3.51,0.25,4.77,0.69,0.51,0.61,0.1,Moderate,Uniform corrosion with scaling
+Kagera,06/03/2025,70.57,49.36,23.99,1.76,0.12,0.11,0.67,0.35,0.76,0.28,0.28,0.22,Moderate,General surface corrosion
+Tabora,14/01/2022,65.12,45.55,22.76,1.07,1.18,0.86,1.08,1.29,0.4,2.22,1.34,0.19,Moderate,Selective corrosion activity
+Pemba,24/07/2020,68.13,47.65,20.8,1.02,0.13,2.64,0.25,2.3,0.47,1.35,0.13,0.78,Moderate,Moderate crevice corrosion
+Dodoma,01/12/2022,76.21,53.3,3.05,2.44,0.69,5.49,1.55,5.82,0.93,0.7,0.59,0.73,High,Extensive uniform corrosion
+Singida,01/04/2024,86.16,60.27,4.23,2.0,0.61,1.13,0.51,2.39,0.44,0.64,0.15,0.69,Severe,Severe localized attack
+Bukoba,02/09/2023,93.93,65.7,3.39,2.27,0.05,0.2,0.1,0.5,0.81,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Bukoba,16/05/2022,59.05,41.3,19.63,1.25,2.4,5.19,2.3,0.54,0.71,2.3,1.46,0.74,Moderate,Uniform corrosion with scaling
+Shinyanga,05/02/2025,58.5,40.92,26.28,1.83,1.08,0.12,2.96,3.54,0.58,2.18,1.16,0.28,Moderate,General surface corrosion
+Bukoba,31/08/2023,80.83,56.53,2.1,2.88,1.19,1.4,1.7,0.98,1.41,2.32,0.47,0.01,Severe,Rapid corrosion propagation
+Mtwara,14/10/2023,83.2,58.19,6.25,2.74,0.04,1.29,0.47,2.21,0.89,0.38,0.89,0.19,Severe,Deep penetration corrosion
+Bukoba,01/04/2024,51.15,35.78,38.31,0.82,0.15,2.85,1.05,3.43,0.23,0.59,0.84,0.23,Low,Light surface scaling
+Tabora,13/02/2023,42.69,29.86,44.42,0.08,0.92,3.19,1.31,2.93,0.26,0.16,1.44,0.34,Low,Slight discoloration only
+Kigoma,22/09/2024,79.54,55.63,2.78,1.62,0.81,4.17,0.93,5.21,0.81,1.2,0.43,0.14,Severe,Critical stress corrosion cracking
+Madimba,30/10/2022,87.35,61.09,4.72,4.43,0.06,0.32,0.35,0.44,1.17,0.22,0.16,0.04,High,Advanced galvanic corrosion
+Madimba,01/12/2020,84.84,59.34,2.89,1.15,0.38,0.46,2.25,2.72,0.51,0.14,1.78,0.58,Severe,Metal loss in carbon steel
+Ruvuma,10/04/2025,57.85,40.46,40.86,0.6,0.01,0.11,0.05,0.21,0.26,0.05,0.01,0.01,Very Low,Optimal material performance
+Madimba,20/03/2020,50.96,35.64,32.94,0.68,0.96,5.7,1.08,3.04,0.06,1.42,1.48,0.42,Low,Minor surface oxidation
+Morogoro,01/08/2020,82.83,57.93,3.64,4.09,0.26,3.31,0.86,0.47,0.71,0.45,1.8,0.67,Severe,Deep penetration corrosion
+Ruvuma,04/12/2023,69.17,48.38,18.27,1.0,0.75,2.15,1.07,0.81,0.75,1.4,1.04,0.12,Moderate,Moderate crevice corrosion
+Pwani,07/07/2022,69.72,48.76,25.59,1.04,0.02,0.26,0.58,0.45,0.72,0.27,0.73,0.19,Moderate,Erosive wear from particulate ingress
+Musoma,08/10/2020,89.35,62.49,3.22,3.62,0.08,0.29,0.29,0.8,0.66,0.3,0.18,0.63,High,Aggressive pitting corrosion
+Cyclone,13/06/2020,45.5,31.83,41.23,0.4,0.88,2.52,1.87,4.1,0.22,0.62,0.44,0.44,Low,Slight discoloration only
+Rukwa,07/05/2020,57.92,40.51,30.72,0.06,1.48,2.2,1.16,1.59,0.19,1.12,0.19,0.74,Low,Minimal corrosion activity
+Mbeya,09/10/2022,69.35,48.5,17.77,1.68,0.11,1.72,2.64,1.94,0.43,1.5,0.2,0.35,Moderate,Erosive wear from particulate ingress
+Mwanza,27/03/2022,49.76,34.81,32.1,0.18,1.51,5.26,1.48,2.47,0.05,2.94,0.72,0.05,Low,Acceptable corrosion rates
+Zanzibar,24/03/2020,93.22,65.2,2.41,3.84,0.05,0.2,0.1,0.5,1.5,0.1,0.05,0.05,Severe,Significant wall thinning
+Tabora,16/09/2021,53.97,37.75,24.36,1.09,0.1,7.81,0.88,2.71,0.37,2.86,1.42,0.43,Low,Acceptable corrosion rates
+Tabora,04/09/2022,66.3,46.37,23.39,1.76,0.24,2.62,0.36,0.56,0.53,1.43,0.71,0.29,Moderate,Erosive wear from particulate ingress
+Cyclone,01/06/2021,77.53,54.23,2.56,2.89,0.63,2.25,1.49,5.76,1.18,2.36,0.98,0.47,Severe,Significant wall thinning
+Kigoma,23/04/2025,57.46,40.19,18.97,1.66,2.56,2.86,0.35,6.89,0.2,1.94,1.78,0.77,Moderate,Uniform corrosion with scaling
+Cyclone,13/04/2021,75.04,52.49,10.0,2.21,0.51,2.75,0.94,2.99,0.8,1.91,0.8,0.8,Severe,Metal loss in carbon steel
+Rukwa,11/06/2022,59.1,41.34,25.02,1.07,0.97,3.43,0.67,4.52,0.65,1.92,0.32,0.11,Moderate,Moderate crevice corrosion
+Tanga,19/03/2025,87.93,61.5,1.56,2.82,0.12,1.66,0.7,1.46,1.22,0.57,0.34,0.14,High,Advanced galvanic corrosion
+Arusha,15/11/2022,63.92,44.71,25.27,0.19,0.24,0.68,2.24,2.65,0.26,1.53,0.53,0.75,Low,Minor surface oxidation
+Rukwa,19/02/2024,88.96,62.22,5.6,1.1,0.31,0.69,0.53,0.49,1.02,0.28,0.51,0.27,Severe,Critical stress corrosion cracking
+Zanzibar,18/11/2021,77.07,53.91,2.68,3.9,0.45,2.81,2.73,4.18,0.49,0.96,1.01,0.37,Severe,Severe localized attack
+Njombe,14/04/2021,70.96,49.63,25.65,1.54,0.04,0.29,0.1,0.33,0.78,0.13,0.11,0.07,Moderate,General surface corrosion
+Kilifi,01/11/2021,80.04,55.98,1.22,2.17,0.2,3.28,2.92,3.3,0.98,2.23,0.74,0.34,High,Severe corrosion (oxidation and MIC)
+Rukwa,28/06/2023,73.37,51.31,21.15,1.1,0.12,0.25,0.64,1.24,0.7,0.33,0.04,0.39,Moderate,General surface corrosion
+Pwani,18/03/2021,60.78,42.51,24.31,1.42,0.85,5.37,0.08,0.55,0.31,2.7,0.65,0.2,Moderate,General surface corrosion
+Mwanza,15/04/2020,50.88,35.58,34.75,0.6,0.9,3.37,1.32,4.08,0.24,1.33,0.66,0.34,Very Low,Passive corrosion behavior
+Tanga,01/07/2023,86.65,60.61,10.81,1.06,0.03,0.27,0.15,0.39,0.43,0.1,0.03,0.07,Severe,Rapid corrosion propagation
+Tanga,17/03/2024,58.82,41.14,27.57,0.36,0.61,4.01,1.52,4.67,0.37,0.22,0.46,0.79,Low,Minimal corrosion activity
+Songosongo,12/06/2024,67.74,47.38,17.15,1.11,0.64,3.56,0.34,4.98,0.2,1.55,0.68,0.21,Moderate,Moderate pitting observed
+Iringa,23/03/2022,89.0,62.25,7.71,2.83,0.05,0.2,0.1,0.5,0.5,0.1,0.05,0.05,Severe,Severe localized attack
+Kagera,07/11/2020,59.46,41.58,22.58,0.5,1.74,1.52,1.96,2.88,0.74,2.63,1.74,0.43,Moderate,General surface corrosion
+Musoma,21/09/2022,77.8,54.42,5.29,2.09,0.45,3.81,0.31,5.17,0.96,0.4,0.59,0.5,Severe,Deep penetration corrosion
+Arusha,21/02/2021,79.17,55.37,7.11,2.74,0.49,1.66,1.05,1.09,1.22,2.29,1.44,0.6,High,Severe intergranular attack
+Ruvuma,20/05/2023,58.08,40.62,33.37,1.01,0.38,1.05,0.79,2.77,0.18,0.55,0.52,0.05,Low,Minor surface oxidation
+Pemba,10/05/2021,83.89,58.67,2.53,2.98,0.23,3.19,0.27,1.23,0.4,2.01,0.41,0.15,Severe,Critical stress corrosion cracking
+Singida,17/06/2020,55.87,39.08,34.58,1.05,0.65,1.77,2.08,1.17,0.12,0.41,0.61,0.25,Very Low,Negligible corrosion detected
+Songosongo,23/11/2023,71.73,50.17,14.95,0.8,0.76,5.42,0.26,1.05,0.44,1.3,1.06,0.53,Moderate,Uniform corrosion with scaling
+Iringa,22/12/2025,47.2,33.01,43.38,0.35,0.02,0.2,0.62,3.41,0.32,0.43,0.49,0.55,Low,Minimal corrosion activity
+Kigoma,20/10/2024,45.36,31.73,36.73,1.07,0.91,3.24,0.57,2.67,0.19,1.94,1.71,0.61,Low,Minimal corrosion activity
+Madimba,26/02/2024,63.38,44.33,24.42,0.5,0.42,1.06,0.54,1.24,0.47,2.35,1.06,0.37,Moderate,Moderate crevice corrosion
+Cyclone,09/10/2020,75.17,52.58,19.22,1.75,0.06,0.92,0.46,0.8,0.16,0.43,0.4,0.15,Moderate,Moderate crevice corrosion
+Mtwara,03/09/2025,81.78,57.2,1.53,3.43,0.7,1.08,2.4,3.59,0.85,1.39,0.7,0.39,Severe,Metal loss in carbon steel
+Tabora,29/10/2023,66.56,46.55,23.31,1.84,0.46,0.86,0.07,0.54,0.62,1.81,1.58,0.28,Moderate,Uniform corrosion with scaling
+Pemba,21/02/2020,77.61,54.28,4.75,1.44,1.65,4.99,0.34,2.34,0.85,1.12,0.14,0.75,Severe,Rapid corrosion propagation
+Kagera,16/09/2024,76.77,53.7,5.1,1.88,1.25,3.68,2.28,3.7,1.25,0.34,1.41,0.47,High,Severe corrosion (oxidation and MIC)
+Rukwa,30/06/2025,89.01,62.25,5.73,1.55,0.13,1.17,0.11,0.34,0.94,0.35,0.02,0.66,Severe,Metal loss in carbon steel
+Pwani,08/03/2021,85.49,59.79,2.34,1.65,0.78,2.21,2.44,1.22,0.8,0.93,0.84,0.39,Severe,Deep penetration corrosion
+Musoma,10/11/2024,84.43,59.05,4.21,4.01,0.03,1.34,1.11,2.37,0.54,0.75,0.37,0.31,Severe,Significant wall thinning
+Tabora,23/01/2024,73.25,51.23,20.91,0.63,0.12,1.68,0.6,0.51,0.61,0.69,0.07,0.41,Moderate,Moderate pitting observed
+Madimba,26/02/2025,63.78,44.61,38.34,0.06,0.05,0.2,0.1,0.5,0.23,0.1,0.05,0.05,Low,Minor surface oxidation
+Zanzibar,18/09/2021,74.19,51.89,21.8,0.79,0.28,0.36,0.16,0.36,0.25,0.33,0.53,0.63,Moderate,Moderate pitting observed
+Kigoma,18/11/2024,69.0,48.26,19.58,0.88,0.26,0.84,0.06,3.46,0.42,1.53,1.78,0.69,Moderate,Selective corrosion activity
+Zanzibar,22/12/2021,60.66,42.43,22.04,0.21,0.52,1.28,1.2,4.53,0.25,2.85,1.34,0.59,Very Low,Negligible corrosion detected
+Mtwara,07/11/2025,76.56,53.55,19.33,1.5,0.05,0.46,0.34,0.67,0.52,0.15,0.06,0.04,Moderate,Moderate pitting observed
+Cyclone,11/01/2023,59.8,41.83,35.83,0.82,0.22,0.56,0.55,1.16,0.27,0.21,0.25,0.21,Very Low,Excellent corrosion resistance
+Kagera,03/06/2025,67.26,47.04,21.46,0.36,0.52,4.78,1.37,0.51,0.35,1.38,0.44,0.42,Moderate,General surface corrosion
+Singida,19/03/2025,70.42,49.25,18.37,1.87,0.41,0.22,2.13,2.5,0.77,0.77,0.87,0.13,Moderate,Moderate crevice corrosion
+Ruvuma,19/11/2024,74.12,51.84,16.37,0.13,0.37,2.77,1.53,1.71,0.15,1.23,0.26,0.74,Moderate,Uniform corrosion with scaling
+Songosongo,04/01/2023,86.49,60.49,11.17,3.37,0.05,0.2,0.1,0.5,1.18,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Mtwara,13/08/2023,71.4,49.94,18.18,0.18,1.51,0.2,0.44,0.91,0.41,2.0,1.98,0.28,Moderate,Selective corrosion activity
+Pwani,02/10/2022,76.55,53.54,23.48,0.42,0.05,0.2,0.1,0.5,0.64,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Ruvuma,20/12/2020,53.74,37.59,42.43,0.48,0.02,0.81,0.6,0.72,0.25,0.33,0.13,0.38,Low,Minimal corrosion activity
+Zanzibar,16/02/2023,71.1,49.73,23.7,1.67,0.15,0.98,0.39,0.52,0.79,0.19,0.04,0.47,Moderate,Selective corrosion activity
+Dodoma,20/01/2025,61.72,43.17,22.27,1.35,1.8,3.07,1.73,0.47,0.29,2.64,1.06,0.61,Moderate,Uniform corrosion with scaling
+Singida,25/09/2022,72.16,50.47,17.94,0.49,0.4,3.1,1.81,0.36,0.56,0.63,1.3,0.62,Moderate,Moderate crevice corrosion
+Dar es Salaam,18/03/2025,55.86,39.07,36.11,0.03,0.42,2.82,1.27,1.28,0.21,0.12,0.42,0.34,Low,Acceptable corrosion rates
+Bukoba,01/04/2024,81.2,56.79,2.98,4.29,0.85,1.02,0.88,2.9,1.13,1.89,0.57,0.43,Severe,Metal loss in carbon steel
+Rukwa,09/10/2023,50.69,35.45,37.54,0.05,0.07,2.28,1.47,3.68,0.37,1.56,0.92,0.23,Very Low,Optimal material performance
+Mbeya,27/04/2020,68.98,48.24,15.31,0.39,1.22,1.9,2.51,1.02,0.55,1.05,1.88,0.19,Moderate,Erosive wear from particulate ingress
+Kilifi,17/07/2025,68.95,48.22,26.43,1.54,0.05,0.25,0.06,0.8,0.75,0.25,0.4,0.53,Moderate,Uniform corrosion with scaling
+Pwani,24/08/2023,58.46,40.89,29.67,0.31,1.31,2.08,0.23,2.11,0.28,1.16,1.83,0.34,Very Low,Negligible corrosion detected
+Dodoma,14/01/2022,71.16,49.77,16.27,1.89,0.2,2.15,0.26,3.32,0.44,1.17,0.97,0.43,Moderate,Selective corrosion activity
+Singida,20/06/2025,84.25,58.93,3.54,1.83,0.58,1.79,0.52,0.87,1.36,1.83,0.71,0.3,Severe,Significant wall thinning
+Mwanza,18/05/2022,86.08,60.2,10.87,3.46,0.05,0.2,0.1,0.5,1.39,0.1,0.05,0.05,Severe,Severe localized attack
+Singida,24/12/2023,76.91,53.79,18.03,0.15,0.26,0.55,0.39,0.68,0.73,0.67,0.72,0.72,Moderate,Moderate pitting observed
+Cyclone,24/11/2022,73.79,51.61,16.2,1.55,0.8,0.12,1.72,3.16,0.31,0.33,0.42,0.36,Moderate,Moderate crevice corrosion
+Tanga,26/10/2023,86.75,60.68,7.09,1.98,0.37,0.11,0.49,0.34,1.2,0.19,0.2,0.35,Severe,Severe localized attack
+Tabora,19/02/2023,63.06,44.11,39.05,1.13,0.05,0.2,0.1,0.5,0.26,0.1,0.05,0.05,Low,Slight discoloration only
+Mbeya,05/02/2023,64.17,44.88,18.13,0.42,0.23,6.65,2.77,2.6,0.72,0.35,1.73,0.32,Moderate,Selective corrosion activity
+Iringa,11/02/2020,39.87,27.89,37.68,0.3,0.4,2.39,2.77,8.62,0.2,2.81,1.6,0.35,Very Low,No significant deterioration
+Mtwara,17/10/2025,84.0,58.75,6.14,3.55,0.41,1.11,1.18,0.69,0.65,0.69,0.27,0.39,High,Severe intergranular attack
+Kagera,21/02/2022,57.7,40.36,28.99,1.19,0.3,3.62,1.83,1.07,0.05,1.77,1.53,0.55,Very Low,Optimal material performance
+Iringa,16/12/2020,67.55,47.24,19.24,0.38,0.69,4.17,1.37,2.21,0.72,0.41,0.99,0.32,Moderate,Erosive wear from particulate ingress
+Singida,15/09/2022,62.68,43.84,40.45,0.64,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Low,Light surface scaling
+Arusha,22/07/2024,51.95,36.33,30.83,0.02,0.54,6.21,1.23,4.4,0.12,1.73,0.89,0.75,Low,Slight discoloration only
+Musoma,24/06/2025,90.72,63.45,7.0,1.9,0.05,0.2,0.1,0.5,0.65,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Songosongo,11/09/2022,66.14,46.26,26.34,1.68,0.02,2.21,0.24,0.33,0.42,0.7,0.47,0.79,Moderate,Moderate pitting observed
+Dar es Salaam,04/05/2025,52.45,36.69,41.15,0.26,0.09,2.65,0.49,0.76,0.07,0.64,0.53,0.58,Low,Minimal corrosion activity
+Musoma,03/07/2025,74.06,51.8,18.23,1.25,0.34,0.45,0.67,1.5,0.51,0.52,1.13,0.39,Moderate,Moderate crevice corrosion
+Dar es Salaam,09/01/2025,80.87,56.56,9.66,2.34,0.97,0.22,0.74,1.48,1.0,0.47,0.42,0.71,High,Severe intergranular attack
+Iringa,11/03/2020,62.84,43.95,25.45,1.13,1.11,1.59,1.02,0.88,0.72,0.2,1.71,0.31,Moderate,Moderate pitting observed
+Mbeya,16/01/2021,87.55,61.24,2.55,2.19,0.06,1.49,0.07,2.27,1.18,0.31,0.8,0.61,Severe,Metal loss in carbon steel
+Songosongo,20/04/2023,58.53,40.94,36.63,0.67,0.35,1.53,0.14,0.4,0.39,0.33,0.56,0.41,Low,Minor surface oxidation
+Arusha,26/06/2022,71.29,49.86,13.94,1.68,1.41,2.28,1.3,2.54,0.68,1.33,1.1,0.76,Moderate,Uniform corrosion with scaling
+Mbeya,14/07/2024,53.97,37.74,36.34,0.98,0.57,2.78,1.21,2.04,0.26,0.21,0.42,0.21,Low,Protective oxide layer formation
+Kilifi,23/09/2022,83.64,58.5,3.9,3.79,0.5,0.41,1.84,1.79,0.4,0.54,0.18,0.24,Severe,Deep penetration corrosion
+Songosongo,08/06/2023,78.03,54.58,11.09,3.19,0.5,0.33,0.44,2.18,1.15,1.29,0.69,0.53,Severe,Deep penetration corrosion
+Morogoro,20/02/2024,56.02,39.18,22.86,1.59,1.56,2.11,0.92,6.89,0.46,2.63,1.03,0.11,Moderate,Uniform corrosion with scaling
+Kigoma,22/04/2025,51.25,35.84,40.58,0.47,0.12,0.99,1.24,2.42,0.38,0.44,0.05,0.31,Low,Light surface scaling
+Rukwa,14/12/2025,79.78,55.8,11.67,1.56,0.1,0.78,0.1,2.13,0.43,1.31,0.71,0.23,High,Critical structural degradation
+Kilifi,09/11/2023,63.01,44.07,28.04,1.2,0.29,2.47,0.64,2.65,0.15,0.6,0.21,0.46,Very Low,Negligible corrosion detected
+Songosongo,08/10/2024,88.76,62.08,4.7,0.88,0.2,2.0,0.08,0.71,0.56,0.28,0.68,0.43,Severe,Rapid corrosion propagation
+Kigoma,16/09/2023,47.83,33.45,43.06,0.93,0.06,1.62,1.91,1.28,0.14,1.18,0.17,0.4,Low,Minor surface oxidation
+Mwanza,12/12/2023,49.94,34.93,37.28,0.78,1.02,2.27,0.96,1.73,0.15,2.72,0.32,0.01,Low,Light surface scaling
+Njombe,01/02/2025,47.46,33.2,37.66,0.86,0.6,3.89,1.18,4.82,0.28,0.72,1.24,0.01,Very Low,Stable protective coating
+Iringa,14/01/2023,78.66,55.01,10.59,2.54,0.46,0.48,0.9,1.6,0.65,0.41,0.75,0.79,High,Severe corrosion (oxidation and MIC)
+Arusha,09/06/2023,77.3,54.06,1.57,3.49,0.26,7.73,2.83,0.99,0.43,0.52,0.49,0.42,High,Critical structural degradation
+Iringa,26/10/2022,60.1,42.03,16.95,1.54,0.61,3.36,2.38,5.53,0.75,2.47,0.69,0.75,Moderate,Erosive wear from particulate ingress
+Bukoba,02/08/2022,60.57,42.37,38.46,1.06,0.05,0.2,0.1,0.5,0.25,0.1,0.05,0.05,Low,Light surface scaling
+Pwani,09/05/2021,46.28,32.37,39.39,0.43,0.89,0.16,2.44,4.97,0.32,2.26,0.23,0.07,Low,Light surface scaling
+Rukwa,27/02/2022,50.15,35.08,44.65,0.76,0.24,1.13,0.79,0.77,0.19,0.6,0.2,0.51,Very Low,Excellent corrosion resistance
+Zanzibar,16/07/2023,84.81,59.32,2.87,1.6,0.89,0.49,0.7,3.05,0.4,0.79,0.8,0.54,Severe,Severe localized attack
+Mtwara,04/05/2021,49.9,34.9,41.24,0.2,0.01,1.3,0.48,3.13,0.21,0.29,1.04,0.09,Very Low,Excellent corrosion resistance
+Tanga,28/01/2022,68.55,47.95,14.8,0.62,0.07,0.57,0.51,5.84,0.65,2.88,1.96,0.01,Moderate,Moderate pitting observed
+Tanga,23/02/2022,81.15,56.76,4.49,4.27,1.09,1.09,2.28,0.56,1.12,1.11,0.73,0.7,Severe,Severe localized attack
+Dar es Salaam,05/06/2022,77.52,54.22,17.27,1.92,0.23,0.25,0.37,0.91,0.73,0.12,0.08,0.07,Moderate,Erosive wear from particulate ingress
+Mtwara,06/06/2025,68.27,47.75,27.59,1.72,0.06,0.64,0.25,0.33,0.44,0.19,0.16,0.28,Moderate,Uniform corrosion with scaling
+Tanga,06/02/2023,85.88,60.06,6.98,4.04,0.08,0.48,0.13,0.87,0.66,0.28,0.31,0.29,Severe,Severe localized attack
+Arusha,18/11/2025,76.91,53.79,11.82,2.27,0.85,1.04,0.82,0.75,1.29,1.37,1.3,0.41,Severe,Severe localized attack
+Njombe,05/03/2023,83.74,58.57,7.21,1.26,0.18,1.28,0.79,2.07,1.45,0.83,0.24,0.78,Severe,Metal loss in carbon steel
+Mbeya,15/02/2021,81.46,56.98,5.57,2.52,0.46,1.29,1.69,3.8,0.56,0.32,0.04,0.61,Severe,Rapid corrosion propagation
+Pwani,06/03/2022,69.39,48.53,15.38,0.2,0.88,4.09,1.72,1.93,0.2,1.78,0.55,0.2,Moderate,Moderate crevice corrosion
+Pemba,28/04/2023,58.96,41.24,23.04,0.74,0.34,4.16,1.85,6.03,0.11,0.89,1.96,0.64,Low,Minimal corrosion activity
+Mwanza,20/07/2022,74.49,52.1,16.75,1.54,0.86,0.42,1.64,0.75,0.43,0.5,1.56,0.07,Moderate,Selective corrosion activity
+Lindi,18/01/2024,73.45,51.37,24.16,1.6,-0.01,0.09,0.03,0.24,0.38,0.07,0.0,0.01,Moderate,Uniform corrosion with scaling
+Kilifi,04/01/2022,68.83,48.14,22.72,1.93,0.13,1.63,0.09,1.34,0.26,0.12,0.45,0.35,Moderate,General surface corrosion
+Arusha,23/05/2023,60.32,42.19,21.82,0.75,1.58,3.19,1.12,5.01,0.71,1.1,0.09,0.79,Moderate,Erosive wear from particulate ingress
+Iringa,27/02/2020,70.67,49.43,21.69,0.17,0.34,0.97,1.96,0.56,0.47,0.82,0.11,0.57,Moderate,Moderate pitting observed
+Ruvuma,27/12/2025,87.28,61.05,5.77,2.69,0.12,1.27,0.35,0.53,1.05,0.2,0.36,0.14,Severe,Significant wall thinning
+Iringa,02/06/2021,52.18,36.5,39.4,0.39,0.57,0.28,0.08,2.49,0.1,1.84,0.57,0.19,Low,Protective oxide layer formation
+Shinyanga,28/01/2023,66.71,46.66,27.73,1.98,0.11,0.62,0.48,0.7,0.56,0.14,0.05,0.07,Moderate,Moderate pitting observed
+Morogoro,05/07/2020,43.92,30.72,38.84,1.16,1.59,6.65,0.32,2.3,0.36,0.23,1.86,0.08,Low,Acceptable corrosion rates
+Mwanza,11/08/2020,47.44,33.18,40.23,0.64,0.42,3.56,0.27,2.03,0.39,1.71,0.09,0.3,Low,Slight discoloration only
+Arusha,11/04/2023,66.22,46.32,15.42,1.98,0.14,5.33,2.3,2.07,0.42,0.8,0.03,0.35,Moderate,Moderate pitting observed
+Mwanza,01/06/2021,77.73,54.37,16.1,0.99,0.52,1.06,0.14,1.03,0.73,0.4,0.46,0.28,Moderate,Moderate crevice corrosion
+Lindi,03/07/2025,75.94,53.11,20.08,0.62,0.08,0.8,0.35,0.43,0.77,0.3,0.12,0.49,Moderate,Uniform corrosion with scaling
+Dodoma,24/02/2021,56.73,39.68,35.81,0.19,0.11,2.0,0.76,1.17,0.16,1.05,0.96,0.06,Low,Slight discoloration only
+Iringa,20/02/2020,39.8,27.84,42.62,0.35,0.58,5.75,1.61,0.71,0.31,2.71,1.15,0.41,Low,Protective oxide layer formation
+Arusha,10/03/2023,65.49,45.81,24.09,0.49,0.45,0.83,1.38,3.65,0.44,1.37,0.94,0.66,Moderate,Moderate crevice corrosion
+Musoma,06/04/2025,68.8,48.12,20.57,0.4,1.09,1.87,0.86,3.03,0.3,0.52,0.12,0.04,Moderate,Moderate crevice corrosion
+Tabora,14/05/2025,63.84,44.65,35.68,1.18,0.05,0.2,0.1,0.5,0.36,0.1,0.05,0.05,Low,Light surface scaling
+Njombe,09/12/2024,63.88,44.68,20.73,0.18,0.48,4.52,1.06,3.59,0.09,2.33,0.29,0.38,Low,Slight discoloration only
+Dodoma,27/10/2023,74.14,51.86,21.5,0.97,0.11,1.07,0.07,0.9,0.32,0.38,0.09,0.45,Moderate,Uniform corrosion with scaling
+Tanga,25/01/2022,70.98,49.65,26.03,0.69,0.04,0.56,0.13,0.31,0.66,0.12,0.14,0.34,Moderate,Uniform corrosion with scaling
+Mbeya,29/07/2020,42.31,29.59,44.63,0.57,0.57,0.35,2.53,3.09,0.2,1.68,0.04,0.48,Low,Minor surface oxidation
+Kagera,31/10/2022,59.45,41.58,21.63,0.59,1.05,4.11,1.62,4.92,0.15,2.08,1.76,0.47,Very Low,Excellent corrosion resistance
+Kagera,10/05/2025,79.97,55.94,10.92,3.31,0.07,1.24,0.1,1.61,0.82,0.51,0.83,0.6,Severe,Significant wall thinning
+Mtwara,12/04/2021,49.15,34.37,41.39,1.08,1.43,0.22,0.74,1.09,0.36,0.74,1.3,0.07,Low,Acceptable corrosion rates
+Singida,24/09/2020,51.76,36.2,30.04,0.79,0.13,4.36,0.94,5.82,0.17,0.34,0.2,0.47,Low,Light surface scaling
+Cyclone,29/06/2024,61.86,43.26,22.67,0.77,1.16,3.52,2.22,2.64,0.29,1.29,1.45,0.5,Very Low,Optimal material performance
+Shinyanga,07/07/2025,58.44,40.87,21.7,1.12,2.01,6.06,2.18,2.14,0.22,0.51,0.37,0.64,Low,Acceptable corrosion rates
+Lindi,30/10/2020,67.89,47.48,26.46,0.26,0.13,1.52,0.58,1.39,0.74,0.4,0.12,0.18,Moderate,Uniform corrosion with scaling
+Njombe,07/08/2020,69.46,48.58,16.14,0.43,0.79,3.58,2.77,1.49,0.45,1.72,1.11,0.4,Moderate,Moderate pitting observed
+Ruvuma,13/09/2021,58.48,40.9,41.61,0.45,0.05,0.2,0.1,0.5,0.12,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Songosongo,03/09/2021,58.47,40.89,18.72,1.28,0.53,4.01,1.9,6.47,0.55,2.81,0.72,0.58,Moderate,Uniform corrosion with scaling
+Zanzibar,29/05/2023,59.11,41.34,19.49,0.81,1.49,7.4,2.3,1.68,0.42,1.5,1.8,0.12,Moderate,Uniform corrosion with scaling
+Dar es Salaam,14/12/2020,63.1,44.13,30.99,0.99,0.04,1.07,0.11,0.98,0.29,0.72,0.85,0.66,Low,Acceptable corrosion rates
+Arusha,13/10/2022,59.16,41.38,30.29,0.69,0.08,1.16,2.52,1.92,0.1,1.48,0.81,0.19,Low,Slight discoloration only
+Tanga,30/04/2021,75.17,52.57,17.35,1.1,0.2,1.31,0.55,2.01,0.29,0.27,1.01,0.42,Moderate,Moderate crevice corrosion
+Dar es Salaam,31/08/2024,66.99,46.86,17.44,1.58,0.36,3.49,1.98,3.33,0.27,1.75,0.14,0.77,Moderate,Moderate crevice corrosion
+Morogoro,13/07/2022,69.33,48.49,20.74,1.37,0.08,2.31,0.77,2.57,0.28,0.56,0.11,0.28,Moderate,Uniform corrosion with scaling
+Songosongo,10/11/2025,76.93,53.81,22.56,1.59,0.05,0.2,0.1,0.5,0.49,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Mwanza,07/04/2024,64.14,44.86,20.89,0.46,0.27,4.12,0.07,5.04,0.22,1.81,0.08,0.68,Low,Minimal corrosion activity
+Kagera,19/01/2025,86.92,60.8,9.94,2.93,0.05,0.2,0.1,0.5,1.26,0.1,0.05,0.05,Severe,Severe localized attack
+Kigoma,18/12/2024,86.05,60.19,11.96,4.38,0.05,0.2,0.1,0.5,0.53,0.1,0.05,0.05,Severe,Significant wall thinning
+Musoma,02/05/2023,85.0,59.45,7.74,2.23,0.39,1.53,0.21,1.07,0.46,0.36,0.26,0.29,Severe,Severe localized attack
+Kigoma,22/10/2024,66.95,46.82,24.81,1.3,0.42,1.2,0.46,2.18,0.44,0.74,0.51,0.05,Moderate,Erosive wear from particulate ingress
+Njombe,04/06/2023,42.78,29.92,34.63,1.02,0.66,5.68,2.92,3.78,0.15,2.69,2.0,0.01,Low,Protective oxide layer formation
+Musoma,03/09/2020,47.62,33.31,37.96,0.77,0.36,2.7,1.92,5.2,0.11,0.85,1.47,0.47,Very Low,Passive corrosion behavior
+Mwanza,10/02/2021,83.88,58.67,10.1,3.15,0.07,0.66,0.25,0.62,0.87,0.14,0.04,0.23,Severe,Critical stress corrosion cracking
+Songosongo,01/05/2022,85.37,59.71,5.48,4.23,0.02,0.15,0.57,0.92,1.5,0.27,0.73,0.23,High,Severe corrosion (oxidation and MIC)
+Singida,14/05/2022,80.76,56.49,11.71,1.52,0.26,1.21,0.61,1.37,0.8,0.75,0.25,0.69,Severe,Deep penetration corrosion
+Zanzibar,19/12/2022,46.77,32.71,34.89,1.14,0.21,5.2,2.71,4.51,0.34,0.56,0.97,0.56,Low,Acceptable corrosion rates
+Mbeya,28/11/2020,63.35,44.31,35.68,0.26,0.01,0.14,0.05,0.3,0.07,0.1,0.02,0.03,Low,Slight discoloration only
+Pemba,05/10/2021,51.73,36.18,34.56,0.23,0.78,4.83,1.83,3.58,0.19,0.1,0.1,0.76,Low,Light surface scaling
+Madimba,09/09/2022,34.43,24.08,43.78,1.12,1.5,2.51,0.26,6.84,0.39,1.75,1.7,0.8,Low,Light surface scaling
+Pemba,12/12/2021,62.94,44.02,12.08,0.45,1.45,6.62,1.54,5.48,0.48,2.76,1.68,0.13,Moderate,Moderate crevice corrosion
+Pemba,03/11/2020,88.5,61.9,3.09,1.43,0.62,1.26,0.53,0.36,1.42,0.94,0.41,0.35,Severe,Severe localized attack
+Singida,03/10/2021,90.68,63.42,5.83,4.12,0.05,0.2,0.1,0.5,0.66,0.1,0.05,0.05,High,Extensive uniform corrosion
+Njombe,11/01/2020,71.47,49.99,16.33,0.31,1.11,3.96,0.1,2.2,0.18,1.51,0.41,0.56,Moderate,Uniform corrosion with scaling
+Kilifi,31/07/2024,94.25,65.92,2.1,1.67,0.02,0.37,0.17,0.49,0.56,0.12,0.09,0.16,High,Severe corrosion (oxidation and MIC)
+Kilifi,19/01/2025,83.83,58.63,4.23,2.05,0.36,0.47,1.07,1.2,0.63,0.19,1.5,0.27,Severe,Rapid corrosion propagation
+Pwani,08/04/2025,71.49,50.0,27.34,1.2,0.05,0.2,0.1,0.5,0.16,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Bukoba,07/04/2023,94.18,65.87,2.85,3.99,0.05,0.2,0.1,0.5,0.76,0.1,0.05,0.05,Severe,Significant wall thinning
+Kigoma,13/05/2020,47.3,33.08,41.73,1.15,0.88,1.05,1.57,1.33,0.19,0.35,0.01,0.27,Low,Light surface scaling
+Musoma,06/08/2022,63.85,44.66,27.44,0.88,0.51,0.72,1.16,1.75,0.08,1.4,0.85,0.44,Low,Light surface scaling
+Pwani,26/03/2023,93.64,65.49,4.36,2.7,0.05,0.2,0.1,0.5,0.91,0.1,0.05,0.05,High,Critical structural degradation
+Mbeya,04/03/2023,51.37,35.93,31.32,0.07,0.93,7.05,0.59,2.43,0.15,0.94,1.73,0.34,Low,Minimal corrosion activity
+Shinyanga,02/02/2025,92.13,64.44,5.32,1.95,0.05,0.2,0.1,0.5,0.79,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Kagera,18/10/2020,75.89,53.08,8.47,1.94,0.85,2.83,0.63,2.38,1.02,1.24,1.8,0.22,Severe,Critical stress corrosion cracking
+Rukwa,14/08/2022,87.88,61.47,8.97,0.88,0.05,0.49,0.11,0.73,0.44,0.13,0.08,0.25,Severe,Deep penetration corrosion
+Mbeya,19/12/2022,69.29,48.46,25.54,0.41,0.28,1.36,0.21,0.94,0.68,0.11,0.33,0.46,Moderate,Erosive wear from particulate ingress
+Tabora,21/03/2022,78.21,54.7,5.75,3.51,0.26,3.07,0.55,1.64,0.89,1.63,0.14,0.27,Severe,Metal loss in carbon steel
+Arusha,07/10/2024,43.38,30.34,43.91,0.1,0.56,3.96,0.44,3.77,0.36,1.38,1.12,0.64,Low,Minimal corrosion activity
+Songosongo,15/04/2021,72.81,50.93,17.26,0.6,0.9,0.9,1.02,3.43,0.22,0.65,0.45,0.63,Moderate,Erosive wear from particulate ingress
+Ruvuma,09/07/2022,83.71,58.55,9.23,2.2,0.18,0.34,0.72,1.12,1.4,0.26,0.42,0.16,Severe,Critical stress corrosion cracking
+Dar es Salaam,02/09/2021,86.92,60.8,2.89,4.11,0.16,0.13,0.19,1.79,0.86,1.23,1.0,0.15,Severe,Rapid corrosion propagation
+Arusha,24/12/2022,72.32,50.58,21.3,1.35,0.33,0.42,0.48,1.58,0.49,0.21,0.24,0.27,Moderate,Moderate pitting observed
+Shinyanga,05/08/2021,55.62,38.9,22.97,0.27,0.2,4.72,0.07,7.2,0.43,1.89,1.56,0.79,Moderate,General surface corrosion
+Rukwa,19/10/2020,70.7,49.45,19.0,0.55,0.47,1.16,1.28,0.85,0.71,1.67,1.86,0.08,Moderate,Uniform corrosion with scaling
+Mbeya,01/09/2020,71.31,49.87,22.5,0.53,0.53,0.39,1.72,0.4,0.26,0.68,0.34,0.48,Moderate,Uniform corrosion with scaling
+Kilifi,10/11/2021,76.75,53.68,23.69,1.52,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Bukoba,13/06/2023,65.74,45.98,16.12,1.86,1.42,1.68,0.43,2.8,0.33,2.59,1.72,0.67,Moderate,Moderate crevice corrosion
+Shinyanga,28/03/2023,46.91,32.81,42.71,0.11,0.57,1.33,1.31,1.77,0.19,0.65,1.6,0.67,Low,Protective oxide layer formation
+Songosongo,03/12/2024,68.82,48.14,18.47,1.16,0.14,2.31,2.86,1.24,0.43,1.62,0.06,0.75,Moderate,Moderate pitting observed
+Madimba,24/05/2021,67.37,47.12,17.04,1.58,0.3,2.82,0.38,5.26,0.46,0.36,1.54,0.24,Moderate,Moderate crevice corrosion
+Kilifi,03/04/2025,44.03,30.79,33.05,0.78,1.45,5.78,1.95,5.48,0.28,1.61,0.9,0.2,Very Low,Negligible corrosion detected
+Dodoma,30/05/2023,47.4,33.15,44.25,0.71,0.28,0.7,0.2,1.36,0.18,1.63,1.21,0.55,Very Low,Optimal material performance
+Kilifi,06/07/2024,75.16,52.57,16.56,0.94,0.31,0.44,0.09,2.32,0.73,0.23,1.88,0.45,Moderate,Moderate crevice corrosion
+Njombe,20/01/2023,75.44,52.76,17.04,0.96,0.07,1.61,0.47,2.01,0.76,0.56,0.37,0.7,Moderate,General surface corrosion
+Bukoba,11/08/2025,62.84,43.95,38.02,0.86,0.05,0.2,0.1,0.5,0.22,0.1,0.05,0.05,Low,Slight discoloration only
+Rukwa,15/07/2025,67.81,47.43,17.03,1.6,1.55,4.03,0.63,2.64,0.21,0.61,1.91,0.79,Moderate,General surface corrosion
+Kigoma,28/11/2024,78.76,55.09,4.74,1.58,0.92,3.46,1.54,5.43,0.75,0.36,1.22,0.14,Severe,Deep penetration corrosion
+Dodoma,25/11/2020,80.44,56.26,8.23,1.1,0.68,1.42,2.81,0.62,1.12,1.19,0.31,0.07,Severe,Significant wall thinning
+Morogoro,12/06/2020,64.11,44.84,31.23,0.95,0.27,1.03,0.16,0.98,0.08,0.37,0.38,0.44,Low,Minimal corrosion activity
+Pwani,04/11/2024,88.94,62.21,1.15,4.48,0.06,0.58,0.33,0.74,0.79,0.87,0.91,0.56,Severe,Severe localized attack
+Pemba,13/08/2023,35.11,24.56,38.58,0.76,1.09,7.72,1.77,8.63,0.36,2.58,1.79,0.02,Low,Slight discoloration only
+Mtwara,22/10/2022,84.47,59.08,2.4,3.75,0.02,1.15,0.35,1.15,0.84,1.92,0.63,0.15,High,Severe intergranular attack
+Zanzibar,15/04/2020,74.13,51.84,23.8,0.98,0.02,0.15,0.07,0.32,0.23,0.11,0.08,0.11,Moderate,Uniform corrosion with scaling
+Iringa,09/01/2021,62.12,43.45,16.89,0.66,1.12,4.67,2.41,5.76,0.73,0.77,0.93,0.63,Moderate,Erosive wear from particulate ingress
+Bukoba,26/07/2022,69.79,48.81,18.43,1.78,0.42,1.39,1.7,2.17,0.19,1.74,0.68,0.53,Moderate,Selective corrosion activity
+Lindi,25/03/2020,61.87,43.28,41.12,0.05,0.05,0.2,0.1,0.5,0.13,0.1,0.05,0.05,Low,Minimal corrosion activity
+Kagera,08/01/2023,77.78,54.4,10.77,2.95,0.19,2.13,0.93,2.34,0.92,0.82,0.13,0.05,Severe,Severe localized attack
+Iringa,13/06/2020,49.65,34.73,36.33,0.23,0.15,4.75,0.42,2.48,0.32,0.72,0.43,0.2,Low,Minor surface oxidation
+Musoma,18/12/2021,76.56,53.55,6.86,2.38,0.57,2.92,1.86,5.11,1.39,0.94,0.6,0.07,High,Aggressive pitting corrosion
+Lindi,11/04/2025,69.87,48.87,16.37,0.77,1.07,0.23,2.32,4.67,0.53,1.54,1.47,0.61,Moderate,Moderate pitting observed
+Singida,26/10/2025,74.38,52.02,16.56,0.59,0.17,0.13,0.74,1.35,0.77,0.35,0.16,0.48,Moderate,Moderate crevice corrosion
+Njombe,16/12/2024,56.62,39.6,28.49,1.1,0.18,5.24,1.82,2.86,0.26,1.33,0.98,0.22,Low,Minor surface oxidation
+Kagera,13/02/2023,48.55,33.96,40.87,0.28,0.64,1.42,2.08,3.37,0.22,1.01,0.49,0.38,Low,Minor surface oxidation
+Njombe,13/01/2022,92.61,64.77,4.57,4.37,0.05,0.2,0.1,0.5,1.28,0.1,0.05,0.05,Severe,Significant wall thinning
+Mtwara,20/11/2024,57.02,39.88,23.8,1.17,1.3,5.44,0.88,3.42,0.12,0.16,1.91,0.32,Low,Protective oxide layer formation
+Dodoma,07/07/2025,77.28,54.05,23.51,1.42,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,Moderate,General surface corrosion
+Shinyanga,08/01/2021,88.78,62.09,8.69,4.11,0.05,0.2,0.1,0.5,1.21,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Tanga,09/04/2025,55.67,38.94,39.96,0.98,0.02,1.05,0.5,0.73,0.27,0.11,0.41,0.23,Low,Acceptable corrosion rates
+Tabora,26/11/2023,82.78,57.89,1.88,1.24,0.56,2.97,2.12,1.58,0.57,2.71,1.04,0.42,Severe,Significant wall thinning
+Pemba,30/07/2024,66.91,46.8,12.03,0.12,2.95,5.67,0.65,1.11,0.21,2.69,1.95,0.75,Moderate,Moderate pitting observed
+Mwanza,27/09/2023,45.39,31.75,39.77,0.22,0.07,2.08,2.22,4.9,0.36,0.29,1.51,0.35,Low,Minimal corrosion activity
+Mwanza,08/08/2023,76.95,53.82,6.28,3.97,0.11,3.53,0.53,3.81,1.31,1.38,0.11,0.35,High,Critical structural degradation
+Kagera,04/03/2021,84.47,59.08,9.03,3.87,0.09,0.13,0.4,0.78,0.63,0.15,0.12,0.15,Severe,Metal loss in carbon steel
+Mbeya,20/10/2021,59.44,41.57,14.99,0.49,1.55,4.59,2.68,7.92,0.47,1.95,1.34,0.37,Moderate,Moderate pitting observed
+Shinyanga,12/09/2023,61.25,42.84,13.51,0.77,1.98,2.46,2.64,9.46,0.43,2.55,1.58,0.53,Moderate,Selective corrosion activity
+Mtwara,13/08/2024,76.51,53.51,11.88,2.51,0.3,1.9,1.03,3.03,1.25,0.56,0.33,0.7,Severe,Critical stress corrosion cracking
+Musoma,22/07/2025,91.88,64.26,4.35,3.29,-0.04,0.04,0.03,0.04,0.44,0.08,-0.06,0.01,Severe,Rapid corrosion propagation
+Mwanza,26/03/2023,67.76,47.39,21.77,1.62,0.65,2.03,1.28,2.22,0.3,0.79,0.2,0.76,Moderate,Selective corrosion activity
+Songosongo,28/06/2024,70.45,49.28,18.09,0.29,1.59,0.25,1.6,3.06,0.65,0.29,1.8,0.03,Moderate,Moderate crevice corrosion
+Dar es Salaam,30/05/2020,88.1,61.62,4.55,2.06,0.42,1.64,0.35,0.51,0.87,0.37,0.34,0.44,Severe,Rapid corrosion propagation
+Kilifi,05/02/2025,92.73,64.86,6.21,1.43,0.05,0.2,0.1,0.5,1.47,0.1,0.05,0.05,High,Aggressive pitting corrosion
+Arusha,26/12/2020,63.55,44.45,13.83,0.47,0.07,7.19,2.33,6.7,0.63,0.59,1.97,0.28,Moderate,Erosive wear from particulate ingress
+Mtwara,12/07/2023,75.84,53.04,15.44,1.21,0.33,0.27,1.32,2.7,0.73,0.45,0.94,0.77,Moderate,Moderate pitting observed
+Musoma,30/10/2022,59.8,41.83,23.91,0.9,0.54,2.18,2.31,4.47,0.08,1.19,0.91,0.6,Low,Slight discoloration only
+Rukwa,17/08/2023,76.0,53.15,1.36,2.74,1.49,2.28,2.8,6.76,0.92,1.84,1.52,0.09,High,Critical structural degradation
+Morogoro,19/04/2021,49.46,34.59,41.42,0.29,0.51,2.23,0.41,1.34,0.16,0.6,0.71,0.42,Low,Light surface scaling
+Dar es Salaam,13/07/2024,68.03,47.58,16.92,1.34,0.59,3.97,0.58,4.17,0.23,0.83,1.07,0.53,Moderate,Selective corrosion activity
+Iringa,08/10/2025,53.86,37.67,30.64,0.08,1.29,0.99,2.96,2.89,0.34,2.68,0.83,0.16,Very Low,No significant deterioration
+Mtwara,05/01/2020,85.65,59.9,4.76,3.95,0.25,0.82,0.16,1.92,0.77,0.25,0.05,0.38,High,Critical structural degradation
+Pemba,07/03/2025,72.92,51.0,27.72,0.77,0.05,0.2,0.1,0.5,0.27,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Musoma,19/08/2024,57.06,39.91,27.92,1.49,0.91,2.44,2.49,2.99,0.68,1.85,0.52,0.79,Moderate,Moderate crevice corrosion
+Mtwara,10/08/2020,52.09,36.43,32.47,0.84,1.67,2.46,2.34,1.66,0.36,1.53,0.7,0.3,Low,Light surface scaling
+Mtwara,07/02/2022,84.29,58.95,4.66,2.71,0.14,0.42,1.8,2.11,0.7,1.05,0.88,0.49,Severe,Severe localized attack
+Arusha,24/10/2025,49.6,34.69,32.75,0.99,1.7,2.44,2.11,3.73,0.13,1.48,1.36,0.55,Low,Slight discoloration only
+Mtwara,21/01/2024,62.3,43.57,21.39,1.16,2.0,2.99,0.1,4.17,0.11,0.28,1.74,0.29,Low,Protective oxide layer formation
+Ruvuma,03/08/2025,86.87,60.76,5.7,3.78,0.37,0.6,0.42,0.71,0.52,0.15,0.13,0.17,Severe,Severe localized attack
+Mwanza,15/12/2024,67.36,47.11,24.35,0.94,0.63,1.87,0.08,1.79,0.49,0.76,0.03,0.33,Moderate,Erosive wear from particulate ingress
+Mbeya,30/07/2020,82.06,57.4,11.8,2.5,0.12,1.16,0.53,0.36,0.62,0.24,0.31,0.31,High,Severe corrosion (oxidation and MIC)
+Tabora,13/04/2022,54.22,37.92,39.85,1.16,0.6,0.23,0.84,0.5,0.38,0.4,0.74,0.78,Low,Slight discoloration only
+Lindi,29/12/2022,56.93,39.82,27.84,0.95,0.92,2.15,2.51,3.42,0.4,1.72,0.38,0.38,Low,Minimal corrosion activity
+Kigoma,20/06/2021,85.08,59.51,7.47,3.33,0.23,0.69,0.12,0.53,1.33,0.43,0.03,0.54,Severe,Significant wall thinning
+Pemba,25/03/2023,72.01,50.36,18.27,1.25,0.55,1.08,1.34,2.64,0.23,0.7,1.05,0.74,Moderate,Uniform corrosion with scaling
+Morogoro,29/11/2024,66.76,46.7,26.97,0.6,0.45,1.07,0.23,0.53,0.45,0.73,0.45,0.07,Moderate,Moderate crevice corrosion
+Tabora,08/06/2025,90.47,63.27,5.04,3.9,0.05,0.2,0.1,0.5,1.24,0.1,0.05,0.05,High,Critical structural degradation
+Musoma,12/05/2021,73.03,51.08,21.46,0.73,0.14,1.12,0.39,1.51,0.62,0.24,0.35,0.41,Moderate,Uniform corrosion with scaling
+Tabora,28/04/2020,56.73,39.68,36.03,0.93,0.43,1.12,0.28,2.26,0.35,0.43,0.57,0.15,Low,Slight discoloration only
+Songosongo,07/09/2022,57.29,40.07,30.74,0.47,1.17,2.48,0.1,2.03,0.35,0.5,1.44,0.47,Very Low,Passive corrosion behavior
+Cyclone,10/10/2021,62.81,43.93,24.09,1.12,0.48,5.27,1.28,0.42,0.27,0.18,0.16,0.32,Low,Slight discoloration only
+Arusha,26/06/2023,65.51,45.82,21.49,0.86,0.72,2.85,1.94,1.63,0.47,0.15,0.12,0.16,Moderate,Erosive wear from particulate ingress
+Tanga,26/02/2020,74.92,52.4,13.12,1.78,0.88,0.63,2.07,2.4,0.42,1.41,0.02,0.18,Moderate,General surface corrosion
+Kigoma,29/07/2024,88.41,61.84,1.63,4.11,0.12,0.16,0.73,1.22,1.06,0.69,0.31,0.52,Severe,Rapid corrosion propagation
+Mtwara,16/01/2021,74.73,52.27,16.27,0.75,0.03,0.17,1.41,2.74,0.79,0.23,0.48,0.22,Moderate,Uniform corrosion with scaling
+Kagera,09/07/2022,89.21,62.4,8.83,4.43,0.05,0.2,0.1,0.5,0.86,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Singida,09/04/2021,57.61,40.3,25.61,1.44,1.24,3.35,2.06,1.47,0.77,0.82,0.52,0.27,Moderate,Uniform corrosion with scaling
+Kigoma,05/03/2025,72.23,50.52,27.22,0.68,0.05,0.2,0.1,0.5,0.61,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Kilifi,26/04/2021,59.92,41.91,27.67,1.15,1.56,1.24,0.78,1.47,0.2,1.2,1.83,0.17,Moderate,Selective corrosion activity
+Kilifi,22/09/2021,69.65,48.71,18.95,1.09,0.13,1.65,2.01,2.11,0.27,1.33,0.16,0.73,Moderate,Moderate pitting observed
+Singida,03/08/2025,74.73,52.27,20.42,0.21,0.46,0.22,0.27,1.47,0.5,0.41,0.73,0.57,Moderate,Selective corrosion activity
+Ruvuma,10/04/2023,75.12,52.54,2.62,0.98,1.43,6.1,0.6,6.86,0.78,1.76,0.93,0.09,High,Extensive uniform corrosion
+Kigoma,15/09/2025,63.64,44.51,19.02,1.2,0.17,2.66,1.35,6.36,0.16,2.15,0.38,0.65,Moderate,Erosive wear from particulate ingress
+Singida,24/01/2023,50.67,35.44,40.47,0.81,0.61,2.01,0.53,1.61,0.25,0.35,0.38,0.07,Low,Acceptable corrosion rates
+Shinyanga,28/08/2024,49.33,34.5,38.31,0.44,1.32,1.95,1.93,2.44,0.18,0.84,1.83,0.68,Very Low,Passive corrosion behavior
+Lindi,30/05/2025,83.98,58.74,9.16,2.78,0.13,0.69,0.46,1.07,1.17,0.16,0.17,0.23,High,Critical structural degradation
+Kilifi,18/04/2025,73.07,51.11,15.5,1.81,0.31,3.69,0.75,1.6,0.56,0.35,0.93,0.07,Moderate,Moderate crevice corrosion
+Ruvuma,25/09/2022,76.42,53.45,13.08,1.72,1.16,0.54,0.07,2.32,0.8,0.43,0.05,0.19,Moderate,Moderate crevice corrosion
+Singida,13/02/2025,86.72,60.66,9.21,3.7,0.05,0.2,0.1,0.5,0.46,0.1,0.05,0.05,Severe,Deep penetration corrosion
+Arusha,15/08/2021,79.54,55.63,8.09,2.85,0.43,1.38,0.14,3.5,0.59,1.48,0.85,0.42,Severe,Metal loss in carbon steel
+Shinyanga,20/04/2024,75.66,52.92,6.17,1.79,1.74,2.29,0.85,4.58,0.48,0.11,1.67,0.32,Severe,Rapid corrosion propagation
+Mbeya,19/02/2022,60.24,42.13,12.19,1.28,1.48,7.35,1.17,6.76,0.47,2.32,1.85,0.32,Moderate,Erosive wear from particulate ingress
+Shinyanga,12/09/2025,75.4,52.74,14.18,0.19,0.01,0.13,2.23,3.43,0.2,0.82,0.81,0.16,Moderate,Erosive wear from particulate ingress
+Singida,13/07/2021,70.63,49.4,12.65,1.03,1.02,3.62,2.12,5.14,0.58,0.42,0.55,0.02,Moderate,General surface corrosion
+Lindi,12/10/2020,93.84,65.63,3.55,3.23,0.05,0.2,0.1,0.5,0.68,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Kagera,05/02/2023,75.65,52.91,25.22,0.38,0.05,0.2,0.1,0.5,0.34,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Mbeya,26/08/2024,93.41,65.33,5.02,2.38,0.05,0.2,0.1,0.5,1.28,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Mwanza,24/10/2023,70.74,49.48,14.45,1.28,0.34,5.41,0.66,1.25,0.7,1.65,0.64,0.25,Moderate,Moderate crevice corrosion
+Morogoro,10/09/2025,86.14,60.25,4.38,4.07,0.19,0.3,0.45,1.36,1.16,0.47,0.3,0.55,Severe,Deep penetration corrosion
+Mwanza,30/12/2022,53.38,37.33,33.26,1.12,1.24,4.93,0.77,0.61,0.26,1.43,1.07,0.58,Low,Slight discoloration only
+Njombe,11/01/2020,65.76,45.99,19.01,0.69,0.31,1.36,2.97,3.34,0.38,1.35,0.96,0.69,Moderate,General surface corrosion
+Ruvuma,04/03/2023,58.46,40.89,38.95,0.08,0.15,0.53,0.09,0.34,0.26,0.4,0.42,0.15,Very Low,Excellent corrosion resistance
+Njombe,07/05/2023,59.87,41.87,23.56,1.27,0.95,4.21,0.22,4.84,0.62,0.81,1.0,0.16,Moderate,Erosive wear from particulate ingress
+Kagera,28/06/2025,64.37,45.02,24.96,0.84,0.78,0.36,2.58,0.39,0.41,2.35,0.66,0.75,Moderate,Moderate pitting observed
+Kigoma,31/08/2021,74.42,52.05,18.07,1.56,0.39,0.78,1.28,0.65,0.46,1.01,0.39,0.08,Moderate,Moderate pitting observed
+Mwanza,03/01/2025,60.13,42.06,22.51,0.24,1.31,4.52,2.39,3.29,0.25,2.03,0.8,0.17,Very Low,Passive corrosion behavior
+Mtwara,06/06/2025,61.69,43.15,25.49,0.35,1.07,1.88,2.9,1.19,0.64,1.43,0.54,0.18,Moderate,Moderate pitting observed
+Musoma,14/11/2023,88.72,62.05,7.08,3.32,0.05,0.2,0.1,0.5,1.02,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Arusha,23/09/2023,80.4,56.23,10.59,2.11,0.19,1.68,1.2,1.48,0.74,0.37,0.63,0.61,Severe,Significant wall thinning
+Tanga,25/03/2024,84.26,58.94,7.7,2.0,0.52,0.25,0.5,1.69,1.36,0.47,0.51,0.33,Severe,Significant wall thinning
+Zanzibar,08/02/2025,47.62,33.3,40.53,0.12,0.3,2.02,2.56,2.26,0.31,0.6,1.88,0.65,Very Low,Negligible corrosion detected
+Dar es Salaam,11/08/2023,78.9,55.19,1.29,1.33,0.91,1.54,2.2,5.59,0.66,0.83,1.97,0.2,Severe,Severe localized attack
+Madimba,11/02/2022,61.93,43.31,19.84,0.31,1.04,5.16,1.64,4.96,0.4,0.17,0.12,0.5,Moderate,Moderate pitting observed
+Pemba,05/09/2022,59.55,41.65,26.58,1.66,0.93,2.95,2.55,1.62,0.68,0.63,0.03,0.01,Moderate,General surface corrosion
+Musoma,17/04/2024,79.64,55.7,2.95,4.14,1.64,0.48,0.89,2.71,1.15,1.61,1.42,0.5,Severe,Deep penetration corrosion
+Pwani,14/08/2022,76.69,53.64,25.68,0.29,0.05,0.2,0.1,0.5,0.15,0.1,0.05,0.05,Moderate,General surface corrosion
+Musoma,09/08/2024,89.46,62.57,3.39,2.26,0.09,1.14,0.23,1.21,1.24,0.27,0.12,0.6,Severe,Rapid corrosion propagation
+Ruvuma,27/06/2020,64.85,45.36,23.4,0.87,0.06,1.78,1.74,2.8,0.75,1.01,0.17,0.04,Moderate,General surface corrosion
+Singida,27/07/2023,73.99,51.75,18.15,0.69,0.02,1.44,0.33,2.2,0.74,0.2,0.15,0.24,Moderate,Moderate crevice corrosion
+Iringa,21/04/2025,77.06,53.9,19.34,1.62,0.17,0.17,0.12,0.61,0.28,0.18,0.04,0.11,Moderate,Uniform corrosion with scaling
+Dar es Salaam,10/04/2024,68.99,48.25,17.96,1.46,0.08,3.64,0.15,3.22,0.59,0.39,1.74,0.64,Moderate,Selective corrosion activity
+Pemba,30/04/2024,68.01,47.57,19.93,1.81,0.25,1.79,1.6,3.42,0.76,0.41,0.06,0.48,Moderate,Moderate pitting observed
+Pemba,15/09/2021,90.47,63.28,5.89,1.35,0.05,0.17,0.36,0.55,0.59,0.13,0.22,0.21,Severe,Severe localized attack
+Iringa,21/07/2025,44.78,31.32,44.6,0.11,1.16,2.57,0.24,1.27,0.26,1.99,1.58,0.28,Very Low,No significant deterioration
+Songosongo,31/05/2020,62.22,43.52,24.0,0.44,0.05,1.7,1.56,3.68,0.28,2.29,1.01,0.68,Moderate,Moderate crevice corrosion
+Njombe,01/06/2021,61.04,42.7,25.15,1.19,0.02,3.56,0.43,4.29,0.66,0.68,1.57,0.13,Moderate,Erosive wear from particulate ingress
+Iringa,19/08/2025,92.55,64.73,4.01,2.41,0.05,0.2,0.1,0.5,1.05,0.1,0.05,0.05,Severe,Significant wall thinning
+Bukoba,21/09/2023,57.41,40.16,31.08,0.91,0.3,2.77,2.24,0.53,0.24,1.15,1.34,0.3,Low,Protective oxide layer formation
+Musoma,15/02/2021,66.21,46.31,23.5,0.82,0.65,3.94,0.94,0.32,0.72,1.02,0.53,0.67,Moderate,Moderate pitting observed
+Shinyanga,08/12/2024,49.34,34.51,44.05,0.48,0.43,0.11,0.83,2.22,0.25,0.81,0.8,0.01,Low,Minimal corrosion activity
+Dodoma,12/02/2021,64.6,45.18,32.71,0.26,0.06,0.66,0.26,0.71,0.4,0.13,0.02,0.19,Very Low,Passive corrosion behavior
+Cyclone,24/11/2025,85.11,59.53,9.2,3.4,0.06,0.29,0.1,0.6,0.68,0.23,0.15,0.18,Severe,Critical stress corrosion cracking
+Songosongo,14/02/2025,73.63,51.5,18.25,1.21,0.43,0.17,1.42,2.43,0.22,0.45,0.99,0.13,Moderate,Moderate crevice corrosion
+Shinyanga,03/03/2020,72.58,50.77,20.41,1.54,0.32,1.43,0.6,1.56,0.56,0.25,0.2,0.03,Moderate,Moderate crevice corrosion
+Zanzibar,13/08/2021,61.09,42.73,24.46,0.25,1.28,1.41,0.77,3.25,0.2,2.97,1.68,0.46,Moderate,Moderate crevice corrosion
+Mbeya,06/08/2024,87.91,61.49,4.09,4.3,0.09,0.42,0.5,0.82,1.05,0.36,0.11,0.35,Severe,Metal loss in carbon steel
+Njombe,24/09/2021,87.91,61.49,6.96,0.97,0.02,0.48,0.41,1.23,0.42,0.54,0.11,0.32,Severe,Significant wall thinning
+Iringa,02/11/2020,38.52,26.94,40.29,1.2,2.09,2.16,0.93,7.38,0.36,0.78,1.36,0.2,Low,Slight discoloration only
+Morogoro,07/04/2025,66.65,46.62,26.22,1.1,0.32,0.84,0.82,2.07,0.4,0.71,0.04,0.17,Moderate,General surface corrosion
+Tabora,21/12/2022,64.93,45.41,27.12,1.32,0.26,0.57,1.62,1.32,0.22,1.12,0.1,0.63,Moderate,Moderate pitting observed
+Dodoma,18/10/2023,63.16,44.17,27.61,1.79,0.25,0.85,1.05,1.7,0.51,0.64,0.11,0.21,Moderate,Moderate pitting observed
+Dodoma,16/06/2024,46.68,32.65,34.43,0.73,0.57,6.18,1.45,3.2,0.19,2.82,1.3,0.05,Low,Light surface scaling
+Kagera,24/11/2020,68.23,47.72,21.02,0.96,0.11,2.84,0.64,3.31,0.25,0.38,0.93,0.26,Moderate,General surface corrosion
+Kagera,07/09/2023,88.42,61.84,7.15,3.19,0.02,0.19,0.11,0.31,0.45,0.08,0.01,0.06,High,Critical structural degradation
+Njombe,25/12/2025,90.57,63.35,3.49,3.65,0.03,0.11,0.15,0.33,1.47,0.1,0.03,0.08,Severe,Rapid corrosion propagation
+Zanzibar,05/04/2024,45.68,31.95,43.52,0.06,0.05,0.37,2.11,3.87,0.1,0.34,1.44,0.23,Low,Minor surface oxidation
+Madimba,21/07/2023,86.1,60.22,11.25,1.2,0.01,0.13,0.06,0.24,0.9,0.08,0.01,0.01,Severe,Metal loss in carbon steel
+Pemba,21/06/2025,55.47,38.79,19.03,1.47,2.09,4.45,0.6,8.66,0.66,2.37,1.16,0.55,Moderate,Uniform corrosion with scaling
+Cyclone,27/05/2020,63.78,44.61,26.84,1.5,0.17,0.51,0.42,2.38,0.56,0.9,1.13,0.24,Moderate,Erosive wear from particulate ingress
+Mtwara,07/10/2020,91.16,63.76,2.99,2.52,0.08,0.45,0.06,0.88,1.11,0.1,0.08,0.56,Severe,Severe localized attack
+Shinyanga,19/08/2022,80.17,56.07,3.6,2.0,0.49,3.35,1.15,2.73,1.4,1.45,0.69,0.51,Severe,Metal loss in carbon steel
+Morogoro,23/03/2023,71.77,50.2,21.51,0.56,0.06,1.65,0.56,2.01,0.72,0.45,0.09,0.02,Moderate,General surface corrosion
+Musoma,20/07/2022,82.0,57.35,5.22,2.81,0.39,2.54,1.25,2.88,0.4,0.47,0.45,0.02,Severe,Deep penetration corrosion
+Pemba,05/01/2021,57.85,40.46,24.09,0.25,0.86,2.85,2.95,6.79,0.16,0.21,0.71,0.68,Moderate,Moderate pitting observed
+Mtwara,12/11/2024,64.5,45.11,19.35,1.02,0.49,6.57,1.71,0.55,0.78,1.78,0.89,0.7,Moderate,Moderate pitting observed
+Songosongo,07/02/2021,79.77,55.8,6.46,1.54,0.52,3.05,1.77,1.6,1.39,1.4,0.61,0.77,Severe,Critical stress corrosion cracking
+Mbeya,15/02/2021,71.76,50.19,22.72,0.76,0.12,1.38,0.53,0.66,0.32,0.55,0.44,0.36,Moderate,Moderate pitting observed
+Songosongo,22/12/2024,61.69,43.15,24.89,1.46,0.7,3.35,1.87,1.61,0.32,1.38,0.65,0.32,Moderate,Moderate pitting observed
+Zanzibar,12/11/2021,56.4,39.44,44.69,0.1,0.05,0.2,0.1,0.5,0.29,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Mtwara,11/05/2023,79.75,55.78,7.24,2.07,0.44,3.48,0.4,1.73,0.71,0.24,0.85,0.44,Severe,Metal loss in carbon steel
+Iringa,28/04/2020,73.17,51.17,18.91,0.17,0.13,2.58,0.59,2.01,0.4,0.86,0.03,0.14,Moderate,Moderate crevice corrosion
+Arusha,07/07/2020,67.58,47.27,26.79,1.01,0.24,0.4,1.0,0.44,0.62,0.74,0.4,0.51,Moderate,Moderate crevice corrosion
+Musoma,21/08/2023,70.64,49.41,27.38,0.31,0.06,0.17,0.07,0.37,0.64,0.13,0.09,0.14,Moderate,General surface corrosion
+Morogoro,17/08/2020,73.72,51.56,19.21,0.15,0.03,1.59,0.68,1.51,0.64,0.99,0.44,0.08,Moderate,Moderate crevice corrosion
+Songosongo,16/04/2023,40.32,28.2,44.02,0.2,0.9,4.15,1.62,2.23,0.38,2.33,0.01,0.61,Low,Acceptable corrosion rates
+Kilifi,08/01/2024,85.19,59.59,10.99,4.14,0.05,0.2,0.1,0.5,0.98,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Lindi,15/03/2024,77.92,54.5,17.19,0.67,0.19,0.96,0.11,1.45,0.27,0.57,0.35,0.05,Moderate,Uniform corrosion with scaling
+Songosongo,30/10/2024,71.07,49.71,22.67,1.13,0.03,1.54,0.18,0.85,0.68,0.28,0.35,0.31,Moderate,General surface corrosion
+Kagera,19/08/2021,88.06,61.59,8.17,2.42,0.02,0.22,0.11,0.31,0.46,0.1,0.06,0.07,Severe,Deep penetration corrosion
+Rukwa,27/09/2022,79.3,55.47,7.62,2.84,0.27,2.09,0.82,0.94,1.5,1.08,0.1,0.46,High,Severe intergranular attack
+Shinyanga,15/12/2025,71.87,50.26,16.35,1.18,0.71,1.94,0.27,2.63,0.24,0.93,1.66,0.07,Moderate,Erosive wear from particulate ingress
+Cyclone,14/08/2024,73.92,51.7,16.64,1.33,0.18,1.49,1.68,1.61,0.7,1.0,0.13,0.27,Moderate,Moderate crevice corrosion
+Dodoma,07/01/2022,59.76,41.8,24.19,0.78,0.66,5.07,1.79,3.92,0.11,0.68,0.58,0.8,Very Low,Negligible corrosion detected
+Morogoro,27/11/2021,87.29,61.05,7.8,2.37,0.02,0.35,0.42,0.31,0.78,0.21,0.25,0.22,Severe,Critical stress corrosion cracking
+Dar es Salaam,18/12/2021,49.24,34.44,38.02,0.58,0.16,4.35,1.96,2.52,0.16,1.18,0.26,0.25,Low,Minimal corrosion activity
+Songosongo,19/11/2020,62.23,43.52,21.93,0.81,1.33,4.12,0.13,4.31,0.65,0.21,1.07,0.47,Moderate,General surface corrosion
+Iringa,15/04/2024,61.36,42.92,32.16,0.27,0.36,2.14,0.27,0.53,0.34,0.96,0.19,0.38,Very Low,Negligible corrosion detected
+Bukoba,13/09/2022,69.58,48.66,26.39,0.91,0.16,0.15,0.67,0.68,0.49,0.16,0.39,0.18,Moderate,Erosive wear from particulate ingress
+Kilifi,31/07/2025,60.54,42.34,21.03,1.54,0.44,3.4,2.03,5.82,0.71,1.13,1.3,0.73,Moderate,Moderate pitting observed
+Mbeya,09/08/2021,62.23,43.53,18.97,0.84,1.4,3.53,1.79,3.69,0.2,1.15,1.76,0.76,Moderate,Moderate pitting observed
+Dar es Salaam,09/08/2022,74.05,51.79,26.12,1.6,0.05,0.2,0.1,0.5,0.78,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Singida,03/03/2025,76.86,53.76,13.13,1.47,0.02,2.58,0.49,2.28,0.59,0.65,0.39,0.06,Moderate,General surface corrosion
+Pemba,06/11/2022,73.8,51.62,20.44,0.49,0.03,1.19,0.15,0.5,0.28,0.78,0.16,0.44,Moderate,Moderate crevice corrosion
+Dar es Salaam,25/02/2025,55.67,38.93,25.42,1.19,2.3,4.77,2.03,1.16,0.62,0.21,1.81,0.68,Moderate,Erosive wear from particulate ingress
+Rukwa,11/11/2022,89.9,62.88,8.46,3.14,0.05,0.2,0.1,0.5,1.29,0.1,0.05,0.05,Severe,Significant wall thinning
+Cyclone,08/02/2020,62.54,43.74,26.35,0.81,0.34,3.45,1.08,2.92,0.16,1.07,0.04,0.66,Moderate,Selective corrosion activity
+Pemba,20/03/2025,61.05,42.7,41.03,0.03,0.05,0.2,0.1,0.5,0.23,0.1,0.05,0.05,Low,Slight discoloration only
+Shinyanga,24/03/2023,76.51,53.52,16.57,1.74,0.16,0.75,0.87,1.05,0.25,0.87,0.06,0.72,Moderate,Moderate pitting observed
+Bukoba,09/10/2021,61.99,43.36,25.22,0.21,0.07,2.67,0.76,4.04,0.07,0.41,0.34,0.37,Very Low,Excellent corrosion resistance
+Pemba,29/10/2020,61.47,42.99,38.69,0.73,0.05,0.2,0.1,0.5,0.31,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Dar es Salaam,14/12/2024,74.03,51.78,20.54,1.4,0.23,0.65,0.26,1.18,0.3,0.54,0.48,0.14,Moderate,Uniform corrosion with scaling
+Mwanza,16/11/2023,61.47,42.99,27.47,1.79,0.4,2.02,0.24,1.87,0.2,0.81,1.08,0.53,Moderate,Moderate crevice corrosion
+Shinyanga,10/05/2023,77.74,54.37,8.46,3.81,0.23,3.1,1.32,1.71,1.38,0.49,0.98,0.57,Severe,Deep penetration corrosion
+Songosongo,03/10/2024,90.94,63.6,2.27,3.05,0.21,0.36,0.1,1.18,0.72,0.42,0.13,0.25,High,Severe corrosion (oxidation and MIC)
+Dar es Salaam,21/10/2022,66.12,46.25,13.68,1.68,0.32,3.31,1.55,7.15,0.24,1.36,1.44,0.08,Moderate,Erosive wear from particulate ingress
+Kagera,14/02/2025,68.13,47.65,20.42,1.84,0.92,0.42,0.58,2.28,0.24,0.17,0.18,0.38,Moderate,Moderate crevice corrosion
+Iringa,22/05/2023,89.4,62.52,3.47,1.09,0.25,0.15,0.98,1.79,1.14,0.49,0.72,0.53,High,Extensive uniform corrosion
+Morogoro,26/03/2022,82.08,57.41,7.77,2.85,0.74,0.66,0.29,1.62,0.75,0.66,1.42,0.37,Severe,Rapid corrosion propagation
+Njombe,24/04/2024,57.37,40.13,21.1,1.82,0.19,1.73,1.61,6.12,0.66,2.89,1.37,0.77,Moderate,General surface corrosion
+Pwani,02/06/2025,74.81,52.33,23.95,1.87,0.05,0.2,0.1,0.5,0.3,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Pemba,12/03/2021,55.82,39.04,25.59,1.68,2.39,0.62,2.27,2.5,0.56,2.21,1.46,0.66,Moderate,Erosive wear from particulate ingress
+Pwani,29/08/2022,87.61,61.28,10.92,2.38,0.05,0.2,0.1,0.5,1.12,0.1,0.05,0.05,Severe,Significant wall thinning
+Mwanza,11/04/2024,62.47,43.69,24.93,0.88,1.05,3.07,0.7,1.22,0.65,2.4,0.89,0.56,Moderate,Selective corrosion activity
+Bukoba,10/01/2024,87.73,61.36,8.37,3.94,0.05,0.2,0.1,0.5,1.21,0.1,0.05,0.05,Severe,Significant wall thinning
+Arusha,26/04/2023,39.85,27.87,31.66,0.19,2.13,4.93,2.37,11.21,0.21,1.07,1.23,0.56,Low,Acceptable corrosion rates
+Cyclone,24/04/2023,46.95,32.83,33.91,0.76,0.66,5.59,1.6,6.5,0.37,1.68,0.33,0.35,Low,Acceptable corrosion rates
+Arusha,30/03/2020,56.93,39.81,20.46,0.64,1.16,5.86,2.3,5.43,0.25,2.34,0.44,0.33,Low,Slight discoloration only
+Rukwa,09/06/2024,94.07,65.79,6.89,1.09,0.05,0.2,0.1,0.5,0.74,0.1,0.05,0.05,Severe,Significant wall thinning
+Rukwa,29/01/2023,56.3,39.37,44.17,0.04,0.05,0.2,0.1,0.5,0.33,0.1,0.05,0.05,Low,Slight discoloration only
+Bukoba,03/02/2020,90.21,63.09,9.27,2.24,0.05,0.2,0.1,0.5,0.83,0.1,0.05,0.05,Severe,Severe localized attack
+Arusha,19/07/2020,78.54,54.94,7.06,1.88,0.41,2.41,2.47,2.17,0.75,1.03,0.49,0.33,Severe,Critical stress corrosion cracking
+Madimba,27/07/2025,72.16,50.47,15.55,0.33,0.7,1.96,2.39,1.86,0.4,0.76,1.25,0.19,Moderate,General surface corrosion
+Tabora,18/03/2023,85.94,60.11,9.91,2.45,0.05,0.22,0.12,0.4,0.67,0.11,0.05,0.08,Severe,Severe localized attack
+Kilifi,31/07/2022,72.87,50.97,20.15,1.06,0.17,1.28,1.01,1.21,0.62,0.35,0.01,0.49,Moderate,General surface corrosion
+Tabora,14/12/2023,64.58,45.17,25.11,0.02,0.24,3.62,1.73,0.35,0.12,1.43,0.75,0.53,Very Low,Optimal material performance
+Mwanza,16/06/2022,71.04,49.69,13.83,1.3,0.61,3.08,0.43,3.88,0.66,0.69,0.57,0.19,Moderate,Erosive wear from particulate ingress
+Rukwa,17/02/2022,87.76,61.38,3.49,2.89,0.29,1.56,0.89,0.58,1.41,0.44,0.27,0.18,Severe,Metal loss in carbon steel
+Mbeya,23/10/2022,56.35,39.41,44.51,0.5,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Low,Protective oxide layer formation
+Dar es Salaam,14/07/2021,58.7,41.06,23.26,1.96,0.44,5.65,2.34,0.69,0.64,1.85,0.98,0.1,Moderate,Uniform corrosion with scaling
+Ruvuma,01/02/2021,59.11,41.34,27.61,0.66,0.66,0.96,0.13,0.4,0.39,2.97,1.85,0.8,Moderate,Selective corrosion activity
+Morogoro,10/06/2020,64.7,45.25,27.77,0.14,0.27,0.84,0.77,2.25,0.39,0.55,0.04,0.29,Moderate,Moderate pitting observed
+Kigoma,19/06/2023,88.81,62.11,7.5,1.34,0.03,0.13,0.17,0.36,1.38,0.11,0.06,0.11,Severe,Critical stress corrosion cracking
+Mtwara,10/12/2024,80.32,56.17,6.28,2.71,0.87,3.57,0.43,2.0,1.07,0.47,0.11,0.49,High,Critical structural degradation
+Singida,16/05/2020,67.45,47.17,19.65,1.87,0.63,1.68,2.09,2.63,0.51,0.39,1.35,0.72,Moderate,Erosive wear from particulate ingress
+Cyclone,03/02/2024,85.17,59.57,5.34,3.18,0.26,1.59,0.66,1.98,0.91,0.15,0.43,0.3,Severe,Significant wall thinning
+Songosongo,22/06/2021,72.92,51.0,27.9,1.17,0.05,0.2,0.1,0.5,0.45,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Tanga,04/01/2021,83.23,58.21,5.33,1.2,0.8,0.79,0.73,3.35,1.21,0.34,1.74,0.52,Severe,Deep penetration corrosion
+Madimba,23/04/2023,67.73,47.37,23.67,0.27,0.4,2.54,0.98,2.16,0.54,0.68,0.61,0.42,Moderate,Erosive wear from particulate ingress
+Njombe,31/08/2023,63.03,44.08,18.89,0.14,0.69,5.42,1.1,6.73,0.26,0.88,0.96,0.51,Low,Minimal corrosion activity
+Rukwa,28/08/2024,89.93,62.9,6.08,2.64,-0.02,0.06,0.05,0.21,1.1,0.08,-0.06,0.01,Severe,Rapid corrosion propagation
+Pemba,20/12/2021,62.93,44.02,27.33,0.3,0.25,2.97,0.76,0.55,0.71,1.77,0.36,0.46,Moderate,Moderate crevice corrosion
+Rukwa,02/04/2022,78.85,55.15,1.68,3.42,1.43,6.36,1.5,0.75,1.41,1.14,1.98,0.52,Severe,Severe localized attack
+Morogoro,25/06/2021,59.99,41.96,21.03,0.94,0.03,2.62,2.92,5.6,0.18,2.0,1.76,0.09,Low,Acceptable corrosion rates
+Iringa,07/02/2024,54.38,38.03,32.48,1.04,1.19,1.79,1.01,1.87,0.15,0.78,1.8,0.25,Low,Minor surface oxidation
+Pemba,14/12/2025,58.54,40.95,43.13,0.89,0.05,0.2,0.1,0.5,0.11,0.1,0.05,0.05,Low,Light surface scaling
+Kigoma,17/08/2025,54.54,38.15,33.52,0.36,0.19,1.81,2.19,0.8,0.2,1.65,0.34,0.52,Low,Light surface scaling
+Dar es Salaam,21/01/2023,81.99,57.34,2.88,3.0,0.81,4.25,1.11,0.39,0.74,1.86,1.48,0.24,Severe,Rapid corrosion propagation
+Songosongo,04/11/2021,63.86,44.66,25.18,1.13,0.26,1.42,0.42,3.73,0.13,1.2,0.44,0.7,Low,Protective oxide layer formation
+Songosongo,18/11/2022,55.76,39.0,36.75,0.43,0.79,0.45,1.23,1.79,0.38,0.22,0.69,0.31,Low,Light surface scaling
+Lindi,27/05/2025,51.35,35.92,39.11,0.45,0.48,1.74,2.32,0.46,0.11,1.37,0.9,0.11,Very Low,Excellent corrosion resistance
+Kigoma,23/04/2023,90.74,63.46,6.13,3.23,0.05,0.2,0.1,0.5,1.46,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Iringa,19/10/2023,87.89,61.47,7.8,2.18,0.04,0.18,0.12,0.36,1.03,0.14,0.05,0.21,Severe,Significant wall thinning
+Pemba,16/04/2021,56.56,39.56,26.16,0.8,0.32,6.38,0.27,2.25,0.64,2.67,0.03,0.35,Moderate,Moderate crevice corrosion
+Zanzibar,02/04/2025,67.4,47.14,25.48,1.61,0.06,0.39,0.12,1.05,0.41,0.95,1.12,0.44,Moderate,Moderate crevice corrosion
+Songosongo,04/11/2020,52.68,36.85,35.43,0.99,0.32,3.08,1.91,2.18,0.19,0.46,1.54,0.47,Low,Protective oxide layer formation
+Musoma,30/07/2021,51.55,36.05,40.23,1.19,0.17,2.61,0.72,0.8,0.31,0.93,0.06,0.39,Low,Minimal corrosion activity
+Bukoba,13/07/2022,53.61,37.5,36.66,1.15,0.29,2.56,1.36,1.65,0.36,0.78,0.6,0.56,Low,Slight discoloration only
+Madimba,15/06/2024,57.38,40.13,30.56,1.14,0.34,2.49,1.1,3.21,0.3,1.36,0.09,0.68,Low,Slight discoloration only
+Songosongo,07/02/2024,74.53,52.13,12.49,0.36,0.13,4.43,2.14,0.96,0.76,1.26,1.18,0.71,Moderate,Uniform corrosion with scaling
+Kilifi,04/01/2021,64.51,45.12,13.32,0.94,0.22,6.65,1.58,7.17,0.73,1.56,1.33,0.52,Moderate,Uniform corrosion with scaling
+Mwanza,04/06/2024,76.27,53.35,7.68,3.93,1.01,3.68,0.96,0.54,0.82,1.2,1.82,0.66,High,Advanced galvanic corrosion
+Madimba,27/02/2020,63.92,44.71,17.96,0.56,0.99,3.08,0.43,6.75,0.22,1.06,1.07,0.04,Moderate,Moderate pitting observed
+Zanzibar,19/12/2022,78.19,54.69,1.94,2.67,2.68,1.7,0.33,3.63,0.45,1.33,1.45,0.65,High,Severe intergranular attack
+Zanzibar,21/05/2021,78.63,55.0,11.94,3.34,0.27,0.94,0.49,1.58,0.91,0.41,0.33,0.6,Severe,Critical stress corrosion cracking
+Mtwara,05/02/2025,81.19,56.78,4.35,3.49,0.71,3.19,0.76,1.76,0.46,1.25,1.26,0.72,Severe,Metal loss in carbon steel
+Cyclone,18/02/2024,70.69,49.44,27.74,0.94,0.0,0.05,-0.04,0.25,0.52,-0.05,0.0,0.01,Moderate,Moderate crevice corrosion
+Dar es Salaam,09/12/2022,80.53,56.32,8.26,2.2,0.38,0.38,0.12,2.93,0.76,0.48,0.23,0.06,High,Severe intergranular attack
+Cyclone,09/04/2024,78.29,54.75,5.05,4.18,1.25,1.29,1.75,1.26,1.14,1.63,1.52,0.54,Severe,Deep penetration corrosion
+Tabora,01/03/2024,71.88,50.27,24.55,1.57,0.02,0.43,0.28,0.37,0.3,0.15,0.19,0.25,Moderate,Moderate pitting observed
+Rukwa,19/03/2021,56.86,39.77,44.97,0.08,0.05,0.2,0.1,0.5,0.29,0.1,0.05,0.05,Low,Light surface scaling
+Njombe,15/08/2022,45.04,31.5,29.67,0.44,1.22,5.85,0.66,9.48,0.19,1.21,1.23,0.38,Low,Acceptable corrosion rates
+Tanga,15/04/2025,90.57,63.35,3.93,4.34,0.0,0.13,0.06,0.2,0.69,0.1,0.01,0.01,Severe,Deep penetration corrosion
+Mbeya,12/04/2020,50.91,35.61,35.17,0.86,0.58,5.64,1.92,1.29,0.38,0.94,0.9,0.06,Low,Slight discoloration only
+Bukoba,05/09/2023,63.46,44.38,28.22,0.65,0.14,0.14,1.64,1.69,0.32,1.17,1.48,0.19,Low,Protective oxide layer formation
+Bukoba,25/06/2022,56.16,39.28,25.46,1.78,1.13,3.01,2.9,4.13,0.37,2.35,1.4,0.73,Moderate,Erosive wear from particulate ingress
+Singida,15/09/2020,58.24,40.73,44.0,0.85,0.05,0.2,0.1,0.5,0.25,0.1,0.05,0.05,Low,Minor surface oxidation
+Dodoma,16/03/2025,55.96,39.14,41.82,0.55,0.1,0.39,0.17,0.47,0.1,0.2,0.03,0.11,Low,Minimal corrosion activity
+Tanga,22/05/2023,52.25,36.54,37.8,0.45,0.08,2.66,0.94,2.45,0.19,0.75,0.6,0.44,Low,Light surface scaling
+Songosongo,30/07/2024,75.72,52.96,25.15,1.82,0.05,0.2,0.1,0.5,0.39,0.1,0.05,0.05,Moderate,Moderate pitting observed
+Musoma,22/04/2021,82.91,57.99,4.77,1.66,0.95,2.04,2.52,1.55,0.48,0.58,0.36,0.16,Severe,Significant wall thinning
+Pemba,26/07/2021,70.47,49.29,15.54,0.18,1.43,4.09,1.52,1.97,0.45,0.46,0.59,0.59,Moderate,Erosive wear from particulate ingress
+Tabora,04/07/2020,88.56,61.94,5.81,2.51,0.06,0.65,0.28,0.32,1.34,0.15,0.07,0.23,Severe,Severe localized attack
+Rukwa,01/06/2020,48.61,34.0,43.23,0.82,0.97,0.39,0.74,1.91,0.32,0.31,1.22,0.61,Low,Protective oxide layer formation
+Madimba,31/05/2023,66.66,46.62,17.28,0.38,0.79,0.96,2.12,4.56,0.24,2.11,0.28,0.26,Moderate,Uniform corrosion with scaling
+Kagera,10/07/2025,71.11,49.73,25.27,0.32,0.05,0.83,0.39,0.44,0.64,0.33,0.07,0.2,Moderate,General surface corrosion
+Mbeya,20/04/2021,73.25,51.24,26.81,1.5,0.05,0.2,0.1,0.5,0.19,0.1,0.05,0.05,Moderate,General surface corrosion
+Tanga,02/02/2021,49.32,34.5,29.86,0.75,1.94,4.5,0.38,7.63,0.22,0.7,1.46,0.73,Very Low,Negligible corrosion detected
+Kagera,19/08/2022,72.06,50.4,16.72,1.46,0.58,1.69,1.71,2.44,0.51,1.16,0.81,0.4,Moderate,Moderate crevice corrosion
+Bukoba,09/07/2021,74.12,51.84,15.94,1.03,1.08,2.69,0.71,0.74,0.48,0.52,1.26,0.63,Moderate,Erosive wear from particulate ingress
+Pwani,10/05/2024,74.3,51.97,21.58,1.54,0.02,0.68,0.15,0.38,0.77,0.17,0.13,0.26,Moderate,Moderate crevice corrosion
+Rukwa,01/02/2025,84.11,58.83,3.38,3.95,0.07,2.21,0.68,2.95,0.96,0.58,0.48,0.5,High,Severe corrosion (oxidation and MIC)
+Madimba,28/02/2024,38.73,27.09,44.11,0.98,0.08,3.75,2.67,5.32,0.21,1.39,1.18,0.43,Low,Minor surface oxidation
+Pwani,12/09/2024,45.14,31.57,41.27,1.02,0.25,1.98,2.04,4.59,0.27,0.72,1.49,0.32,Very Low,Negligible corrosion detected
+Tabora,24/09/2021,62.56,43.76,27.92,1.36,0.88,0.11,0.76,2.91,0.17,0.37,0.1,0.45,Moderate,Moderate pitting observed
+Iringa,26/08/2024,60.37,42.22,34.9,0.95,0.16,1.08,0.36,1.1,0.17,0.36,0.19,0.26,Low,Slight discoloration only
+Mtwara,09/02/2021,79.14,55.35,9.85,3.68,0.74,0.54,0.21,1.3,1.3,1.21,0.8,0.12,Severe,Metal loss in carbon steel
+Kigoma,27/06/2025,89.73,62.76,2.26,4.38,0.06,0.8,0.35,0.81,1.04,0.25,0.16,0.16,High,Severe intergranular attack
+Bukoba,29/07/2024,60.83,42.54,27.77,1.65,0.19,3.66,1.33,0.49,0.32,1.52,0.1,0.4,Moderate,Moderate crevice corrosion
+Morogoro,19/02/2023,58.15,40.67,35.35,1.05,0.44,0.61,1.15,1.23,0.36,0.5,0.04,0.32,Low,Slight discoloration only
+Dodoma,14/05/2020,79.99,55.95,11.49,4.28,0.12,0.71,0.48,0.78,1.37,0.3,0.28,0.2,High,Aggressive pitting corrosion
+Morogoro,26/02/2024,76.15,53.26,5.97,1.31,0.77,0.95,2.93,5.0,0.82,0.94,0.56,0.47,High,Severe intergranular attack
+Dodoma,08/06/2022,53.66,37.53,37.83,0.43,0.63,1.16,1.14,0.56,0.38,1.02,0.58,0.54,Very Low,Stable protective coating
+Ruvuma,21/12/2024,68.29,47.76,19.63,0.32,0.5,4.15,0.96,2.39,0.38,0.12,1.61,0.63,Moderate,Erosive wear from particulate ingress
+Kagera,26/12/2024,60.74,42.49,21.02,0.98,1.32,4.23,1.5,4.35,0.8,0.97,0.99,0.8,Moderate,Moderate pitting observed
+Kilifi,25/08/2022,66.49,46.5,15.5,1.45,1.0,5.09,0.13,4.67,0.64,1.13,0.2,0.33,Moderate,Selective corrosion activity
+Zanzibar,25/01/2024,83.72,58.55,1.63,4.45,0.76,1.75,1.96,2.22,1.19,0.25,0.86,0.21,High,Severe corrosion (oxidation and MIC)
+Mtwara,10/02/2021,83.59,58.46,5.28,3.81,0.33,0.39,1.05,1.63,1.34,0.3,0.24,0.03,High,Aggressive pitting corrosion
+Njombe,13/02/2024,46.45,32.49,31.54,0.58,1.19,5.44,1.11,5.93,0.14,2.66,1.43,0.23,Low,Light surface scaling
+Madimba,09/01/2024,59.62,41.7,21.33,0.99,0.75,4.29,2.59,4.83,0.18,0.43,0.2,0.32,Very Low,No significant deterioration
+Songosongo,05/09/2020,60.93,42.62,40.94,0.64,0.05,0.2,0.1,0.5,0.07,0.1,0.05,0.05,Very Low,No significant deterioration
+Arusha,18/06/2024,55.04,38.49,39.57,0.05,0.38,1.35,0.37,0.7,0.1,0.78,0.12,0.53,Low,Protective oxide layer formation
+Dodoma,04/02/2023,78.22,54.71,4.76,3.01,1.17,2.08,0.14,1.72,0.91,2.95,1.01,0.31,High,Severe corrosion (oxidation and MIC)
+Kigoma,16/02/2022,74.06,51.8,26.87,1.23,0.05,0.2,0.1,0.5,0.44,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Cyclone,15/05/2021,80.93,56.6,8.02,1.69,0.06,1.03,1.32,2.25,0.82,0.51,1.83,0.71,High,Extensive uniform corrosion
+Lindi,05/02/2025,89.33,62.48,7.15,3.33,0.05,0.2,0.1,0.5,0.54,0.1,0.05,0.05,High,Extensive uniform corrosion
+Kagera,10/01/2021,46.73,32.68,25.34,1.0,0.73,7.34,2.34,10.61,0.37,2.06,0.39,0.54,Low,Protective oxide layer formation
+Bukoba,18/05/2022,94.71,66.24,3.99,2.8,0.05,0.2,0.1,0.5,1.15,0.1,0.05,0.05,Severe,Significant wall thinning
+Pwani,28/03/2020,78.54,54.94,6.96,2.01,0.87,2.0,2.6,0.4,0.59,0.22,1.53,0.76,High,Critical structural degradation
+Mbeya,26/07/2020,83.44,58.36,1.39,4.32,1.18,0.95,1.26,2.58,1.22,0.34,0.72,0.5,High,Advanced galvanic corrosion
+Tabora,28/09/2023,46.48,32.51,44.86,0.76,0.51,0.25,1.77,2.62,0.4,0.74,0.4,0.26,Low,Slight discoloration only
+Bukoba,24/09/2022,75.29,52.66,24.03,0.16,0.05,0.2,0.1,0.5,0.58,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Singida,30/05/2021,84.89,59.37,1.48,4.47,0.04,1.62,1.98,1.53,0.66,0.8,0.62,0.34,Severe,Deep penetration corrosion
+Dar es Salaam,20/04/2022,86.98,60.84,8.85,3.15,0.05,0.2,0.1,0.5,1.25,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Morogoro,08/10/2020,60.46,42.28,23.71,1.76,0.1,3.26,1.61,5.36,0.63,1.23,0.57,0.47,Moderate,Erosive wear from particulate ingress
+Pwani,28/04/2022,74.31,51.97,23.53,1.55,0.05,0.2,0.1,0.5,0.8,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Mbeya,03/06/2022,54.42,38.06,26.45,0.67,0.3,3.54,2.48,6.61,0.11,1.29,0.68,0.31,Low,Acceptable corrosion rates
+Ruvuma,12/08/2022,75.11,52.54,11.79,4.45,0.16,2.72,0.49,1.52,1.5,0.12,1.21,0.02,High,Severe intergranular attack
+Cyclone,07/09/2023,66.14,46.26,22.31,1.71,0.65,0.68,1.46,2.95,0.67,0.41,1.24,0.8,Moderate,Moderate pitting observed
+Cyclone,27/08/2021,53.89,37.69,32.44,0.85,0.03,1.43,2.22,3.03,0.32,1.41,1.8,0.44,Very Low,Optimal material performance
+Iringa,12/01/2020,92.65,64.8,6.58,2.45,0.05,0.2,0.1,0.5,0.86,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Bukoba,09/02/2023,75.59,52.87,14.02,1.6,0.17,1.52,1.09,3.28,0.55,0.75,0.32,0.58,Moderate,Moderate pitting observed
+Kilifi,15/08/2021,68.12,47.65,24.44,1.45,0.49,0.81,0.89,0.59,0.33,0.53,0.08,0.41,Moderate,General surface corrosion
+Rukwa,16/06/2021,67.3,47.07,16.55,0.9,1.2,4.53,2.78,1.32,0.74,1.32,0.26,0.4,Moderate,General surface corrosion
+Morogoro,23/10/2022,57.11,39.94,24.37,0.74,0.51,5.5,0.87,4.31,0.62,2.31,0.81,0.33,Moderate,Uniform corrosion with scaling
+Madimba,15/12/2021,64.02,44.78,27.2,0.17,1.6,0.69,0.18,0.53,0.16,0.89,0.69,0.11,Low,Slight discoloration only
+Musoma,26/03/2021,77.92,54.5,16.47,0.54,0.45,1.0,0.3,0.55,0.78,0.91,0.52,0.26,Moderate,Moderate pitting observed
+Songosongo,15/04/2020,60.57,42.37,26.63,1.79,0.5,0.72,1.24,2.88,0.42,1.49,0.72,0.01,Moderate,Erosive wear from particulate ingress
+Pwani,23/06/2021,80.39,56.22,7.49,4.5,0.46,1.97,0.06,1.86,1.15,0.31,0.98,0.55,Severe,Significant wall thinning
+Morogoro,01/03/2020,63.32,44.28,23.86,1.5,0.18,4.31,1.13,1.47,0.54,1.24,0.51,0.7,Moderate,Moderate crevice corrosion
+Mbeya,07/01/2024,45.49,31.82,38.28,0.58,0.32,6.44,1.73,1.59,0.15,0.33,2.0,0.16,Very Low,No significant deterioration
+Bukoba,01/09/2022,64.66,45.23,24.08,1.78,0.37,3.79,0.88,0.34,0.54,1.47,0.87,0.06,Moderate,Erosive wear from particulate ingress
+Kagera,19/08/2023,81.76,57.18,2.31,2.1,1.35,2.04,2.68,1.23,0.56,1.14,0.17,0.48,Severe,Metal loss in carbon steel
+Rukwa,05/03/2020,77.49,54.2,19.28,1.71,0.02,0.2,0.06,0.31,0.65,0.11,0.08,0.1,Moderate,General surface corrosion
+Pemba,14/12/2021,85.31,59.66,9.09,1.12,0.04,0.61,0.43,1.17,1.32,0.31,0.07,0.07,Severe,Severe localized attack
+Songosongo,22/12/2022,65.89,46.09,18.9,2.0,1.29,1.0,0.22,3.59,0.62,1.68,2.0,0.29,Moderate,Selective corrosion activity
+Kagera,02/08/2020,82.64,57.8,7.58,3.35,0.17,0.16,0.83,0.46,0.46,1.38,1.09,0.24,Severe,Metal loss in carbon steel
+Morogoro,03/06/2021,90.97,63.62,6.77,3.67,0.05,0.2,0.1,0.5,0.71,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Dar es Salaam,20/09/2024,78.72,55.06,3.02,1.87,1.58,3.61,1.25,4.28,1.14,0.33,1.02,0.33,Severe,Deep penetration corrosion
+Arusha,24/11/2025,74.17,51.88,14.34,1.21,0.73,2.75,0.53,2.07,0.34,1.03,0.77,0.69,Moderate,Moderate pitting observed
+Dodoma,10/04/2021,84.41,59.04,1.83,4.4,0.12,2.26,1.31,1.55,0.4,0.78,0.31,0.68,Severe,Severe localized attack
+Musoma,17/09/2020,88.48,61.88,7.57,3.26,-0.06,-0.01,0.0,0.18,0.62,0.1,-0.07,0.01,Severe,Critical stress corrosion cracking
+Dodoma,04/05/2025,76.23,53.32,20.05,0.28,0.03,0.99,0.23,0.67,0.45,0.12,0.03,0.33,Moderate,Moderate pitting observed
+Shinyanga,10/01/2025,79.07,55.31,8.56,3.19,0.53,2.2,0.8,2.16,0.68,0.52,1.35,0.35,Severe,Rapid corrosion propagation
+Pwani,22/01/2024,76.07,53.21,20.63,0.49,0.04,0.46,0.18,0.64,0.33,0.36,0.03,0.62,Moderate,Erosive wear from particulate ingress
+Lindi,03/10/2025,66.47,46.49,19.96,0.99,0.9,2.56,1.61,2.09,0.43,1.66,0.76,0.34,Moderate,General surface corrosion
+Singida,22/03/2021,67.34,47.1,26.23,0.96,0.25,1.12,0.76,1.78,0.6,0.34,0.07,0.05,Moderate,Selective corrosion activity
+Kilifi,25/01/2025,77.62,54.29,15.39,0.89,0.39,0.71,0.97,1.56,0.49,0.93,0.19,0.27,Moderate,General surface corrosion
+Kilifi,25/08/2025,64.07,44.81,24.19,0.29,0.48,3.31,0.09,3.93,0.39,1.48,0.56,0.32,Moderate,General surface corrosion
+Shinyanga,26/06/2022,69.06,48.3,20.17,0.32,0.19,2.91,2.12,0.52,0.47,1.35,1.49,0.28,Moderate,Uniform corrosion with scaling
+Dodoma,26/06/2020,76.43,53.46,7.57,2.6,0.65,2.77,0.09,3.99,0.67,1.47,0.4,0.8,High,Critical structural degradation
+Kilifi,05/11/2025,80.85,56.55,4.48,2.8,0.35,1.26,1.75,3.97,1.25,0.78,1.42,0.41,Severe,Significant wall thinning
+Mbeya,20/05/2023,70.47,49.29,17.2,0.6,0.92,3.29,0.54,3.08,0.76,0.93,0.43,0.14,Moderate,General surface corrosion
+Shinyanga,19/02/2025,63.92,44.71,26.22,0.4,0.03,2.57,1.38,2.1,0.79,0.76,0.18,0.07,Moderate,Moderate pitting observed
+Shinyanga,07/05/2020,54.35,38.01,23.64,1.12,1.21,5.14,1.12,6.41,0.4,1.68,1.24,0.57,Very Low,Stable protective coating
+Kilifi,06/09/2020,35.48,24.82,43.65,1.09,0.55,1.7,2.23,5.99,0.14,2.41,1.43,0.65,Low,Minor surface oxidation
+Mtwara,15/05/2025,67.0,46.86,21.66,1.91,0.23,4.07,1.28,0.72,0.54,1.0,0.48,0.42,Moderate,Moderate crevice corrosion
+Arusha,03/07/2024,59.76,41.8,41.45,0.92,0.05,0.2,0.1,0.5,0.06,0.1,0.05,0.05,Low,Acceptable corrosion rates
+Musoma,12/10/2024,62.95,44.03,38.5,0.69,0.05,0.2,0.1,0.5,0.08,0.1,0.05,0.05,Low,Light surface scaling
+Madimba,18/03/2021,75.72,52.96,12.75,1.77,0.46,0.74,2.01,1.84,0.35,0.44,1.33,0.39,Moderate,General surface corrosion
+Ruvuma,01/07/2025,83.29,58.25,2.49,0.92,0.45,4.79,1.75,1.91,0.75,1.59,0.3,0.27,Severe,Rapid corrosion propagation
+Dar es Salaam,21/12/2024,63.87,44.67,25.0,0.24,1.0,4.11,0.14,1.21,0.53,0.48,1.42,0.24,Moderate,Erosive wear from particulate ingress
+Musoma,28/10/2020,59.32,41.49,23.28,0.38,0.8,0.33,2.31,6.14,0.23,1.76,1.49,0.77,Very Low,Excellent corrosion resistance
+Mbeya,26/11/2020,53.28,37.26,37.65,0.9,0.72,1.73,0.72,2.13,0.19,0.85,0.22,0.73,Low,Minimal corrosion activity
+Rukwa,12/08/2023,37.34,26.11,34.91,0.35,2.12,6.65,1.97,9.67,0.1,1.43,1.66,0.4,Very Low,Negligible corrosion detected
+Zanzibar,30/08/2021,86.34,60.39,4.64,2.98,0.49,0.9,1.07,0.44,0.91,1.04,0.4,0.49,Severe,Rapid corrosion propagation
+Tanga,26/09/2020,37.03,25.9,43.53,0.74,1.92,2.37,0.85,5.83,0.29,1.42,0.92,0.68,Low,Slight discoloration only
+Cyclone,31/05/2021,78.87,55.17,8.79,1.62,0.41,3.01,1.75,0.5,0.44,1.37,1.56,0.43,High,Critical structural degradation
+Shinyanga,31/01/2023,62.51,43.72,34.35,0.94,0.16,0.25,0.41,0.58,0.13,0.19,0.12,0.36,Low,Light surface scaling
+Bukoba,24/08/2023,65.12,45.55,13.12,1.27,0.95,3.87,2.53,4.65,0.77,2.61,1.86,0.06,Moderate,Selective corrosion activity
+Pwani,09/04/2024,48.87,34.18,30.53,0.43,1.23,6.6,1.8,3.42,0.16,2.99,0.55,0.22,Low,Minor surface oxidation
+Shinyanga,13/12/2025,74.39,52.03,15.68,0.15,0.92,0.83,0.55,2.42,0.74,1.82,0.39,0.34,Moderate,Erosive wear from particulate ingress
+Njombe,22/04/2023,90.42,63.24,6.7,3.81,0.05,0.2,0.1,0.5,1.4,0.1,0.05,0.05,Severe,Deep penetration corrosion
+Kilifi,01/02/2025,71.08,49.72,27.76,0.34,-0.0,0.07,0.0,0.2,0.55,0.07,0.0,0.01,Moderate,Erosive wear from particulate ingress
+Madimba,01/09/2025,69.01,48.27,22.42,0.52,0.03,2.49,0.54,1.25,0.65,0.97,0.71,0.78,Moderate,General surface corrosion
+Dar es Salaam,28/10/2024,80.64,56.4,1.69,2.43,0.84,2.1,0.38,3.29,1.36,2.85,0.57,0.29,High,Aggressive pitting corrosion
+Ruvuma,10/02/2021,49.07,34.32,41.13,1.12,0.22,1.25,0.48,2.85,0.21,1.53,0.42,0.79,Low,Minimal corrosion activity
+Mbeya,13/04/2021,55.42,38.76,31.82,1.12,0.71,0.63,1.28,1.93,0.05,2.39,0.87,0.45,Low,Acceptable corrosion rates
+Pemba,30/05/2022,74.69,52.24,25.15,0.69,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Songosongo,27/10/2024,61.79,43.22,21.96,0.79,0.43,2.79,2.49,5.61,0.3,0.17,0.06,0.23,Moderate,Selective corrosion activity
+Kagera,23/01/2025,75.73,52.97,2.29,2.41,1.51,3.89,2.22,6.32,0.86,0.94,1.42,0.34,Severe,Rapid corrosion propagation
+Ruvuma,24/07/2022,76.13,53.25,23.3,1.2,0.05,0.2,0.1,0.5,0.42,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Cyclone,21/08/2024,53.94,37.73,31.54,0.73,0.29,4.85,2.77,1.36,0.27,1.63,0.64,0.65,Low,Minor surface oxidation
+Lindi,20/10/2023,67.6,47.28,20.58,1.86,0.72,0.41,0.07,0.45,0.48,2.75,0.94,0.68,Moderate,Moderate crevice corrosion
+Shinyanga,31/01/2025,69.02,48.27,25.34,0.66,0.59,0.5,0.45,0.38,0.26,0.45,0.31,0.54,Moderate,General surface corrosion
+Songosongo,21/06/2024,30.89,21.6,42.89,0.62,1.21,5.06,2.04,9.8,0.35,1.91,0.3,0.44,Low,Protective oxide layer formation
+Kilifi,30/08/2024,63.84,44.65,15.2,0.32,0.4,6.47,1.78,3.75,0.18,1.86,0.69,0.68,Moderate,Erosive wear from particulate ingress
+Shinyanga,24/01/2021,59.32,41.49,40.6,0.59,0.05,0.2,0.1,0.5,0.16,0.1,0.05,0.05,Low,Minor surface oxidation
+Mtwara,04/07/2023,72.29,50.56,15.67,1.59,1.4,0.4,1.81,0.6,0.78,2.01,0.82,0.03,Moderate,Selective corrosion activity
+Morogoro,14/10/2024,59.12,41.35,27.91,1.35,1.04,1.75,0.85,2.8,0.57,2.07,0.76,0.24,Moderate,Moderate crevice corrosion
+Iringa,04/07/2023,77.65,54.31,10.01,3.63,0.1,2.45,0.95,3.2,0.54,0.36,0.39,0.34,Severe,Severe localized attack
+Cyclone,10/11/2022,44.9,31.4,40.25,0.86,0.66,1.4,1.38,2.06,0.13,2.67,0.76,0.69,Low,Minimal corrosion activity
+Zanzibar,13/03/2024,67.32,47.08,19.85,1.74,1.78,0.96,1.24,0.63,0.59,1.54,1.94,0.68,Moderate,Uniform corrosion with scaling
+Mtwara,17/09/2021,77.17,53.98,18.29,1.41,0.11,0.25,0.66,0.31,0.61,0.37,0.25,0.57,Moderate,Moderate pitting observed
+Lindi,26/04/2025,64.16,44.87,16.7,0.33,1.27,3.52,1.52,3.32,0.79,2.66,1.39,0.32,Moderate,General surface corrosion
+Tanga,01/10/2020,57.61,40.29,40.8,0.82,-0.0,0.1,0.05,0.29,0.26,0.07,0.01,0.01,Very Low,Stable protective coating
+Shinyanga,08/01/2021,59.79,41.82,24.98,1.47,1.06,1.41,0.55,2.79,0.24,2.23,0.44,0.25,Moderate,General surface corrosion
+Madimba,15/12/2020,91.97,64.33,6.06,4.06,0.05,0.2,0.1,0.5,1.09,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Mwanza,16/01/2021,64.22,44.91,20.7,1.01,0.76,2.78,0.98,3.02,0.33,2.33,0.67,0.76,Moderate,Selective corrosion activity
+Pwani,03/11/2024,94.65,66.2,5.16,3.36,0.05,0.2,0.1,0.5,0.71,0.1,0.05,0.05,Severe,Critical stress corrosion cracking
+Arusha,30/01/2021,64.36,45.01,24.11,1.82,0.39,1.42,1.02,2.83,0.79,1.33,0.3,0.35,Moderate,Uniform corrosion with scaling
+Morogoro,06/03/2024,75.07,52.5,15.71,1.53,0.24,2.56,0.59,1.54,0.79,0.47,0.31,0.43,Moderate,Selective corrosion activity
+Tabora,16/06/2021,64.28,44.96,26.33,0.99,0.53,2.53,0.88,1.13,0.51,0.3,1.37,0.68,Moderate,Erosive wear from particulate ingress
+Songosongo,02/09/2020,63.67,44.53,19.51,0.27,1.25,1.66,2.8,2.48,0.64,2.48,0.28,0.12,Moderate,Moderate pitting observed
+Iringa,12/09/2023,49.65,34.73,40.75,0.15,0.69,1.76,1.66,1.52,0.4,1.55,0.07,0.14,Low,Slight discoloration only
+Morogoro,15/05/2021,88.78,62.09,6.52,1.29,0.11,0.76,0.07,0.42,1.26,0.3,0.1,0.38,Severe,Deep penetration corrosion
+Pemba,09/08/2024,85.5,59.8,1.03,4.09,0.4,0.68,2.18,2.0,0.71,1.02,1.16,0.37,Severe,Significant wall thinning
+Pwani,19/12/2023,66.76,46.69,16.84,1.28,0.61,3.72,2.98,1.83,0.78,2.06,1.87,0.56,Moderate,Moderate crevice corrosion
+Njombe,28/09/2024,57.45,40.18,32.38,0.27,0.97,2.65,0.14,1.24,0.13,2.23,0.59,0.42,Low,Light surface scaling
+Njombe,29/07/2020,75.29,52.66,16.45,1.41,0.6,2.47,0.23,1.27,0.44,0.18,0.9,0.7,Moderate,Erosive wear from particulate ingress
+Iringa,24/03/2023,69.45,48.58,20.02,1.55,0.3,3.62,0.37,0.42,0.72,1.37,1.09,0.54,Moderate,Moderate crevice corrosion
+Mbeya,03/07/2023,61.72,43.17,24.59,0.3,0.31,1.44,1.54,0.82,0.33,2.51,1.1,0.57,Low,Minimal corrosion activity
+Kigoma,11/12/2023,77.24,54.02,11.92,3.43,0.51,1.51,1.09,0.34,1.21,0.93,0.62,0.19,Severe,Severe localized attack
+Mbeya,28/02/2021,88.93,62.2,4.55,1.68,0.13,0.5,0.07,1.25,1.41,0.13,0.51,0.47,High,Advanced galvanic corrosion
+Rukwa,09/09/2025,71.5,50.01,13.68,0.14,1.85,0.59,1.94,1.14,0.38,2.46,1.64,0.54,Moderate,Moderate pitting observed
+Iringa,21/05/2022,80.44,56.26,3.01,4.47,0.39,4.83,2.01,1.54,0.64,1.0,0.53,0.78,Severe,Rapid corrosion propagation
+Mtwara,25/09/2021,76.73,53.67,17.34,0.7,0.11,1.9,0.45,0.53,0.71,0.62,0.4,0.39,Moderate,Erosive wear from particulate ingress
+Dodoma,29/05/2025,66.6,46.58,23.07,1.94,0.91,0.82,0.67,2.97,0.31,0.24,0.43,0.21,Moderate,Selective corrosion activity
+Pwani,07/07/2022,91.11,63.72,9.46,1.32,0.05,0.2,0.1,0.5,1.4,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Njombe,19/03/2021,58.01,40.57,36.07,0.66,0.31,0.16,1.04,1.5,0.22,0.13,0.18,0.66,Very Low,Stable protective coating
+Madimba,05/12/2023,65.44,45.77,24.36,0.91,1.14,0.31,0.47,2.85,0.46,1.19,0.14,0.04,Moderate,Uniform corrosion with scaling
+Rukwa,14/02/2024,50.65,35.42,40.29,0.48,0.14,1.21,1.62,0.91,0.08,1.34,1.86,0.28,Low,Protective oxide layer formation
+Singida,15/04/2021,85.48,59.79,10.31,1.62,0.04,0.31,0.1,0.38,1.3,0.17,0.15,0.14,Severe,Significant wall thinning
+Pwani,15/02/2023,55.4,38.75,38.34,0.47,0.36,1.41,0.36,0.34,0.38,0.78,0.75,0.45,Very Low,Excellent corrosion resistance
+Kilifi,15/07/2022,86.04,60.18,4.52,3.93,0.33,0.57,0.49,1.03,0.88,0.65,0.6,0.29,High,Aggressive pitting corrosion
+Zanzibar,23/10/2024,76.0,53.16,16.89,1.6,0.21,0.24,1.47,0.83,0.75,0.79,0.5,0.54,Moderate,General surface corrosion
+Tanga,17/04/2020,58.86,41.17,39.42,0.41,0.05,0.36,0.05,0.43,0.12,0.12,0.08,0.1,Low,Light surface scaling
+Ruvuma,31/12/2022,87.31,61.06,1.23,1.41,0.91,0.67,1.75,0.56,1.26,1.45,0.79,0.62,High,Severe intergranular attack
+Madimba,28/04/2020,80.42,56.25,11.21,3.4,0.28,0.38,0.52,1.13,1.15,0.44,0.63,0.04,High,Aggressive pitting corrosion
+Kagera,08/01/2022,57.35,40.11,41.54,0.24,0.02,0.11,0.05,0.25,0.32,0.08,0.03,0.03,Very Low,No significant deterioration
+Mbeya,24/01/2023,55.03,38.49,36.31,1.02,0.6,1.1,0.23,2.87,0.14,0.23,0.65,0.08,Low,Slight discoloration only
+Mtwara,19/06/2023,90.99,63.64,3.22,3.48,0.04,0.2,0.13,0.3,1.16,0.19,0.01,0.27,Severe,Deep penetration corrosion
+Kagera,23/10/2023,76.83,53.73,14.89,1.89,0.49,2.18,0.06,0.65,0.27,0.25,0.38,0.08,Moderate,Moderate pitting observed
+Njombe,08/12/2023,61.31,42.88,27.67,1.07,0.48,3.77,1.52,1.64,0.23,0.5,0.1,0.57,Moderate,Moderate crevice corrosion
+Musoma,26/01/2020,85.75,59.97,3.06,2.64,0.5,1.85,0.09,1.88,1.1,0.84,0.29,0.17,High,Extensive uniform corrosion
+Kagera,13/01/2022,53.47,37.4,40.84,0.73,0.12,1.15,0.33,1.78,0.15,0.15,0.74,0.26,Low,Minor surface oxidation
+Musoma,09/08/2021,57.33,40.09,13.92,1.62,1.72,6.57,1.68,10.21,0.23,2.64,1.23,0.49,Moderate,Moderate crevice corrosion
+Mbeya,29/06/2024,79.64,55.7,9.36,1.42,0.74,1.34,1.0,0.74,0.78,2.22,0.89,0.78,Severe,Significant wall thinning
+Kagera,12/10/2020,85.24,59.62,5.45,4.15,0.3,1.31,0.54,0.65,0.65,0.56,0.03,0.05,High,Aggressive pitting corrosion
+Kagera,04/08/2021,59.39,41.54,20.83,1.3,1.27,5.01,2.5,2.38,0.53,2.99,1.12,0.16,Moderate,General surface corrosion
+Ruvuma,05/05/2020,76.57,53.55,16.1,0.5,0.38,0.99,0.14,2.02,0.25,1.22,0.37,0.28,Moderate,Uniform corrosion with scaling
+Kigoma,10/01/2021,50.56,35.37,38.12,0.26,0.69,0.66,1.85,4.0,0.28,0.23,1.11,0.32,Low,Protective oxide layer formation
+Mtwara,12/12/2025,75.09,52.52,3.39,2.72,0.25,6.67,2.52,0.59,1.22,2.52,1.26,0.02,Severe,Severe localized attack
+Madimba,31/05/2022,89.46,62.57,9.04,2.77,0.05,0.2,0.1,0.5,0.5,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Madimba,20/03/2024,61.7,43.15,25.71,1.95,0.61,1.15,1.84,3.76,0.63,0.49,0.96,0.02,Moderate,General surface corrosion
+Mwanza,15/09/2024,62.15,43.47,19.61,0.46,1.84,3.3,1.51,5.02,0.19,0.97,0.19,0.7,Moderate,General surface corrosion
+Cyclone,01/02/2025,75.25,52.63,13.67,1.48,0.86,0.2,0.37,2.52,0.69,1.51,1.5,0.58,Moderate,Selective corrosion activity
+Tabora,28/10/2023,72.62,50.79,16.17,1.19,0.04,1.7,2.12,0.36,0.74,0.93,0.14,0.52,Moderate,Erosive wear from particulate ingress
+Dodoma,06/10/2021,86.04,60.18,4.5,2.68,0.1,0.86,0.91,0.34,0.68,0.4,1.44,0.72,High,Advanced galvanic corrosion
+Lindi,24/02/2024,87.36,61.1,9.15,1.0,0.08,0.55,0.25,0.63,0.52,0.22,0.11,0.15,High,Aggressive pitting corrosion
+Dodoma,30/06/2023,78.59,54.97,4.44,4.15,1.3,0.11,2.5,4.11,0.54,0.66,1.39,0.54,High,Severe intergranular attack
+Mtwara,21/08/2023,77.47,54.18,13.77,0.48,0.76,2.22,1.71,0.52,0.53,0.16,0.57,0.14,Moderate,Moderate pitting observed
+Madimba,13/12/2020,61.75,43.19,41.4,0.14,0.05,0.2,0.1,0.5,0.24,0.1,0.05,0.05,Low,Minor surface oxidation
+Dar es Salaam,03/08/2020,43.58,30.48,37.61,0.98,1.16,0.78,2.73,6.1,0.22,2.55,1.64,0.44,Very Low,Passive corrosion behavior
+Musoma,29/09/2021,67.89,47.49,21.1,0.78,1.41,1.19,0.38,1.91,0.32,0.9,0.77,0.6,Moderate,General surface corrosion
+Singida,06/10/2021,55.89,39.09,41.42,1.15,0.09,0.12,0.28,0.31,0.3,0.15,0.06,0.22,Low,Minor surface oxidation
+Rukwa,22/07/2020,91.57,64.05,6.76,4.01,0.05,0.2,0.1,0.5,1.4,0.1,0.05,0.05,Severe,Rapid corrosion propagation
+Songosongo,30/11/2020,89.63,62.69,2.16,3.52,0.16,0.11,0.26,0.39,0.7,1.15,1.12,0.48,Severe,Rapid corrosion propagation
+Musoma,19/01/2023,44.89,31.39,44.57,0.27,0.68,4.52,1.46,0.4,0.35,0.21,1.04,0.18,Low,Acceptable corrosion rates
+Iringa,19/12/2024,93.84,65.64,3.34,3.3,0.05,0.2,0.1,0.5,0.8,0.1,0.05,0.05,Severe,Significant wall thinning
+Kilifi,02/10/2024,68.91,48.19,20.87,1.37,0.06,0.31,0.98,3.05,0.38,1.3,1.17,0.66,Moderate,Moderate pitting observed
+Arusha,12/06/2025,55.3,38.68,17.47,0.44,1.63,5.25,0.93,10.21,0.3,2.8,0.58,0.31,Moderate,Moderate pitting observed
+Dar es Salaam,15/12/2024,45.23,31.64,42.56,0.78,0.86,4.48,2.44,0.49,0.3,0.76,0.7,0.37,Low,Slight discoloration only
+Bukoba,23/08/2024,70.12,49.05,13.68,0.54,2.4,2.73,1.68,2.02,0.17,0.95,0.59,0.36,Moderate,Uniform corrosion with scaling
+Njombe,23/01/2023,63.21,44.21,32.21,0.48,0.08,1.41,0.58,1.06,0.17,0.3,0.16,0.29,Low,Acceptable corrosion rates
+Tabora,01/06/2022,89.16,62.36,1.13,2.46,0.26,1.04,0.24,2.48,0.97,0.12,1.18,0.8,High,Severe intergranular attack
+Dodoma,29/09/2025,89.59,62.66,7.5,2.87,0.05,0.2,0.1,0.5,0.99,0.1,0.05,0.05,High,Aggressive pitting corrosion
+Musoma,11/04/2021,83.38,58.32,2.34,3.28,0.77,3.09,0.83,3.5,0.69,0.13,0.84,0.34,Severe,Significant wall thinning
+Musoma,14/11/2023,62.65,43.82,21.73,0.16,0.01,4.23,3.0,0.85,0.52,2.6,1.59,0.29,Moderate,Selective corrosion activity
+Njombe,26/10/2024,64.0,44.76,28.97,0.83,0.18,1.03,1.22,1.33,0.19,0.51,0.81,0.68,Very Low,Stable protective coating
+Pwani,30/03/2021,70.36,49.21,20.47,0.21,0.95,2.61,0.74,0.39,0.18,1.52,0.22,0.58,Moderate,Moderate crevice corrosion
+Kagera,06/03/2023,57.58,40.27,21.75,1.34,0.17,3.13,2.97,7.01,0.49,1.22,0.95,0.15,Moderate,General surface corrosion
+Iringa,16/06/2025,70.94,49.62,13.56,0.99,0.18,4.57,2.38,0.73,0.45,2.45,1.07,0.46,Moderate,Moderate pitting observed
+Bukoba,28/11/2025,87.55,61.23,5.8,1.34,0.03,1.28,0.16,1.27,1.12,0.57,0.53,0.37,High,Severe intergranular attack
+Arusha,17/06/2023,71.9,50.29,12.66,0.24,0.94,3.93,0.69,0.8,0.22,2.59,1.39,0.53,Moderate,General surface corrosion
+Mtwara,05/07/2020,60.59,42.38,24.75,0.75,0.64,4.84,0.2,1.58,0.53,1.92,1.47,0.74,Moderate,Moderate crevice corrosion
+Cyclone,22/06/2022,83.84,58.64,9.87,1.36,0.5,1.33,0.3,0.4,0.91,0.13,0.4,0.23,Severe,Critical stress corrosion cracking
+Kagera,06/06/2024,92.72,64.85,8.57,0.8,0.05,0.2,0.1,0.5,1.24,0.1,0.05,0.05,Severe,Severe localized attack
+Singida,12/08/2020,44.58,31.18,38.16,0.12,1.24,6.47,2.33,0.99,0.35,1.04,0.01,0.75,Low,Light surface scaling
+Madimba,01/02/2020,69.27,48.45,20.98,1.36,0.58,2.59,0.74,1.99,0.71,0.24,0.63,0.56,Moderate,General surface corrosion
+Mwanza,17/04/2022,76.5,53.51,3.63,2.39,0.87,5.34,1.06,5.35,1.09,1.48,0.94,0.2,High,Extensive uniform corrosion
+Njombe,19/05/2023,77.31,54.07,22.28,1.98,0.05,0.2,0.1,0.5,0.73,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Pwani,15/05/2022,64.23,44.92,33.48,0.85,0.09,0.32,0.22,0.39,0.06,0.13,0.04,0.18,Low,Acceptable corrosion rates
+Kagera,16/07/2021,66.18,46.29,16.74,1.62,0.07,3.2,2.4,3.32,0.21,2.45,1.19,0.55,Moderate,Erosive wear from particulate ingress
+Tabora,12/11/2022,82.68,57.83,8.98,2.96,0.08,0.69,0.68,1.31,1.1,0.18,0.14,0.71,High,Aggressive pitting corrosion
+Dodoma,31/03/2023,57.06,39.91,30.65,0.29,0.56,1.0,0.89,2.85,0.37,2.55,1.18,0.37,Very Low,Optimal material performance
+Songosongo,05/09/2023,60.14,42.06,23.49,1.4,0.31,4.27,2.1,4.68,0.33,0.32,1.53,0.17,Moderate,General surface corrosion
+Mbeya,06/05/2021,59.83,41.85,29.19,0.4,0.43,1.22,2.0,3.56,0.21,0.92,0.44,0.2,Very Low,Stable protective coating
+Mtwara,01/02/2020,65.28,45.66,19.87,1.83,1.16,4.08,1.08,2.27,0.48,0.62,1.2,0.48,Moderate,Moderate crevice corrosion
+Songosongo,30/07/2025,58.94,41.23,26.88,0.81,0.18,4.05,1.82,4.21,0.44,1.03,0.94,0.65,Moderate,Moderate crevice corrosion
+Zanzibar,29/10/2024,75.3,52.67,9.56,4.33,0.47,1.12,2.89,0.59,1.24,1.04,1.68,0.08,Severe,Critical stress corrosion cracking
+Bukoba,20/12/2021,77.34,54.1,16.66,0.76,0.36,0.78,0.62,1.52,0.54,0.54,0.1,0.78,Moderate,Moderate pitting observed
+Shinyanga,13/06/2021,71.63,50.1,19.79,1.19,0.2,0.44,1.02,1.26,0.6,0.9,1.67,0.19,Moderate,Erosive wear from particulate ingress
+Tanga,06/04/2024,58.91,41.2,19.66,1.87,0.69,5.9,1.14,5.77,0.37,1.1,1.85,0.56,Moderate,General surface corrosion
+Pwani,21/12/2025,54.7,38.25,43.49,1.06,0.01,0.17,0.09,0.28,0.07,0.09,0.01,0.03,Low,Acceptable corrosion rates
+Songosongo,31/07/2022,72.68,50.84,17.84,1.74,1.08,1.44,0.78,0.61,0.49,0.41,0.27,0.51,Moderate,Moderate pitting observed
+Tanga,11/08/2025,93.24,65.21,2.94,3.73,0.05,0.2,0.1,0.5,1.3,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Bukoba,21/12/2023,61.9,43.29,39.2,0.85,0.05,0.2,0.1,0.5,0.08,0.1,0.05,0.05,Low,Minor surface oxidation
+Madimba,22/10/2020,73.89,51.68,12.46,1.74,0.08,3.32,2.06,0.48,0.76,0.32,1.57,0.31,Moderate,Uniform corrosion with scaling
+Shinyanga,14/06/2024,55.51,38.82,33.86,1.02,0.82,3.24,1.32,0.35,0.11,1.23,0.67,0.11,Low,Acceptable corrosion rates
+Morogoro,22/06/2020,85.91,60.08,11.27,3.08,0.05,0.2,0.1,0.5,1.42,0.1,0.05,0.05,High,Aggressive pitting corrosion
+Morogoro,21/11/2024,61.85,43.26,22.89,1.99,1.0,2.1,2.67,3.01,0.42,1.03,1.53,0.66,Moderate,Uniform corrosion with scaling
+Iringa,17/03/2020,92.1,64.41,2.26,2.23,0.24,0.18,0.11,0.57,1.33,0.16,0.35,0.17,Severe,Rapid corrosion propagation
+Kigoma,26/02/2025,80.63,56.39,6.38,3.73,1.01,1.22,1.83,1.41,1.2,0.15,0.95,0.35,Severe,Severe localized attack
+Kilifi,14/11/2020,57.82,40.44,27.76,1.08,0.67,2.05,1.88,3.85,0.3,0.51,1.96,0.16,Moderate,Uniform corrosion with scaling
+Njombe,06/07/2023,68.24,47.73,21.84,1.17,0.33,3.57,1.45,0.35,0.48,0.28,1.06,0.78,Moderate,Selective corrosion activity
+Pemba,24/10/2024,82.54,57.73,6.06,2.26,0.45,0.18,0.43,1.06,1.12,1.18,1.53,0.09,High,Severe intergranular attack
+Pwani,14/07/2024,83.76,58.59,11.86,1.29,0.09,0.67,0.37,0.67,0.77,0.21,0.1,0.23,High,Aggressive pitting corrosion
+Shinyanga,06/09/2024,60.36,42.21,19.08,0.66,0.09,6.77,2.58,3.98,0.37,2.04,0.5,0.7,Low,Minor surface oxidation
+Njombe,31/03/2023,84.16,58.86,2.93,2.43,1.32,0.85,1.91,1.0,1.47,0.59,0.03,0.01,Severe,Metal loss in carbon steel
+Arusha,16/04/2021,66.23,46.32,19.91,0.41,0.19,0.14,2.93,4.67,0.42,1.36,0.1,0.44,Moderate,Erosive wear from particulate ingress
+Dodoma,17/07/2024,40.37,28.24,38.83,1.02,0.83,7.51,1.98,2.36,0.26,2.91,1.64,0.65,Low,Protective oxide layer formation
+Kilifi,26/03/2020,77.17,53.98,24.3,0.14,0.05,0.2,0.1,0.5,0.78,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Dodoma,23/08/2023,69.91,48.89,24.18,1.17,0.17,1.22,0.25,1.09,0.71,0.21,0.45,0.16,Moderate,General surface corrosion
+Iringa,04/12/2021,64.06,44.81,12.59,1.61,1.12,7.32,2.15,5.6,0.58,1.95,1.22,0.24,Moderate,General surface corrosion
+Bukoba,27/02/2025,89.95,62.91,8.82,2.37,0.05,0.2,0.1,0.5,1.35,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Kigoma,22/01/2024,94.05,65.78,5.64,2.0,0.05,0.2,0.1,0.5,0.52,0.1,0.05,0.05,High,Severe corrosion (oxidation and MIC)
+Dodoma,26/12/2020,60.3,42.17,34.75,0.44,0.19,0.34,0.34,1.39,0.28,0.44,0.9,0.62,Low,Light surface scaling
+Mwanza,23/11/2024,75.22,52.61,24.57,0.76,0.05,0.2,0.1,0.5,0.3,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Musoma,09/03/2021,84.13,58.84,4.01,1.2,0.66,0.34,1.72,3.02,0.84,1.39,1.23,0.15,Severe,Metal loss in carbon steel
+Morogoro,23/09/2022,76.65,53.61,21.78,1.26,0.05,0.2,0.1,0.5,0.63,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Mtwara,19/11/2024,71.11,49.74,12.17,1.84,1.28,2.95,2.56,1.47,0.72,2.38,1.88,0.36,Moderate,Selective corrosion activity
+Morogoro,28/06/2024,63.98,44.75,18.91,0.77,0.95,5.07,2.2,3.3,0.63,0.14,0.88,0.37,Moderate,General surface corrosion
+Madimba,16/11/2025,85.95,60.12,8.84,4.08,-0.02,0.1,0.05,0.11,1.01,0.09,-0.02,0.01,Severe,Metal loss in carbon steel
+Dodoma,18/11/2020,70.24,49.12,17.15,0.63,0.86,2.01,1.32,3.34,0.37,1.21,0.16,0.62,Moderate,General surface corrosion
+Lindi,09/06/2024,70.39,49.23,18.55,0.72,0.15,1.57,1.81,3.94,0.3,0.59,0.61,0.04,Moderate,Uniform corrosion with scaling
+Musoma,24/06/2023,91.37,63.91,7.71,3.49,0.05,0.2,0.1,0.5,1.04,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Bukoba,22/10/2023,80.56,56.35,7.4,3.68,0.23,2.27,0.56,2.33,1.47,0.22,0.55,0.62,High,Severe intergranular attack
+Kigoma,26/06/2022,45.2,31.61,41.62,0.29,0.32,1.31,1.1,3.51,0.1,2.59,0.2,0.06,Very Low,Stable protective coating
+Zanzibar,26/09/2023,69.76,48.79,23.04,0.72,0.1,1.69,0.95,2.2,0.19,0.55,0.2,0.6,Moderate,Moderate pitting observed
+Arusha,19/11/2021,64.37,45.02,38.03,0.62,0.05,0.2,0.1,0.5,0.29,0.1,0.05,0.05,Low,Slight discoloration only
+Kilifi,08/11/2020,79.31,55.47,10.69,3.59,0.25,2.34,0.78,1.0,0.59,0.26,0.29,0.4,Severe,Metal loss in carbon steel
+Iringa,21/09/2025,61.42,42.96,24.46,1.38,1.28,4.55,0.7,1.0,0.72,1.04,0.91,0.17,Moderate,Selective corrosion activity
+Kigoma,12/04/2021,43.92,30.72,44.92,0.92,0.66,2.42,1.43,3.51,0.33,0.17,0.41,0.74,Low,Minimal corrosion activity
+Dar es Salaam,13/12/2025,53.61,37.5,44.92,0.89,-0.0,0.06,0.03,0.23,0.32,0.08,-0.01,0.01,Very Low,Negligible corrosion detected
+Mbeya,19/09/2025,93.25,65.22,1.88,1.0,0.27,0.22,0.41,0.55,0.67,0.52,0.41,0.28,High,Severe corrosion (oxidation and MIC)
+Morogoro,05/03/2022,91.53,64.02,1.94,2.08,0.13,0.81,0.19,0.46,0.73,0.47,0.74,0.03,Severe,Metal loss in carbon steel
+Arusha,02/12/2023,58.9,41.19,25.91,0.1,0.74,4.57,1.85,0.84,0.59,1.42,1.78,0.2,Moderate,Moderate crevice corrosion
+Pemba,09/12/2023,62.57,43.76,26.66,1.57,0.42,2.83,0.82,2.77,0.7,0.65,0.01,0.51,Moderate,Selective corrosion activity
+Tabora,27/08/2021,85.75,59.97,1.12,0.83,0.41,2.12,1.16,2.14,1.0,2.17,1.7,0.72,Severe,Deep penetration corrosion
+Kilifi,25/08/2022,65.28,45.66,23.33,1.55,0.5,1.24,0.44,0.66,0.36,0.91,1.28,0.76,Moderate,Erosive wear from particulate ingress
+Lindi,25/02/2021,76.31,53.37,23.65,1.59,0.05,0.2,0.1,0.5,0.42,0.1,0.05,0.05,Moderate,General surface corrosion
+Pemba,22/08/2021,74.46,52.08,19.23,1.82,0.25,0.48,0.06,1.43,0.16,0.78,0.55,0.73,Moderate,Moderate pitting observed
+Songosongo,14/11/2022,58.3,40.78,26.51,1.06,1.27,3.0,2.1,3.92,0.25,0.38,1.2,0.68,Moderate,Uniform corrosion with scaling
+Kilifi,19/03/2022,63.87,44.67,34.91,1.04,0.05,0.2,0.1,0.5,0.34,0.1,0.05,0.05,Low,Protective oxide layer formation
+Njombe,11/12/2021,80.19,56.09,3.14,3.94,0.91,3.27,0.12,2.78,0.85,0.73,0.72,0.62,Severe,Severe localized attack
+Tabora,18/09/2021,74.0,51.76,18.97,0.34,0.05,1.55,0.84,1.76,0.55,0.55,0.58,0.58,Moderate,Uniform corrosion with scaling
+Zanzibar,04/11/2020,88.87,62.16,6.66,3.34,0.05,0.2,0.1,0.5,1.35,0.1,0.05,0.05,High,Extensive uniform corrosion
+Songosongo,26/12/2021,90.58,63.35,1.87,3.07,0.09,0.9,0.11,1.02,1.2,0.36,0.37,0.2,High,Severe intergranular attack
+Kigoma,16/07/2025,61.78,43.21,22.13,0.12,0.81,5.32,2.39,4.25,0.22,0.43,0.54,0.72,Moderate,Uniform corrosion with scaling
+Mtwara,15/03/2025,76.48,53.49,4.71,2.31,1.1,4.33,1.83,2.68,1.26,2.5,0.73,0.58,Severe,Rapid corrosion propagation
+Iringa,12/01/2025,92.98,65.03,4.32,1.05,0.04,0.13,0.11,0.33,0.75,0.12,0.07,0.06,Severe,Rapid corrosion propagation
+Mtwara,16/08/2023,90.95,63.61,5.49,1.24,0.12,0.23,0.23,0.49,0.76,0.15,0.13,0.18,Severe,Severe localized attack
+Madimba,18/07/2023,74.49,52.1,20.57,0.83,0.15,0.49,0.47,0.69,0.57,0.24,0.07,0.25,Moderate,Moderate pitting observed
+Shinyanga,10/09/2021,77.12,53.94,24.6,1.22,0.05,0.2,0.1,0.5,0.18,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Tanga,06/12/2024,57.58,40.27,23.16,0.75,1.33,6.02,0.23,4.09,0.19,1.83,1.96,0.65,Low,Slight discoloration only
+Ruvuma,06/10/2020,53.38,37.34,37.7,0.92,0.23,0.33,0.23,2.8,0.34,1.39,0.1,0.33,Low,Protective oxide layer formation
+Kagera,04/04/2025,78.68,55.03,6.68,1.84,1.48,1.68,2.78,0.71,1.21,1.16,1.98,0.43,Severe,Metal loss in carbon steel
+Dar es Salaam,16/12/2024,55.0,38.47,33.51,0.95,0.56,3.24,0.32,3.76,0.08,0.92,0.54,0.27,Low,Acceptable corrosion rates
+Zanzibar,25/05/2023,66.78,46.71,26.88,0.86,0.21,1.26,0.81,0.7,0.63,0.2,0.91,0.46,Moderate,Erosive wear from particulate ingress
+Songosongo,30/01/2023,51.96,36.34,28.79,0.48,1.36,5.33,1.54,3.84,0.32,1.82,1.22,0.5,Low,Acceptable corrosion rates
+Mbeya,18/08/2020,82.18,57.48,10.19,2.32,0.11,0.13,0.56,1.35,0.96,0.84,0.04,0.35,Severe,Significant wall thinning
+Morogoro,12/12/2023,84.09,58.81,8.37,2.5,0.4,0.31,0.45,1.39,0.68,0.61,0.57,0.58,Severe,Significant wall thinning
+Pwani,09/09/2025,57.81,40.44,25.84,0.51,1.14,0.45,1.63,5.77,0.71,1.92,1.29,0.62,Moderate,Selective corrosion activity
+Madimba,30/10/2020,59.44,41.57,20.79,1.94,0.69,2.35,2.7,5.95,0.27,0.76,1.01,0.72,Moderate,Uniform corrosion with scaling
+Ruvuma,25/06/2023,86.49,60.49,5.44,1.62,0.18,1.45,0.42,1.33,1.47,0.43,0.5,0.68,Severe,Significant wall thinning
+Morogoro,06/03/2025,66.06,46.2,14.83,0.75,1.32,6.09,2.16,2.43,0.76,2.21,1.25,0.72,Moderate,Selective corrosion activity
+Zanzibar,25/01/2025,50.07,35.02,25.33,0.93,0.58,6.67,0.97,7.34,0.31,2.08,1.48,0.38,Low,Minimal corrosion activity
+Kagera,03/06/2020,61.65,43.12,23.69,1.48,0.32,2.06,1.68,4.68,0.29,0.35,1.18,0.26,Moderate,General surface corrosion
+Tabora,21/08/2020,71.59,50.07,24.69,0.92,0.14,0.47,0.47,0.54,0.58,0.23,0.05,0.32,Moderate,Moderate pitting observed
+Songosongo,19/02/2024,81.45,56.97,2.07,4.38,0.04,0.41,2.64,2.07,1.39,0.64,0.28,0.53,High,Critical structural degradation
+Musoma,21/03/2023,86.27,60.34,2.45,3.75,0.18,2.37,0.95,0.77,0.48,0.69,0.42,0.77,High,Severe corrosion (oxidation and MIC)
+Rukwa,10/11/2020,61.07,42.71,21.33,0.7,0.84,2.22,2.6,6.35,0.21,0.64,1.69,0.74,Low,Light surface scaling
+Rukwa,04/01/2021,69.71,48.76,16.05,0.11,1.45,1.89,1.0,0.79,0.33,2.91,0.86,0.79,Moderate,Selective corrosion activity
+Zanzibar,07/09/2025,40.85,28.57,37.98,0.83,0.59,5.88,1.09,7.81,0.23,1.77,0.92,0.05,Low,Light surface scaling
+Dar es Salaam,23/04/2024,75.71,52.96,24.58,1.58,0.05,0.2,0.1,0.5,0.25,0.1,0.05,0.05,Moderate,Erosive wear from particulate ingress
+Singida,10/03/2025,74.02,51.77,23.63,1.99,0.0,-0.02,-0.0,0.25,0.16,0.04,0.01,0.01,Moderate,Uniform corrosion with scaling
+Mtwara,17/06/2020,67.58,47.27,26.67,1.85,0.09,0.26,1.0,0.37,0.75,0.35,0.5,0.22,Moderate,General surface corrosion
+Lindi,16/01/2025,91.75,64.17,4.01,3.7,0.05,0.2,0.1,0.5,0.84,0.1,0.05,0.05,Severe,Deep penetration corrosion
+Dar es Salaam,10/02/2022,66.3,46.37,19.24,0.42,0.87,4.34,1.31,3.02,0.48,0.53,1.6,0.26,Moderate,Erosive wear from particulate ingress
+Morogoro,09/08/2023,58.38,40.83,26.55,0.75,0.4,3.66,2.29,3.25,0.74,1.69,0.78,0.34,Moderate,Erosive wear from particulate ingress
+Zanzibar,02/05/2025,59.21,41.41,31.99,0.7,0.01,0.56,0.15,2.64,0.19,1.73,1.65,0.59,Very Low,No significant deterioration
+Lindi,15/08/2025,71.05,49.69,15.93,1.65,0.34,0.97,0.15,3.51,0.65,0.58,0.14,0.58,Moderate,Moderate crevice corrosion
+Dar es Salaam,09/09/2021,75.34,52.69,19.25,0.58,0.11,0.76,0.33,1.53,0.57,0.58,0.05,0.36,Moderate,Selective corrosion activity
+Tanga,10/09/2020,75.62,52.89,7.54,2.97,1.49,1.58,1.35,1.64,1.42,1.14,1.29,0.61,Severe,Rapid corrosion propagation
+Bukoba,19/01/2025,89.29,62.45,9.99,2.78,0.05,0.2,0.1,0.5,0.92,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Songosongo,27/02/2021,79.1,55.32,8.63,4.4,0.24,0.22,0.83,1.2,1.02,0.97,0.35,0.41,Severe,Severe localized attack
+Kigoma,07/11/2023,60.52,42.33,26.41,1.22,0.51,3.46,0.19,3.95,0.46,0.24,1.08,0.35,Moderate,Uniform corrosion with scaling
+Kigoma,11/12/2020,69.74,48.78,27.49,0.1,0.29,0.17,0.16,0.89,0.3,0.18,0.01,0.52,Moderate,Moderate pitting observed
+Tanga,28/08/2025,88.45,61.86,11.54,2.14,0.05,0.2,0.1,0.5,1.38,0.1,0.05,0.05,Severe,Significant wall thinning
+Shinyanga,07/12/2021,68.19,47.69,27.72,1.94,0.04,0.23,0.16,0.63,0.44,0.13,0.21,0.31,Moderate,Erosive wear from particulate ingress
+Njombe,09/06/2020,41.12,28.76,44.66,0.45,1.09,5.11,0.86,2.27,0.35,1.42,0.63,0.55,Low,Acceptable corrosion rates
+Mwanza,11/10/2022,35.65,24.94,44.44,0.69,0.92,5.43,0.69,7.15,0.21,0.98,1.04,0.09,Low,Light surface scaling
+Rukwa,28/11/2024,90.05,62.98,7.8,2.42,0.05,0.2,0.1,0.5,0.5,0.1,0.05,0.05,High,Critical structural degradation
+Kilifi,04/12/2024,76.41,53.44,17.4,1.8,0.3,0.53,0.1,1.18,0.5,0.47,0.01,0.09,Moderate,Uniform corrosion with scaling
+Dar es Salaam,16/11/2025,55.37,38.73,19.94,0.44,1.42,5.65,2.9,6.64,0.17,1.42,1.08,0.13,Low,Slight discoloration only
+Kagera,11/11/2025,77.73,54.37,24.16,1.37,0.05,0.2,0.1,0.5,0.23,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Kagera,12/10/2021,64.25,44.94,24.05,0.16,0.02,3.43,0.96,2.78,0.78,0.41,1.24,0.4,Moderate,Erosive wear from particulate ingress
+Kilifi,30/01/2024,88.89,62.17,6.61,4.46,0.05,0.2,0.1,0.5,0.87,0.1,0.05,0.05,Severe,Significant wall thinning
+Singida,07/03/2024,40.17,28.1,38.49,0.94,0.64,4.95,1.24,7.67,0.33,2.06,0.56,0.25,Low,Minor surface oxidation
+Njombe,04/03/2023,59.37,41.53,41.64,0.47,0.05,0.2,0.1,0.5,0.17,0.1,0.05,0.05,Low,Protective oxide layer formation
+Kigoma,05/05/2024,53.8,37.63,40.19,0.24,0.2,1.74,0.7,1.16,0.16,0.32,0.28,0.48,Low,Protective oxide layer formation
+Morogoro,01/08/2024,71.69,50.14,14.33,1.2,1.31,2.23,1.57,1.33,0.35,1.53,0.39,0.76,Moderate,Moderate pitting observed
+Iringa,17/10/2023,61.91,43.3,24.89,1.4,0.72,3.51,1.36,3.48,0.4,0.14,1.02,0.54,Moderate,Moderate crevice corrosion
+Tabora,02/08/2020,94.59,66.16,1.74,2.4,-0.02,0.08,0.02,0.29,0.91,0.07,-0.04,0.01,Severe,Significant wall thinning
+Mwanza,02/10/2023,76.6,53.57,10.11,3.91,0.28,1.2,2.02,1.24,0.75,1.4,0.89,0.12,High,Critical structural degradation
+Madimba,26/09/2020,77.36,54.11,15.42,0.44,0.18,1.52,0.26,2.0,0.16,0.92,0.15,0.34,Moderate,General surface corrosion
+Tanga,12/09/2023,47.09,32.94,36.83,0.94,0.61,3.76,1.12,5.27,0.37,0.64,1.01,0.49,Low,Minimal corrosion activity
+Dar es Salaam,22/01/2021,51.22,35.83,34.75,0.55,0.38,1.22,2.63,2.49,0.13,1.42,0.09,0.54,Low,Light surface scaling
+Mwanza,02/05/2024,64.58,45.17,25.8,0.65,0.42,3.1,0.58,1.17,0.28,1.52,0.96,0.07,Low,Acceptable corrosion rates
+Musoma,09/03/2023,71.96,50.33,15.11,1.34,0.32,3.04,0.96,1.4,0.38,0.79,0.82,0.16,Moderate,Uniform corrosion with scaling
+Madimba,29/10/2022,78.09,54.62,5.71,4.18,0.07,3.19,1.86,1.27,0.82,0.97,1.84,0.78,High,Critical structural degradation
+Dodoma,07/09/2021,69.11,48.34,17.15,0.96,1.18,4.16,0.09,2.46,0.2,1.41,0.44,0.15,Moderate,Moderate crevice corrosion
+Pwani,27/09/2023,80.1,56.02,5.16,1.51,1.02,2.52,0.92,4.37,0.83,1.03,0.18,0.17,Severe,Metal loss in carbon steel
+Bukoba,29/11/2020,94.15,65.85,2.6,1.46,0.04,0.24,0.06,0.3,0.86,0.1,0.11,0.08,High,Critical structural degradation
+Tanga,02/08/2021,77.95,54.52,18.0,1.11,0.06,0.58,0.29,0.44,0.4,0.2,0.18,0.41,Moderate,Moderate pitting observed
+Cyclone,03/12/2023,54.07,37.82,27.17,0.17,0.12,6.97,0.31,3.81,0.38,1.41,1.26,0.07,Very Low,Stable protective coating
+Ruvuma,24/06/2023,54.96,38.44,30.55,0.31,2.32,1.41,0.67,1.86,0.39,1.72,1.22,0.25,Low,Protective oxide layer formation
+Arusha,24/05/2024,69.37,48.52,14.55,1.23,0.72,0.21,1.64,2.63,0.56,2.97,1.93,0.09,Moderate,Moderate pitting observed
+Ruvuma,12/06/2021,77.29,54.06,7.28,1.81,0.39,2.69,1.43,3.97,1.05,1.65,0.34,0.14,Severe,Severe localized attack
+Musoma,13/12/2020,71.39,49.93,14.06,0.18,1.59,1.38,0.54,3.44,0.22,1.82,0.67,0.47,Moderate,Moderate crevice corrosion
+Kilifi,22/06/2023,56.15,39.27,32.67,0.03,0.31,2.81,1.66,3.99,0.08,0.67,0.51,0.32,Low,Slight discoloration only
+Dar es Salaam,22/03/2024,69.61,48.69,21.53,1.87,0.25,1.1,0.44,2.21,0.71,0.68,0.09,0.31,Moderate,Moderate pitting observed
+Bukoba,07/09/2023,75.97,53.13,10.25,3.38,1.01,2.52,0.8,2.25,1.11,0.23,0.65,0.54,High,Critical structural degradation
+Singida,07/06/2021,56.26,39.35,24.68,1.91,0.13,3.81,1.25,6.64,0.25,1.31,1.13,0.07,Moderate,Moderate pitting observed
+Tanga,26/11/2025,67.71,47.36,23.6,1.76,0.52,1.26,0.74,2.38,0.31,0.23,0.83,0.62,Moderate,Moderate crevice corrosion
+Morogoro,17/01/2021,81.05,56.68,6.38,3.99,0.2,2.0,0.47,2.24,0.58,0.13,0.72,0.14,High,Advanced galvanic corrosion
+Pemba,30/09/2024,40.66,28.44,38.63,1.15,0.67,3.91,1.39,7.4,0.16,1.31,0.47,0.32,Low,Minor surface oxidation
+Lindi,13/09/2025,67.14,46.96,17.74,1.55,0.67,4.73,0.82,3.12,0.62,1.55,0.79,0.53,Moderate,Uniform corrosion with scaling
+Lindi,22/01/2024,63.01,44.07,33.21,0.14,0.27,0.87,0.68,0.77,0.17,0.27,0.23,0.14,Low,Minimal corrosion activity
+Bukoba,15/03/2020,53.64,37.52,30.97,0.07,0.45,4.68,1.4,2.81,0.1,0.5,0.74,0.06,Low,Minimal corrosion activity
+Singida,25/01/2024,68.97,48.24,18.44,0.22,1.23,2.88,1.04,1.8,0.42,1.1,0.33,0.5,Moderate,Selective corrosion activity
+Mbeya,19/06/2023,62.02,43.38,20.82,1.48,0.78,4.46,2.57,4.16,0.46,1.05,0.01,0.43,Moderate,Erosive wear from particulate ingress
+Rukwa,08/01/2022,51.82,36.24,26.51,0.3,0.43,4.77,1.85,6.66,0.12,2.04,0.89,0.51,Low,Slight discoloration only
+Songosongo,27/05/2022,73.21,51.21,24.33,0.65,0.06,0.26,0.25,0.47,0.44,0.11,0.08,0.14,Moderate,Moderate pitting observed
+Musoma,31/10/2023,56.97,39.84,23.04,0.2,2.16,1.8,1.79,5.65,0.39,1.65,1.46,0.67,Very Low,Passive corrosion behavior
+Iringa,14/06/2025,50.71,35.46,44.52,1.13,0.08,0.78,0.38,1.13,0.38,0.13,0.01,0.12,Low,Slight discoloration only
+Singida,25/02/2022,58.37,40.83,24.89,1.81,0.98,5.36,2.42,1.69,0.2,1.99,1.34,0.33,Moderate,Selective corrosion activity
+Kagera,16/07/2022,55.34,38.7,39.77,0.37,0.4,0.47,0.51,1.42,0.24,0.47,0.17,0.75,Low,Minor surface oxidation
+Mtwara,17/07/2021,89.62,62.68,7.66,3.71,0.05,0.2,0.1,0.5,0.67,0.1,0.05,0.05,Severe,Deep penetration corrosion
+Ruvuma,26/09/2021,53.5,37.42,27.23,0.76,1.5,5.38,1.77,3.01,0.24,0.34,1.38,0.3,Low,Slight discoloration only
+Ruvuma,12/11/2020,89.47,62.58,6.56,3.81,0.05,0.2,0.1,0.5,0.84,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Pwani,26/04/2023,79.62,55.69,4.98,1.75,1.13,0.92,2.34,4.64,1.35,0.53,0.99,0.02,High,Severe corrosion (oxidation and MIC)
+Shinyanga,18/02/2021,63.26,44.24,20.61,0.16,0.42,3.01,1.08,5.46,0.33,1.62,0.48,0.4,Very Low,Negligible corrosion detected
+Mbeya,10/09/2025,44.35,31.02,40.67,1.15,0.89,1.67,2.41,4.4,0.38,1.84,0.92,0.18,Low,Acceptable corrosion rates
+Lindi,26/11/2025,55.58,38.88,40.07,0.44,0.24,0.46,0.72,1.13,0.08,0.3,0.54,0.03,Very Low,Stable protective coating
+Mbeya,03/06/2020,37.35,26.13,41.27,0.84,0.13,7.84,2.95,3.1,0.12,0.66,0.55,0.32,Very Low,No significant deterioration
+Rukwa,11/10/2023,71.24,49.82,12.72,0.67,0.89,2.07,1.87,5.01,0.51,2.13,0.34,0.59,Moderate,Uniform corrosion with scaling
+Pemba,20/06/2021,72.16,50.47,14.05,1.04,0.41,2.55,2.51,2.56,0.52,1.66,0.7,0.42,Moderate,Erosive wear from particulate ingress
+Zanzibar,23/03/2024,76.86,53.76,16.44,1.33,0.03,1.17,0.58,1.33,0.5,0.21,0.32,0.35,Moderate,Erosive wear from particulate ingress
+Pwani,23/09/2021,57.6,40.29,42.67,0.42,0.05,0.2,0.1,0.5,0.1,0.1,0.05,0.05,Very Low,Stable protective coating
+Tabora,26/10/2021,44.29,30.98,43.31,0.24,0.39,4.61,0.85,2.17,0.05,0.26,1.0,0.16,Very Low,Passive corrosion behavior
+Shinyanga,10/01/2022,74.24,51.92,12.79,1.76,0.81,2.88,0.99,1.42,0.25,1.93,0.19,0.5,Moderate,General surface corrosion
+Tabora,09/11/2021,44.38,31.04,38.89,0.83,0.23,6.63,2.26,2.33,0.31,0.53,0.63,0.37,Low,Light surface scaling
+Kigoma,27/11/2024,90.57,63.34,3.99,3.95,-0.01,0.1,0.04,0.26,1.05,0.09,-0.01,0.01,Severe,Rapid corrosion propagation
+Mbeya,27/06/2020,56.34,39.4,40.98,1.2,0.05,0.22,0.17,0.41,0.31,0.13,0.09,0.1,Low,Slight discoloration only
+Ruvuma,09/08/2024,58.52,40.93,31.86,0.15,0.12,1.88,0.47,3.6,0.23,0.39,1.26,0.56,Low,Protective oxide layer formation
+Bukoba,01/02/2024,58.65,41.02,26.59,0.25,1.79,1.76,1.27,2.15,0.3,2.17,0.37,0.55,Moderate,Moderate crevice corrosion
+Songosongo,30/08/2022,77.55,54.24,12.12,0.67,0.59,0.28,2.11,0.81,0.49,1.78,1.36,0.44,Moderate,Moderate pitting observed
+Cyclone,24/12/2024,68.72,48.07,15.19,1.37,0.28,2.66,2.33,2.7,0.32,1.05,0.51,0.18,Moderate,Uniform corrosion with scaling
+Madimba,13/03/2023,84.41,59.04,5.58,3.42,0.29,1.09,0.72,2.06,1.38,0.32,0.37,0.37,Severe,Deep penetration corrosion
+Kagera,12/01/2025,72.92,51.0,16.15,1.13,0.43,0.26,1.38,3.4,0.38,0.71,1.72,0.68,Moderate,General surface corrosion
+Pwani,16/08/2022,77.83,54.43,12.39,1.06,0.42,2.08,0.92,2.9,0.5,0.22,0.78,0.46,Moderate,Moderate crevice corrosion
+Pwani,27/12/2025,80.54,56.33,10.57,1.7,0.01,1.09,1.63,0.3,1.09,0.13,0.5,0.73,Severe,Critical stress corrosion cracking
+Lindi,06/09/2022,85.38,59.71,4.65,2.85,0.08,0.32,0.8,2.16,0.67,0.84,0.71,0.47,High,Extensive uniform corrosion
+Pemba,21/06/2023,79.7,55.74,7.26,1.89,0.06,4.24,1.26,1.08,1.48,1.04,0.37,0.06,Severe,Severe localized attack
+Rukwa,05/04/2025,77.57,54.25,21.0,0.3,0.07,0.14,0.07,0.37,0.15,0.12,0.02,0.19,Moderate,Erosive wear from particulate ingress
+Singida,05/03/2022,63.74,44.58,37.44,0.71,0.05,0.2,0.1,0.5,0.28,0.1,0.05,0.05,Very Low,Optimal material performance
+Cyclone,15/02/2024,60.43,42.27,36.35,0.47,0.03,0.46,0.24,0.49,0.13,0.22,0.59,0.06,Low,Minimal corrosion activity
+Dar es Salaam,09/12/2024,77.51,54.21,7.19,1.04,0.73,3.07,0.89,2.77,0.95,1.78,0.68,0.66,Severe,Critical stress corrosion cracking
+Mtwara,06/03/2025,82.87,57.96,11.12,3.94,0.03,0.35,0.07,0.33,0.99,0.1,0.09,0.11,Severe,Significant wall thinning
+Njombe,28/02/2023,76.89,53.78,12.97,0.28,0.28,1.48,0.13,3.61,0.54,0.44,0.68,0.04,Moderate,Erosive wear from particulate ingress
+Pwani,13/04/2024,85.31,59.67,1.74,3.28,0.47,3.08,0.84,2.28,0.46,1.07,0.08,0.17,High,Extensive uniform corrosion
+Mwanza,21/08/2025,65.2,45.6,18.7,0.65,1.34,0.58,0.88,5.49,0.44,1.66,1.26,0.75,Moderate,Moderate pitting observed
+Musoma,30/11/2025,86.14,60.25,5.96,1.59,0.02,1.62,0.44,1.77,1.16,0.32,0.05,0.13,Severe,Critical stress corrosion cracking
+Pemba,10/09/2024,63.46,44.39,37.09,1.17,0.05,0.2,0.1,0.5,0.31,0.1,0.05,0.05,Very Low,Stable protective coating
+Morogoro,25/10/2021,72.38,50.63,19.78,1.73,0.11,1.23,1.07,1.33,0.55,0.34,0.41,0.17,Moderate,Uniform corrosion with scaling
+Mbeya,28/03/2022,75.78,53.0,25.69,1.27,0.05,0.2,0.1,0.5,0.26,0.1,0.05,0.05,Moderate,Uniform corrosion with scaling
+Tanga,20/07/2021,87.04,60.87,7.96,0.92,0.17,0.7,0.58,0.36,1.45,0.1,0.21,0.28,High,Aggressive pitting corrosion
+Shinyanga,21/10/2022,75.34,52.69,18.55,1.85,0.25,0.89,0.99,0.43,0.33,0.41,0.07,0.12,Moderate,Moderate pitting observed
+Zanzibar,01/08/2020,76.88,53.77,26.04,0.79,0.05,0.2,0.1,0.5,0.23,0.1,0.05,0.05,Moderate,Selective corrosion activity
+Ruvuma,22/05/2025,68.81,48.13,12.05,1.73,1.19,7.31,0.5,1.74,0.27,0.21,1.06,0.68,Moderate,Selective corrosion activity
+Iringa,29/02/2024,85.77,59.99,8.98,4.24,0.01,0.09,0.04,0.14,0.69,0.04,0.01,0.01,High,Advanced galvanic corrosion
+Kilifi,24/02/2021,89.58,62.65,11.52,1.65,0.05,0.2,0.1,0.5,0.43,0.1,0.05,0.05,Severe,Metal loss in carbon steel
+Rukwa,14/10/2025,60.98,42.65,18.49,0.19,0.76,6.32,2.09,7.02,0.56,0.87,1.38,0.38,Moderate,Moderate crevice corrosion
+Ruvuma,25/05/2021,84.65,59.21,6.79,2.23,0.41,0.71,0.68,1.59,1.14,0.81,0.14,0.16,Severe,Rapid corrosion propagation
+Kigoma,13/03/2023,64.54,45.14,17.55,0.15,0.37,2.91,1.44,5.51,0.67,1.72,1.06,0.02,Moderate,Moderate crevice corrosion
+Mwanza,09/12/2020,62.4,43.64,27.13,1.03,0.3,3.02,1.06,1.28,0.76,1.3,0.81,0.62,Moderate,Selective corrosion activity
+Arusha,18/10/2021,73.3,51.27,13.96,0.6,0.13,1.87,1.39,4.44,0.43,1.04,0.67,0.57,Moderate,Moderate pitting observed
+Zanzibar,22/01/2023,78.36,54.81,2.05,2.32,2.01,3.81,0.73,2.69,0.67,0.76,1.93,0.27,High,Severe corrosion (oxidation and MIC)
+Tabora,14/01/2025,60.94,42.62,22.77,1.86,0.53,3.99,1.61,0.56,0.67,0.95,1.16,0.57,Moderate,Erosive wear from particulate ingress
+Dodoma,03/10/2025,54.61,38.2,31.74,0.32,0.49,2.69,0.87,1.92,0.24,0.12,1.4,0.62,Very Low,Stable protective coating
+Pemba,26/08/2021,47.44,33.18,42.29,0.56,0.41,0.61,1.51,2.92,0.13,1.59,1.1,0.66,Low,Protective oxide layer formation
+Tanga,26/11/2024,44.46,31.09,39.07,0.54,0.4,5.48,1.08,3.91,0.3,1.68,1.54,0.21,Low,Protective oxide layer formation
+Pemba,10/01/2021,52.11,36.45,24.19,0.26,0.85,7.13,2.04,6.42,0.16,2.5,0.15,0.09,Low,Acceptable corrosion rates
+Pemba,28/06/2022,62.54,43.74,19.46,0.52,1.29,5.68,2.23,2.79,0.58,1.85,0.55,0.52,Moderate,Moderate pitting observed
+Lindi,21/01/2025,86.59,60.56,5.56,3.72,0.13,1.35,0.45,0.35,1.05,0.34,0.06,0.03,Severe,Deep penetration corrosion
+Rukwa,02/12/2023,82.93,58.0,7.18,1.78,0.12,1.32,1.11,2.0,0.86,0.98,0.35,0.36,Severe,Deep penetration corrosion
+Madimba,19/04/2020,82.31,57.57,8.19,2.21,0.03,1.79,0.47,2.46,0.86,0.48,0.51,0.57,High,Advanced galvanic corrosion
+Iringa,26/08/2024,76.72,53.66,12.05,1.8,1.19,0.25,0.21,0.74,0.76,1.11,0.81,0.03,Moderate,Moderate crevice corrosion
+Dodoma,06/08/2020,77.37,54.11,25.09,0.54,0.05,0.2,0.1,0.5,0.61,0.1,0.05,0.05,Moderate,Moderate crevice corrosion
+Dar es Salaam,11/06/2024,64.73,45.27,36.43,0.91,0.05,0.2,0.1,0.5,0.19,0.1,0.05,0.05,Very Low,Optimal material performance
+Cyclone,18/08/2025,60.83,42.54,25.38,0.17,0.58,4.67,2.13,1.09,0.73,0.44,0.85,0.61,Moderate,Moderate crevice corrosion
+Tabora,11/03/2024,76.9,53.78,9.38,2.88,0.46,2.35,2.2,0.82,1.26,0.6,1.51,0.08,Severe,Rapid corrosion propagation
+Tanga,23/08/2022,81.22,56.81,3.58,0.81,0.79,4.57,0.68,0.79,0.5,2.81,0.93,0.35,Severe,Severe localized attack
+Iringa,30/04/2024,65.4,45.74,26.08,0.34,0.82,1.96,1.38,0.51,0.43,0.5,1.04,0.52,Moderate,Uniform corrosion with scaling
+Bukoba,30/11/2020,77.12,53.94,21.24,0.62,0.02,0.1,0.05,0.27,0.35,0.09,0.03,0.08,Moderate,Erosive wear from particulate ingress
+Kagera,15/03/2024,79.02,55.27,11.54,1.49,0.15,2.28,0.73,1.26,1.05,0.33,0.52,0.69,Severe,Critical stress corrosion cracking
+Kagera,08/07/2022,50.48,35.31,32.03,0.61,0.37,3.94,1.78,4.68,0.27,0.47,0.53,0.74,Very Low,Excellent corrosion resistance
+Dodoma,25/04/2020,86.06,60.19,2.22,1.73,0.28,0.39,1.64,3.1,1.39,0.67,1.12,0.5,Severe,Critical stress corrosion cracking
+Musoma,29/07/2023,76.49,53.5,4.51,1.98,1.86,1.89,1.36,3.42,0.76,1.17,1.21,0.53,Severe,Deep penetration corrosion
+Zanzibar,09/02/2021,61.82,43.24,39.04,0.71,0.05,0.2,0.1,0.5,0.31,0.1,0.05,0.05,Low,Light surface scaling
+Pemba,05/10/2023,41.95,29.34,44.52,0.66,0.56,0.22,0.46,4.56,0.33,0.34,0.89,0.52,Low,Minimal corrosion activity
+Zanzibar,21/08/2021,75.77,53.0,14.62,1.89,0.71,1.3,1.33,1.51,0.7,0.2,0.8,0.7,Moderate,Moderate pitting observed
+Rukwa,17/07/2021,85.36,59.7,2.83,1.15,0.61,3.78,0.68,0.68,0.76,1.86,0.25,0.39,High,Extensive uniform corrosion
+Mtwara,05/06/2020,66.33,46.39,12.5,1.12,0.1,6.16,2.46,3.95,0.6,0.71,1.41,0.78,Moderate,Moderate crevice corrosion
+Kigoma,21/03/2023,77.19,53.99,16.41,1.06,0.29,1.0,0.64,1.5,0.28,0.61,0.04,0.64,Moderate,General surface corrosion
+Arusha,19/04/2025,75.57,52.86,18.66,0.49,0.75,0.18,0.29,1.61,0.35,0.32,0.61,0.12,Moderate,Erosive wear from particulate ingress
+Tabora,22/07/2021,57.66,40.33,27.73,0.73,0.54,1.61,0.31,4.57,0.21,2.63,0.7,0.17,Low,Slight discoloration only
+Bukoba,05/04/2025,79.35,55.5,10.69,3.16,0.42,0.92,0.88,2.16,0.44,0.42,0.25,0.03,Severe,Rapid corrosion propagation
+Bukoba,11/01/2025,75.33,52.69,2.86,3.85,0.67,1.26,2.6,5.69,0.83,1.54,1.33,0.28,High,Advanced galvanic corrosion
+Singida,22/01/2020,71.87,50.27,15.21,0.69,0.5,1.98,1.24,3.78,0.67,1.3,0.69,0.8,Moderate,General surface corrosion
+Zanzibar,20/11/2020,48.71,34.07,36.55,1.06,1.27,1.61,2.56,1.99,0.36,1.19,0.3,0.61,Low,Protective oxide layer formation
+Pemba,18/03/2020,61.18,42.79,23.15,1.04,0.45,2.94,0.7,3.8,0.16,2.14,0.56,0.38,Moderate,Erosive wear from particulate ingress
+Pwani,14/11/2022,76.36,53.41,18.34,0.37,0.37,0.78,0.71,1.51,0.19,0.29,0.35,0.73,Moderate,Moderate pitting observed
+Pwani,02/06/2022,45.57,31.87,34.2,0.92,1.25,1.82,0.79,7.49,0.06,1.51,1.53,0.32,Very Low,Optimal material performance
+Arusha,04/09/2021,67.3,47.07,26.63,0.85,0.15,0.1,1.24,0.98,0.7,0.2,0.18,0.15,Moderate,Uniform corrosion with scaling
+Njombe,01/12/2025,86.59,60.56,3.55,4.34,0.23,1.17,0.49,1.8,0.93,0.17,0.16,0.43,Severe,Rapid corrosion propagation
+Mbeya,29/09/2024,69.02,48.27,22.59,1.48,0.11,1.8,0.45,1.39,0.19,0.45,0.64,0.79,Moderate,Moderate pitting observed
+Kagera,31/03/2021,64.65,45.22,34.01,1.07,0.0,0.05,0.02,0.01,0.24,-0.01,0.01,0.01,Low,Protective oxide layer formation
+Shinyanga,26/03/2023,49.84,34.86,22.62,0.65,2.46,7.86,2.56,4.82,0.19,2.23,1.47,0.72,Low,Minor surface oxidation
+Tabora,31/08/2022,58.41,40.85,29.24,1.06,0.44,4.93,0.2,0.54,0.17,1.64,1.9,0.34,Very Low,Negligible corrosion detected
+Pemba,18/05/2023,80.65,56.41,7.55,1.91,0.21,3.05,1.1,1.88,1.5,0.77,0.32,0.16,Severe,Significant wall thinning
+Kagera,14/05/2021,94.19,65.88,4.26,3.56,0.05,0.2,0.1,0.5,0.67,0.1,0.05,0.05,High,Advanced galvanic corrosion
+Songosongo,14/07/2020,76.33,53.39,4.91,3.92,1.01,0.51,1.09,4.7,0.86,2.86,1.51,0.61,High,Critical structural degradation
+Lindi,03/09/2022,76.31,53.37,23.85,0.88,0.05,0.2,0.1,0.5,0.2,0.1,0.05,0.05,Very Low,Passive corrosion behavior
+Kilifi,15/09/2024,53.55,37.46,29.56,0.08,0.42,5.05,0.77,5.13,0.13,0.31,0.22,0.26,Very Low,Optimal material performance
+Iringa,15/02/2025,77.39,54.13,15.52,0.86,0.93,0.59,1.45,0.66,0.26,0.17,0.68,0.44,Moderate,Selective corrosion activity
+Arusha,14/09/2020,70.88,49.57,17.26,1.0,0.11,1.03,1.0,3.93,0.32,0.71,0.38,0.16,Moderate,Uniform corrosion with scaling
+Madimba,30/03/2021,64.35,45.01,23.34,1.59,0.62,2.98,1.28,2.48,0.27,0.93,0.08,0.59,Moderate,General surface corrosion
+Dar es Salaam,09/08/2025,47.87,33.48,40.65,0.3,0.1,3.21,1.73,2.93,0.22,0.93,1.05,0.5,Low,Slight discoloration only
+Dodoma,08/03/2020,76.19,53.29,15.83,0.57,0.4,1.12,0.94,2.15,0.48,0.54,0.87,0.15,Moderate,Uniform corrosion with scaling
+Kagera,11/10/2025,73.11,51.13,17.17,0.95,0.52,1.02,0.72,2.81,0.16,0.61,1.24,0.62,Moderate,Uniform corrosion with scaling
+Dar es Salaam,17/09/2022,70.25,49.14,16.75,1.47,0.82,2.48,1.25,4.08,0.21,0.18,0.86,0.68,Moderate,Moderate pitting observed
+Musoma,11/08/2021,94.14,65.84,1.12,3.97,0.05,0.2,0.1,0.5,1.37,0.1,0.05,0.05,High,Aggressive pitting corrosion
+Singida,08/04/2023,59.05,41.3,34.47,0.34,0.44,0.32,0.66,1.94,0.06,1.05,0.02,0.33,Very Low,Negligible corrosion detected
+Tabora,24/10/2024,51.94,36.33,35.69,1.16,0.4,4.55,0.47,1.77,0.13,1.01,1.33,0.7,Very Low,Stable protective coating
+Pemba,07/01/2020,70.19,49.09,16.46,1.14,0.17,0.79,2.44,2.7,0.33,0.26,0.69,0.1,Moderate,General surface corrosion
+Dodoma,16/12/2023,64.19,44.9,27.25,1.47,0.26,2.69,0.51,0.71,0.64,0.53,0.3,0.72,Moderate,Moderate crevice corrosion
+Madimba,12/09/2022,68.31,47.78,24.76,0.56,0.31,1.68,0.9,0.89,0.65,0.55,0.48,0.07,Moderate,Erosive wear from particulate ingress
+Shinyanga,02/09/2024,65.8,46.03,25.76,0.93,1.5,0.47,0.13,0.96,0.17,0.71,0.55,0.53,Moderate,Moderate pitting observed
+Lindi,06/02/2022,49.07,34.32,25.88,1.18,1.75,4.2,0.96,9.39,0.35,2.05,0.35,0.37,Low,Slight discoloration only
+Kagera,16/12/2020,66.98,46.85,25.62,1.65,0.32,1.73,0.4,1.43,0.3,0.71,0.11,0.21,Moderate,General surface corrosion
+Tabora,14/11/2025,64.42,45.06,29.43,1.01,0.38,0.44,0.44,1.4,0.31,0.57,0.52,0.38,Low,Minor surface oxidation
+Dar es Salaam,17/01/2024,66.46,46.48,20.66,0.93,0.51,3.02,1.28,2.95,0.73,1.06,0.05,0.8,Moderate,Selective corrosion activity
