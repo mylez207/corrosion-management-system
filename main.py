@@ -9,7 +9,7 @@ from datetime import datetime
 # ---------------------------
 @st.cache_resource
 def load_model():
-    with open("logistic_model_scaled.pkl", "rb") as f:
+    with open("xgboost_corrosion_model.pkl", "rb") as f:
         data = pickle.load(f)
     return data["model"], data["label_encoder"], data["scaler"]
 
@@ -101,7 +101,7 @@ if page == "Data Overview":
 # Page 2: Model Testing
 # ---------------------------
 elif page == "Model Testing":
-    st.title("Test Logistic Regression Model")
+    st.title("Test The  Model")
     st.write("Enter values manually or upload a file for predictions.")
 
     # Manual input
