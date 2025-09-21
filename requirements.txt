@@ -1,8 +1,6 @@
-
-scikit-learn
-
 streamlit
+xgboost
+scikit-learn
+joblib
 pandas
 numpy
-
-
