@@ -1173,6 +1173,7 @@ import os
 import sqlite3
 from hashlib import sha256
 import secrets
+from pathlib import Path
 
 # ---------------------------
 # AUTHENTICATION SYSTEM
@@ -1516,8 +1517,9 @@ def load_model():
     """Flexible model loading function that handles multiple PKL formats"""
     try:
         # Assume the complete package is renamed to "complete_deployment_package.pkl" for simplicity
-        package_filename = "complete_deployment_package_20250921_025645.pkl"
-        
+        # package_filename = "complete_deployment_package_20250921_025645.pkl"
+        package_filename = Path.cwd() / "complete_deployment_package_20250921_025645.pkl"
+
         # First try with pickle
         try:
             with open(package_filename, "rb") as f:
